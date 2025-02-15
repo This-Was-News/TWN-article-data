@@ -1,0 +1,2 @@
+# Ignore this .gitignore file -- results in at least an empty directory in the git repo tree
+!.gitignore
