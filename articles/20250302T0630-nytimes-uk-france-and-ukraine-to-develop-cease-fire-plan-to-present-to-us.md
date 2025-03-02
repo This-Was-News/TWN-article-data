@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/03/02/us/trump-news-zelensky-europe
+title: U.K., France and Ukraine to Develop Cease-Fire Plan to Present to U.S.
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+British Prime Minister Keir Starmer announced a collaborative effort with France and Ukraine to develop a cease-fire plan aimed at ending the ongoing war in Ukraine, particularly in light of recent tensions following a contentious meeting between President Trump and Ukrainian President Volodymyr Zelensky. Starmer emphasized that any peace agreement would require U.S. support, reflecting a shift in U.S. foreign policy that raises concerns about potential concessions to Russia. European leaders are increasingly rallying behind Ukraine, aiming to bolster their defenses and secure a unified approach to support the embattled nation. Meanwhile, a federal judge blocked the Trump administration's attempt to remove the head of a federal watchdog agency, reinforcing protections for whistle-blowers. In a separate development, the Pentagon is deploying additional troops to the U.S.-Mexico border, responding to Trump's directive to enhance military involvement in immigration control. Protests erupted across national parks against the administration's recent job cuts impacting the National Park Service, highlighting public discontent with federal employment policies. The political landscape is further complicated by mixed reactions from Ukrainian Americans regarding Trump's hardline stance on Ukraine. Amid these tensions, European leaders are contemplating how to ensure security for Ukraine in any future peace deal while addressing their own defense capabilities. The evolving dynamics underscore the urgency for Europe to adapt to a potentially less reliable U.S. partnership.
