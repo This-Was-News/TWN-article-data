@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/03/12/climate/epa-zeldin-rollbacks-pollution.html
+title: "E.P.A. Declares \u2018Greatest Day of Deregulation Our Nation Has Seen\u2019"
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The Environmental Protection Agency (E.P.A.), under Administrator Lee Zeldin, announced significant rollbacks of environmental regulations, labeling it the "greatest day of deregulation" in U.S. history. The Trump administration plans to repeal numerous protections, including those governing air and water pollution, wetlands, and greenhouse gas emissions. Zeldin reframed the E.P.A.'s mission to focus on lowering costs for consumers and businesses rather than environmental protection, a shift from the agency's original mandate. The proposed changes include eliminating limits on soot and mercury emissions, the good neighbor rule for pollution, and the authority to regulate carbon dioxide as a public health threat. Critics, including Democrats and environmental activists, condemned these actions as detrimental to public health and the environment, claiming they prioritize industry interests over community well-being. Prominent voices from the environmental community described the day as disastrous, emphasizing the potential increase in health issues linked to pollution. The announcements are set against a backdrop of heightened climate-related disasters and ongoing debates about the reality of climate change. Industry groups, however, praised the rollbacks as necessary for economic growth and competitiveness. The changes will require a lengthy public comment process before becoming law. Overall, the E.P.A.'s new direction marks a stark departure from previous environmental policies aimed at safeguarding public health and the environment.
