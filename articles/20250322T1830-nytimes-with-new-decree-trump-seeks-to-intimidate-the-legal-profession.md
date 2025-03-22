@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/03/22/us/politics/trump-memo-lawyers.html
+title: With New Decree, Trump Seeks to Intimidate the Legal Profession
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Trump has issued a new memorandum that threatens punitive actions against lawyers and law firms that challenge his administration, intensifying his campaign against those he perceives as adversaries. The memorandum instructs the Justice and Homeland Security Departments to seek sanctions against attorneys engaged in what Trump labels frivolous litigation. This directive follows a turbulent week for the legal community, particularly affecting the law firm Paul Weiss, which negotiated a deal with the White House to avoid punitive measures after Trump suspended security clearances for its lawyers. Critics, including civil rights lawyer Vanita Gupta, argue that the memo undermines the legal system by intimidating those who hold the government accountable. Trump has long accused Democratic-leaning lawyers of using litigation as a political weapon against him. The memo specifically targets Marc Elias, a lawyer known for representing Democrats, whom Trump blames for past investigations into his conduct. Legal professionals have expressed alarm over the implications of Trump's actions, emphasizing the importance of zealous representation regardless of political affiliation. Some firms, like Keker, Van Nest & Peters, have vowed to resist the administration's threats and encourage collective action among lawyers. Trump's memorandum also suggests potential disciplinary measures against lawyers pursuing cases he deems without merit, particularly in sensitive areas like national security and election integrity. Overall, the memorandum illustrates Trump's ongoing efforts to suppress opposition within the legal profession.
