@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/03/25/us/trump-hegseth-war-plans-leak-signal
+title: Top Officials Reject Responsibility for Information Shared in Signal Chat
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+During a Senate Intelligence Committee hearing, top intelligence officials, including CIA Director John Ratcliffe and Director of National Intelligence Tulsi Gabbard, denied that classified information was shared in a Signal chat that mistakenly included a journalist. The chat discussed U.S. military operations against Houthi rebels in Yemen, sparking outrage among Democratic lawmakers who labeled the incident as careless and a significant security breach. Defense Secretary Pete Hegseth was criticized for sharing sensitive details about the strike timing and targets, with some Democrats calling for his resignation. President Trump downplayed the severity of the leak, defending Hegseth and the national security adviser, Michael Waltz, who inadvertently added the journalist to the chat. Despite assurances from the intelligence officials that no classified information was shared, the Atlantic's editor, Jeffrey Goldberg, contradicted this claim, asserting that the information discussed was sensitive. The incident has led to calls for investigations and highlighted hypocrisy among Republicans who previously criticized similar breaches by Democrats. Lawmakers expressed concern over the implications of discussing military operations on unsecured platforms, emphasizing the need for accountability. The White House has maintained that the information shared did not violate any laws, while Democrats continue to express outrage and demand transparency. The fallout from this incident raises questions about the management of classified information and the responsibilities of those in high-level security positions.
