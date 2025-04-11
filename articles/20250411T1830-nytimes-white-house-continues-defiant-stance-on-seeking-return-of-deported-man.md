@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/04/11/us/trump-news
+title: White House Continues Defiant Stance on Seeking Return of Deported Man
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+On April 11, 2025, various updates emerged regarding the Trump administration's actions on immigration and other policies. North Carolina Governor Josh Stein criticized the administration's decision not to extend FEMA reimbursement for storm recovery costs, while a federal judge ruled against blocking immigration enforcement in places of worship, citing insufficient evidence of targeted actions. Five major law firms agreed to provide $600 million in pro bono legal services to support causes favored by Trump, amid ongoing tensions over executive orders impacting legal representation. In immigration news, an immigration judge ruled that Mahmoud Khalil could be deported, although his case will continue in federal court, raising concerns over due process and free speech. The Trump administration announced the end of Temporary Protected Status for over 10,000 Afghans and Cameroonians, prompting potential legal challenges. Additionally, the Justice Department shifted its stance regarding a former FBI informant's release, while the Air Force Academy ceased considering race and gender in admissions, aligning with a broader directive from Trump. Criticism of the FDA surfaced as officials were accused of prioritizing corporate interests over public health in drug approvals. The administration's proposed budget cuts to NOAA's research programs raised alarms about the future of scientific research and climate monitoring. Lastly, New Jersey's federal prosecutor announced investigations into the state's immigration policies, reflecting Trump's continued focus on enforcing strict immigration measures.
