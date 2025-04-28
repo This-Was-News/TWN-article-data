@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/04/28/us/trump-news
+title: "Lawsuit Challenges Immigration Agents\u2019 Access to Schools and Churches"
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+In the lead-up to President Trump's 100th day in office, he announced plans to sign two executive orders aimed at intensifying immigration enforcement, targeting sanctuary cities that do not cooperate with federal deportation efforts. Harvard University renamed its diversity office amid criticism of such programs as left-wing indoctrination, coinciding with the Trump administration's demands for changes in diversity initiatives. The Peace Corps is reportedly facing staff cuts under a cost-cutting initiative led by Elon Musk's Department of Government Efficiency, although it confirmed that volunteer numbers and overseas offices would not be reduced. House Republicans proposed a $1,000 fee for asylum claims and other fees for immigrants seeking legal entry, part of a broader immigration enforcement strategy. The State Department announced Mexico's commitment to provide more water to the U.S. to ease a diplomatic dispute over water scarcity in border regions. Meanwhile, a significant turnover in the Justice Department's civil rights division has been reported, as many lawyers leave due to shifts in priorities under the Trump administration. The administration has also faced challenges from lawsuits regarding its immigration policies, particularly involving operations in sensitive locations like schools and churches. Additionally, IBM announced a $150 billion investment in the U.S. tech sector, amid pressure from the administration for domestic manufacturing. Lastly, the document highlights ongoing legal battles surrounding Trump's immigration policies and the implications for immigrant communities.
