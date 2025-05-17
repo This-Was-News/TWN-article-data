@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/05/17/us/trump-news
+title: Trump Demands Walmart Keep Prices Low Despite Tariff Costs
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The Trump administration has abandoned its legal fight to ban forced-reset triggers, devices that enhance semiautomatic weapon performance, following a settlement with the Biden administration that includes gun-safety provisions. President Trump criticized Walmart for warning that tariffs would raise prices, insisting the retailer should absorb the costs instead. He also announced plans to speak with Russian President Putin and Ukrainian President Zelensky to negotiate peace in Ukraine, despite ongoing violence and a recent prisoner swap agreement. A federal appeals court allowed Trump's executive order on federal employee layoffs to proceed, while the administration sought to block a ruling that paused mass layoffs at federal agencies. The Supreme Court temporarily halted the deportation of Venezuelan detainees under the Alien Enemies Act, citing due process concerns. Congressional Democrats are attempting to block over $3 billion in arms sales to Qatar and the UAE, citing potential conflicts of interest related to Trump's business dealings. Concerns about President Biden's mental fitness have resurfaced following the release of audio from a special counsel interview, prompting renewed scrutiny from within the Democratic Party. Meanwhile, the Secret Service questioned former FBI Director James Comey regarding a social media post perceived as a call for violence against Trump. As tensions rise, military analysts warn that the prospects for peace in Ukraine remain grim. The ongoing diplomatic efforts highlight the complexities of U.S. foreign policy under the Trump administration.
