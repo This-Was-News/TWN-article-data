@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/05/17/us/politics/courts-immigrants-venezuelans-garcia-trump.html
+title: "Federal Courts\u2019 Emerging Bottom Line: Due Process Rights for Immigrants"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+Federal courts are increasingly rejecting the Trump administration's aggressive deportation tactics, emphasizing the necessity of due process for immigrants facing removal. Recent Supreme Court rulings underscore that immigrants must be afforded the chance to contest their deportations, particularly in light of the administration's claims to extraordinary powers under an 18th-century law. The Court criticized the administration for providing inadequate notice to Venezuelan immigrants prior to deportation, stating that mere 24-hour warnings violate due process standards. Legal experts express relief at the courts' support for due process, while also lamenting the need for such interventions. The administration's stance has been characterized by a refusal to comply with constitutional protections, as illustrated by statements from Trump and his advisers regarding the suspension of habeas corpus. Various cases, including those involving the Alien Enemies Act, highlight the courts' insistence that immigrants must be allowed to challenge their deportations before removal. Additionally, a federal appeals court mandated that immigrants receive a 15-day warning before being deported to potentially dangerous countries. The Supreme Court's decisions reflect a broader commitment to ensuring judicial oversight of deportation processes. The cases, particularly that of Kilmar Armando Abrego Garcia, illustrate the ongoing struggle for due process in the face of administrative overreach. The Supreme Court is expected to provide further guidance on the specifics of due process in these deportation cases.
