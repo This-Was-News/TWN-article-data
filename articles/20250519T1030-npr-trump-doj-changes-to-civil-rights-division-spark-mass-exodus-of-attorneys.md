@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/05/19/g-s1-66906/trump-civil-rights-justice-exodus
+title: Trump DOJ changes to civil rights division spark mass exodus of attorneys
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Justice Department's Civil Rights Division is undergoing significant changes under the Trump administration, resulting in a mass exodus of attorneys, with approximately 250 or 70% of the division's lawyers leaving by the end of May. The administration is shifting the division's focus from its traditional mission of combating discrimination to enforcing President Trump's executive orders, which include addressing alleged radical indoctrination in schools and combating antisemitism. Harmeet Dhillon, the new head of the division, has stated her intention to redirect resources to align with Trump's priorities, marking a drastic departure from the division's historical role. Critics, including former officials, argue that this represents a dismantling of the division, with concerns that civil rights laws are being weaponized against vulnerable populations. The changes have led to significant attorney departures, particularly from sections dealing with voting, education, and special litigation. Dhillon has acknowledged the resignations, suggesting that those who disagree with the new direction should pursue their passions elsewhere. The current environment is described as emotionally challenging for remaining staff, with reports of distress among attorneys. Overall, the shift is seen as a move away from protecting civil rights for all Americans toward a more selective enforcement aligned with the administration's agenda. The implications of these changes could lead to increased unlawful discrimination without the division's traditional enforcement role.
