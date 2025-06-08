@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/06/07/us/la-immigration-raid-protests
+title: President Trump to Send National Guard to L.A. to Quell Immigration Protests
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+President Trump has ordered the deployment of at least 2,000 National Guard members to Los Angeles County to manage escalating protests against immigration raids. This decision marks a rare use of federal powers, bypassing California Governor Gavin Newsom's authority, and has been criticized as inflammatory by state officials. Protests erupted following federal immigration raids targeting undocumented workers, leading to confrontations between demonstrators and law enforcement, with some instances of violence reported. Despite Trump's announcement, as of early Sunday, no National Guard troops had yet arrived in Los Angeles, and local authorities stated they had sufficient resources to handle the situation. The protests have been particularly intense in the predominantly Latino suburb of Paramount, where many residents are fearful due to the ongoing immigration crackdown. Tensions have also escalated between federal officials and local law enforcement regarding response times and coordination during the protests. Critics argue that Trump's actions could erode public trust and set a dangerous precedent for the use of military forces against civilian protests. The deployment is justified by the administration as necessary to protect federal personnel and property amid what they describe as lawlessness. California Democrats have expressed concerns about the implications of this federal intervention, which they believe undermines state authority. The situation remains dynamic, with further protests planned as the community grapples with the impacts of immigration enforcement.
