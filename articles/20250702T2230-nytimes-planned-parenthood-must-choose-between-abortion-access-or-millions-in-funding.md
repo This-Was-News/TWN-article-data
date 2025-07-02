@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/07/02/us/politics/planned-parenthood-abortions-senate-medicaid-funding.html
+title: Planned Parenthood Must Choose Between Abortion Access or Millions in Funding
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The recent spending bill passed by Senate Republicans threatens to strip Planned Parenthood of millions in federal funding by imposing a one-year ban on Medicaid payments to any healthcare nonprofit that offers abortions and received over $800,000 in federal funding in 2023. This could jeopardize abortion access even in states where the procedure is legal, potentially leading to the closure of nearly 200 Planned Parenthood clinics. While federal law prohibits Medicaid funds from being used for abortions, the bill could affect funding for other essential medical services, impacting the operation of clinics that serve over two million Americans. Planned Parenthood has vowed to continue providing abortions, but the decision ultimately lies with its independently run affiliates, which may face difficult choices regarding their services and funding. The bill particularly affects clinics in blue states like California and Illinois, where a significant number of patients rely on Medicaid. If some affiliates choose to halt abortion services, independent providers may become overwhelmed by an influx of patients seeking care. One major affiliate, Planned Parenthood Mar Monte, has indicated that it will continue to offer abortions despite potential funding cuts, but acknowledges that this could result in significant operational challenges. The national organization has stated there are no plans to stop providing abortion care to preserve federal funding. Meanwhile, leaders are seeking philanthropic support to avert a potential public health crisis stemming from these funding cuts.
