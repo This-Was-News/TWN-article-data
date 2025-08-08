@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/07/nx-s1-5265650/new-census-trump-immigrants-counted
+title: Trump wants a new U.S. census to exclude people here illegally. It'd be unprecedented
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Trump has instructed his administration to begin work on a new census that would exclude people living in the U.S. without legal status, an unprecedented change from historical practices. The plan's details are unclear, including whether it refers to the 2030 census or an earlier tally, and why election results would be relevant. The Commerce Department, which oversees the Census Bureau, stated it will use modern technology to analyze data reflecting the number of legal residents. Trump's demand aligns with a House bill introduced by Rep. Marjorie Taylor Greene, which also calls for excluding non-citizens from apportionment numbers and a new census before the 2026 midterm elections. Other Republicans have reintroduced bills to exclude people without legal status or all non-citizens from the 2030 apportionment counts. Legal experts suggest that Trump's successor or Congress could remove any added immigration status questions before the 2030 census. The American Civil Liberties Union has signaled potential legal challenges, stating that excluding residents without legal status would defy the Constitution and federal law. Trump's push comes amid his encouragement for Republican states to redraw congressional maps, sparking a national political battle. Critics argue that Trump's actions aim to manipulate census data and election outcomes. Research by the Census Bureau indicates that asking about citizenship status could produce faulty data and discourage participation, particularly among Latino and Asian American households.

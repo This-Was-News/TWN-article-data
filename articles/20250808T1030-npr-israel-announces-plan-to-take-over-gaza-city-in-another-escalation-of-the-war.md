@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/08/nx-s1-5495694/israel-gaza-military-escalation
+title: Israel announces plan to take over Gaza City in another escalation of the war
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+Israel's Security Cabinet has approved a plan to expand military operations and take control of Gaza City, marking a significant escalation in the ongoing war. This decision comes amid a conflict that has lasted over 23 months, resulting in the deaths of at least 61,000 Palestinians, including a third of them children, according to Gaza's Health Ministry. Gaza City, once the heart of the territory, has been largely destroyed but remains home to partially functioning hospitals and shelters for displaced people. Prime Minister Benjamin Netanyahu's office described the plan as a necessary step, though it stopped short of calling it an occupation. The United Nations reports that nearly 90% of Gaza is already under military control or off-limits to Palestinians. The plan has sparked criticism from various international leaders and organizations, including the British Prime Minister, the Australian Foreign Minister, and the U.N. officials, who condemned it as a violation of international law and a move that will worsen the humanitarian crisis. Families of Israeli hostages held by militants in Gaza are demanding a ceasefire, fearing that military operations could lead to their loved ones' deaths. Public opinion in Israel is divided, with tens of thousands protesting for a ceasefire and former generals urging an end to the war. Netanyahu has resisted global pressure to end the war and has dramatically boosted aid into Gaza. The Security Cabinet outlined five aims for ending the war, including the disarmament of Hamas, the release of all hostages, and establishing a civil administration in Gaza that is neither Hamas nor the Palestinian Authority.
