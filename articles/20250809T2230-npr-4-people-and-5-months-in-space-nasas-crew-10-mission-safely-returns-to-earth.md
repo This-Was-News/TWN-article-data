@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/09/nx-s1-5493422/nasa-crew-10-iss-space-station
+title: 4 people and 5 months in space, NASA's Crew-10 mission safely returns to Earth
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+NASA's Crew-10 mission, consisting of astronauts Anne McClain, Nicole Aunapu Mann, JAXA astronaut Takuya Onishi, and Roscosmos cosmonaut Andrei Borisenko, safely returned to Earth after a five-month stay on the International Space Station (ISS). The crew splashed down in the Pacific Ocean off the coast of California in the same SpaceX capsule that launched them in March 2025. The journey home took about 17 hours, with the capsule enduring re-entry temperatures of around 3,000 degrees Fahrenheit. During their mission, the crew conducted over 200 science experiments aimed at preparing humans for exploration beyond low-Earth orbit, including studies on materials and physiological and psychological changes in the human body. Nicole Aunapu Mann, the mission pilot, highlighted the achievements and camaraderie experienced during their stay. This was the first space mission for both Aunapu Mann and Borisenko, while McClain and Onishi were on their second trip to the ISS. The crew was replaced by Crew-11, who arrived a week prior and will spend approximately six months on the ISS. This mission marked the 12th time SpaceX has launched NASA astronauts to the ISS, starting in 2020 as part of the Commercial Crew Program. The ISS has maintained a continuous human presence since 2000, but NASA plans to retire it by the end of the decade, hoping commercial companies will launch new space stations in the coming years. McClain reflected on the significance of their mission before departure, acknowledging the unique opportunity they had to be part of space exploration history.
