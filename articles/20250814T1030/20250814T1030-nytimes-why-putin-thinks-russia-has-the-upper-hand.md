@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/interactive/2025/08/14/world/europe/putin-russia-ukraine-war-resurgence.html
+title: Why Putin Thinks Russia Has the Upper Hand
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+Russian President Vladimir Putin exudes confidence in Russia's advantage over Ukraine, believing that Ukraine's resistance is futile and that rejecting his demands will lead to worse outcomes. Putin's assurance stems from Russia's military resurgence, which has mobilized more men and arms than Ukraine and its Western backers. Despite mounting casualties, Russian forces are advancing across the front, strengthening Putin's resolve to continue fighting until he achieves a favorable peace deal. However, there are warning signs for Russia, including depleted elite infantry units and economic cracks. Putin aims to outlast Ukraine and secure a deal that ensures his legacy, demanding annexed regions and limiting Ukraine's military and NATO aspirations. Russia's recruitment strategy, fueled by financial incentives and propaganda, has transformed the army, though it masks underlying problems like a shrinking recruitment pool and reliance on older, less experienced soldiers. Russia's industrial might and state-controlled defense sector have enabled it to outproduce Ukraine and its allies in weapons and ammunition. Innovations like the Geran-2 drone and upgrades to Soviet-era equipment have bolstered Russia's military capabilities. Despite these advancements, Russia still faces challenges, including reliance on imported components and depleting Soviet-era stocks. Putin's recent reforms, including the appointment of a new defense minister and the creation of elite drone units, have improved supply chains and tactical effectiveness, contributing to Russia's recent successes on the battlefield.
