@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/15/g-s1-83087/otter-ai-transcription-class-action-lawsuit
+title: Class-action suit claims Otter AI secretly records private work conversations
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A federal class-action lawsuit accuses Otter.ai, a Mountain View, California-based tech company, of secretly recording private conversations without consent to improve its AI transcription service, Otter Notebook. The service, used for transcribing virtual meetings on platforms like Zoom, Google Meet, and Microsoft Teams, does not ask meeting attendees for permission to record or alert them that recordings are shared with Otter. The plaintiff, Justin Brewer, alleges his privacy was invaded when Otter secretly recorded a confidential conversation. The lawsuit claims Otter's covert recordings violate state and federal privacy and wiretap laws, seeking to represent others in California affected by the practice. Otter's privacy policy states it receives explicit permission from users to train its systems on meeting transcripts, but the lawsuit argues many users are still deceived. Recent privacy concerns have emerged as Otter's tools are increasingly used in workplaces, with over 25 million users and more than 1 billion meetings recorded since 2016. Users have reported issues on platforms like X and Reddit, including instances where Otter recorded sensitive conversations without consent, leading to negative consequences. The lawsuit highlights that Otter's software can join meetings automatically and record without obtaining consent from all participants. Otter claims to de-identify audio data before feeding it into machine learning systems, but the lawsuit questions the effectiveness of this process, arguing it does not guarantee the removal of confidential information or speaker anonymity.
