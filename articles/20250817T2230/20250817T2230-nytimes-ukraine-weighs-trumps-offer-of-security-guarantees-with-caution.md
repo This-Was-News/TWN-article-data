@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/08/17/world/europe/ukraine-security-guarantees-trump-russia.html
+title: "Ukraine Weighs Trump\u2019s Offer of Security Guarantees With Caution"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Trump offered security guarantees to Ukraine to deter future Russian aggression, but the proposal was vague, prompting Kyiv to seek clarity. Ukrainian officials saw this as a glimmer of hope after setbacks from Trump's meeting with Russian President Vladimir Putin in Alaska. The proposal involves Western partners guaranteeing Ukraine's defense against new Russian attacks, with the U.S. ready to participate, marking a shift from Trump's earlier stance. European leaders met virtually to discuss the aftermath of the Alaska summit and potential security guarantees, with six European leaders announcing support for Ukraine. The specifics of the U.S. proposal remain unclear, but Trump indicated that Putin agreed Ukraine should have strong security guarantees post-settlement, though not under NATO. Ukrainian President Zelensky emphasized the need for practical security measures and clarity on roles. Ukrainian lawmakers expressed confusion and concerns about Trump's proposal and Putin's agreement. Italian Prime Minister Giorgia Meloni suggested guarantees modeled on NATO's Article 5, which would allow collective defense support for Ukraine. However, questions remain about Russia's willingness to accept such guarantees and their effectiveness without NATO's backing. Ukrainian officials cautioned against vague guarantees, citing the failure of the 1994 Budapest Memorandum. Concrete guarantees, such as the presence of Western troops on the ground, are being sought by Ukraine, with some European countries willing to send troops post-conflict. European leaders are coordinating to discuss their support for Ukraine's security guarantees with the U.S.
