@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/israel-palestinians-hamas-gaza-war-news-hostages-protest-08-18-2025-f875326f9845f09a3b01bf676254222f
+title: Hamas accepts an Arab ceasefire proposal on Gaza as Palestinian death toll
+  passes 62,000
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Hamas has accepted a new Arab-mediated ceasefire proposal for Gaza, while Israel's positions remain unchanged. The Palestinian death toll from 22 months of war has surpassed 62,000. U.S. President Donald Trump expressed skepticism about the ongoing negotiations, emphasizing the need to confront and destroy Hamas for the safe return of remaining hostages. Egyptian Foreign Minister Bader Abdelatty announced that Qatar's Foreign Minister Sheikh Mohammed bin Abdulrahman Al Thani joined talks in Cairo to restart ceasefire negotiations. Israel plans to reoccupy Gaza City and other densely populated areas after previous ceasefire talks broke down, raising concerns about a worsening humanitarian crisis. Mass protests in Israel called for the return of hostages taken during the October 7, 2023, attack. Egypt invited U.S. envoy Steve Wtkoff to join the ceasefire talks, aiming for a 60-day ceasefire with the release of some hostages and negotiations for a lasting ceasefire. Hamas leader Bassem Nam confirmed their acceptance of the proposal, while an Israeli official stated that Israel's positions, including the release of all hostages, had not changed. Prime Minister Benjamin Netanyahu vowed to continue the war until all hostages are returned and Hamas is disarmed. The Gaza Health Ministry reported that 1,965 people have been killed while seeking humanitarian aid since May. Experts warn that Israel's ongoing offensive is pushing Gaza toward famine, with five more people, including two children, dying of malnutrition-related causes. Amnesty International accused Israel of deliberately starving Gaza, while Israel denies the allegations, blaming the U.N. for not promptly delivering aid. The U.N. World Food Program reported a significant drop in daily meals produced in Gaza compared to April.
