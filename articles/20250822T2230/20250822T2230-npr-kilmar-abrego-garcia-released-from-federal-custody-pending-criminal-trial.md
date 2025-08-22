@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/22/nx-s1-5511177/kilmar-abrego-garcia-released-from-federal-custody-pending-criminal-trial
+title: Kilmar Abrego Garcia released from federal custody pending criminal trial
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Klmar Abrego Garca, a Salvadoran citizen deported by the Trump administration and later returned to the U.S., has been released from federal custody in Tennessee while awaiting trial on federal human smuggling charges. His attorney, Sean Hecker, stated that Abrego Garca is now en route back to his family in Maryland after facing unlawful arrest, deportation, and imprisonment. Abrego Garca's case has raised questions about due process amid President Trump's crackdown on immigrants, as he was deported despite a U.S. immigration judge's order recognizing his well-founded fear of gang persecution in El Salvador. The White House termed the deportation an administrative error. Abrego Garca's freedom may be temporary, as U.S. Immigration and Customs Enforcement (ICE) could attempt to detain him upon his return to Maryland, though a federal judge has stipulated that ICE must provide 72 hours' notice prior to any deportation. Abrego Garca was initially deported to El Salvador in March and returned to the U.S. in June, where he was immediately detained on criminal charges. The government accuses him of transporting undocumented migrants within the U.S., a charge he denies, along with allegations of MS-13 gang membership. Abrego Garca's lawyers have filed a motion to dismiss the smuggling charges, calling them vindictive and political. Born in El Salvador, Abrego Garca had been living in Maryland since 2011, where he married a U.S. citizen and raised three children. His attorneys argue that the smuggling charges are part of a broader effort to punish him for challenging the administration's policies.
