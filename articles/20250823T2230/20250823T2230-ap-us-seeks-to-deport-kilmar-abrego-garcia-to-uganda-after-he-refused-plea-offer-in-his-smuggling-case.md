@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/abrego-garcia-deportation-uganda-el-savador-1a94ad82d88ddda56d669ce86bc77ff4
+title: US seeks to deport Kilmar Abrego Garcia to Uganda after he refused plea offer
+  in his smuggling case
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The U.S. government plans to deport Kilmar Abrego Garcia to Uganda after he declined an offer to be sent to Costa Rica in exchange for pleading guilty to human smuggling charges. Abrego Garcia was initially offered a deal to remain in jail and plead guilty, but he was later informed he must report to ICE by Monday morning to accept the plea deal or face deportation to Uganda. The Costa Rican government assured Abrego Garcia he would be welcomed as a legal immigrant without the risk of detention. The Justice Department emphasized the seriousness of the charges against Abrego Garcia and stated he could either plead guilty or face trial. Abrego Garcia's case gained attention after he was mistakenly deported to El Salvador, despite a judge's ruling that he faced a well-founded fear of violence there. He was brought back to the U.S. and detained on human smuggling charges. Abrego Garcia's attorneys argue that the threat of deportation to Uganda is further evidence of a vindictive prosecution. The smuggling charges stem from a 2022 traffic stop in Tennessee, where officers suspected smuggling but allowed Abrego Garcia to continue driving with only a warning. Abrego Garcia has lived in Maryland for years and has an American wife and children. His attorneys feared immediate deportation if he were released from jail. A recent ruling requires ICE to provide 72 hours' notice before initiating deportation proceedings. Federal officials argue that Abrego Garcia can be deported because he entered the U.S. illegally and was deemed eligible for expulsion in 2019, though not to his native El Salvador. Abrego Garcia's lead attorney criticized the government's use of the immigration system to punish his client by sending him to a country with documented human rights abuses and where he does not speak the language.
