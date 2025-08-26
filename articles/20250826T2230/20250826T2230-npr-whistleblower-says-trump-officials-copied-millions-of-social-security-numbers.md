@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy
+title: Whistleblower says Trump officials copied millions of Social Security numbers
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A whistleblower, Charles Borges, the chief data officer at the Social Security Administration (SSA), alleges that former senior Trump appointees from the Department of Government Efficiency (DOGE) copied the Social Security numbers, names, and birthdays of over 300 million Americans to a private section of the SSA's cloud. This private cloud environment, accessible by other former DOGE employees, lacks adequate security measures, potentially putting vast amounts of private information at risk. The SSA's career cybersecurity officials described the decision to copy the data as 'very high risk' and discussed the possibility of having to reissue Social Security numbers in case of a breach. The copied data was stored in the SSA's existing cloud infrastructure on Amazon Web Services but had fewer security measures than standard SSA protocols. The cloud environment was set up for DOGE-affiliated SSA staffers but lacks independent security, monitoring, and oversight. The SSA maintains that its data remains secure and that the environment is walled off from the internet. Borges' complaint is part of a broader pattern of DOGE and Trump officials being accused of disregarding privacy protections around sensitive personal information. The request for the data copy came shortly after a Supreme Court ruling granted DOGE team members temporary access to the SSA's most sensitive data. The NUMIDENT database, which includes extensive personal information, was copied to a private cloud with unfettered access for former DOGE officials. Despite cybersecurity officials' warnings, the data transfer was authorized by DOGE-affiliated officials, with the SSA's chief information officer accepting the associated risks.
