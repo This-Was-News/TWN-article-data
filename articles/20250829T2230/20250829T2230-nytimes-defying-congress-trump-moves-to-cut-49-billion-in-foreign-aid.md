@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/08/29/us/politics/trump-foreign-aid.html
+title: Defying Congress, Trump Moves to Cut $4.9 Billion in Foreign Aid
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The White House has notified Congress of its intention to cancel $4.9 billion in foreign aid programs, invoking a little-known power to slash spending without congressional approval. This move, known as a pocket rescission, aims to unilaterally claw back funds already approved by Congress late in the fiscal year. The fiscal year ends on September 30, before the 45-day period required for Congress to consider a rescission request. Republican leaders have shown little appetite for resisting the president's spending demands. Senator Susan Collins, the top Republican on the Appropriations Committee, called the move illegal. The maneuver could complicate bipartisan funding efforts to prevent a government shutdown on October 1, as Democrats have expressed reluctance to support such a package if the White House continues to cut congressionally approved funding. The proposed cuts target U.S. contributions to the United Nations and economic development programs run by the State Department and USAID. Secretary of State Mike Pompeo supported the proposal, stating that the targeted programs are not in America's interest. The largest proposed cut is $445 million to U.S. funding of peacekeeping operations abroad. The Government Accountability Office has ruled that pocket rescissions are legal, but courts have not explicitly weighed in on the matter. Democrats have strongly condemned the move, with Senator Patty Murray calling it an illegal ploy to steal congressional power. The White House insists the clawback will not disrupt delicate talks to fund the government next fiscal year.
