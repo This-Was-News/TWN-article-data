@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/sections/shots-health-news/2025/08/29/nx-s1-5522036/cdc-rfk-hhs-monarez-jim-oneill-leadership
+title: It's been a week of chaos at the CDC. Here are 5 things to know
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The Centers for Disease Control and Prevention (CDC) has experienced significant turmoil this week. CDC Director Susan Monarez, who led the agency for less than a month, was abruptly removed from her position. Her attorneys claim she was targeted for refusing to endorse unscientific directives. The drama unfolded after a tense meeting between Monarez and Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. Kennedy then appointed Jim O'Neill, a top advisor with a background in investment and libertarian views, as the acting CDC director. O'Neill, who is not a physician or scientist, will serve in both his role at HHS and as the acting CDC director. Three top CDC leaders, including Dr. Deb Houry, Dr. Demetre Daskalakis, and Dr. Dan Jernigan, resigned in protest of Monarez's firing and the agency's new direction. The resignations followed a gunman's attack on the CDC headquarters, motivated by discontent with mRNA COVID-19 vaccines. The attack occurred after Kennedy suspended $500 million in mRNA research grants. The CDC has also undergone a radical shift in focus to solely address infectious diseases, abandoning other health priorities. Senate HELP Committee Chairman Bill Cassidy, a physician, has expressed concern over the leadership changes and has called for oversight. The committee's ranking Democrat, Sen. Bernie Sanders, has also called for a hearing on the leadership shakeup. Kennedy has replaced all members of the Advisory Committee on Immunization Practices (ACIP) with his own appointees, raising further concerns about the agency's future direction.

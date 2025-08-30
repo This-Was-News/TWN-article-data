@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/30/g-s1-86361/dear-life-kit-do-i-have-to-buy-birthday-gifts-for-my-18-nieces-and-nephews
+title: 'Dear Life Kit: Do I have to buy birthday gifts for my 18 nieces and nephews?'
+publisher: npr
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+The web page titled 'Dear Life Kit: Do I have to buy birthday gifts for my 18 nieces and nephews?' discusses financial and relational challenges within families and friendships. Kate Gatt Tassn and Wendy De La Rosa, experts in financial and behavioral science, provide advice on navigating these issues. The first letter addresses the dilemma of an aunt who feels pressured to buy gifts for all 18 of her nieces and nephews, despite not having close bonds with all of them. The experts suggest that the issue is more about relationships than money, and propose creative alternatives like birthday cards or family gatherings to show appreciation without financial strain. The second letter involves a friend diagnosed with Stage 4 cancer, highlighting the stress of medical costs and the friend's frustration over her lack of insurance. The experts advise focusing on bringing joy and comfort to the friend, as well as practical steps like helping her navigate the healthcare system and applying for Medicaid. The third letter is from an individual in their late 20s who wants to move out of their parents' home but feels guilty due to their parents' financial mismanagement and requests for help. The experts recommend setting boundaries and offering support within those limits, such as covering specific bills, and suggest addressing the parents' financial literacy issues. The page also includes information on how to submit questions to the 'Dear Life Kit' advice column and where to find the podcast and newsletter.
