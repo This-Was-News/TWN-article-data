@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/08/30/business/trump-samsung-skhynix-chips.html
+title: "Trump Takes Aim at South Korean Chipmakers\u2019 China Operations"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The U.S. government is making it more difficult for South Korean chipmakers Samsung and SK Hynix to obtain American equipment for their factories in China, thereby limiting China's access to certain semiconductor technologies. The Commerce Department announced it would revoke previous authorizations allowing these companies to ship critical semiconductor machinery to China, requiring them to secure new licenses from the Trump administration. This move reverses a 2023 waiver granted under former President Joseph R. Biden Jr., which had allowed these companies to continue operations in China. The decision could strain trade discussions between South Korea and the United States, particularly as President Trump and South Korean President Lee Jae Myung recently met to discuss ongoing trade negotiations. Both companies declined to comment, but SK Hynix expressed a commitment to maintaining communication with both governments to minimize business impact. The U.S. aims to restrict China's access to advanced semiconductor technology, crucial for artificial intelligence development. Samsung and SK Hynix dominate global memory chip production, essential for AI systems. China's advanced manufacturing capabilities are vital for these companies, and limiting their access to the latest technology could disadvantage them compared to competitors like Micron. The Trump administration is also considering a 100 percent tariff on foreign semiconductors, which could disrupt the global supply chain. The Commerce Department's changes will take effect in 120 days, requiring companies to apply for new licenses for future equipment imports to China.
