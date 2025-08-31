@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/08/31/us/trump-news
+title: Judge Halts Effort to Deport Guatemalan Children as Planes Sit on Tarmac
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+A federal judge temporarily blocked the Trump administration from deporting dozens of Guatemalan minors, demanding assurances they would remain in shelters until a more permanent ruling. The judge's order came after lawyers for the children argued that deportation would deny them due process and expose them to peril. The administration had already boarded the children onto planes when the judge intervened, directing the government to remove them from the planes. The judge expressed frustration with the government's actions, stating that the deportations were surprising given the timing. The government's lawyer argued that the repatriations were requested by the Guatemalan government, but the children's lawyer disputed this, stating that at least some of the children did not want to return. The judge's order temporarily hampers the federal government's attempts to return hundreds of unaccompanied minors to Guatemala. Meanwhile, President Trump announced plans to issue an executive order mandating voter ID for all U.S. elections, continuing his efforts to overhaul the nation's election laws. The announcement signals Trump's latest attempt to influence election laws using an executive order, despite constitutional limitations on the president's authority in this area. Additionally, Trump has been using his presidential platform to comment on various cultural and social issues, from criticizing companies like Cracker Barrel to commenting on celebrities and sports figures. Critics argue that Trump's actions are reshaping American culture and institutions, with some expressing concern about the potential long-term impacts of his policies and rhetoric.
