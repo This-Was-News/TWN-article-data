@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/31/nx-s1-5524276/chicagos-mayor-pushes-back-as-trump-administration-readies-immigration-crackdown
+title: Chicago's mayor pushes back as Trump administration readies immigration crackdown
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Chicago Mayor Brandon Johnson has limited police cooperation with federal immigration agents in response to threats from the Trump administration to increase immigration enforcement in the city. Johnson signed an executive order prohibiting the city's police from collaborating with federal officers on civil immigration enforcement and with U.S. military personnel on police patrols. He criticized Trump's actions as unconstitutional and expressed concerns about the potential impact on families and communities. President Trump, on his social media platform, criticized Illinois Governor JB Pritzker and suggested sending federal forces to Chicago to combat crime. Pritzker warned that deploying the military to American cities could be an attack on the American people and suggested Trump had other motives, such as disrupting the 2026 midterm elections. The Trump administration is expected to focus on immigration enforcement in Chicago and other sanctuary cities. White House 'border czar' Tom Homan announced a ramp-up of immigration enforcement operations in these cities. Department of Homeland Security Secretary Kristi Noem indicated additional resources would be allocated to ongoing ICE operations in Chicago. Mayor Johnson's order also mandates that Chicago police officers wear official uniforms and prohibits them from wearing face masks to distinguish them from federal officers. The White House criticized Johnson's executive order, urging Democrats to focus on crime prevention rather than political stunts.
