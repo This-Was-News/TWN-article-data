@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/09/01/nx-s1-5521944/news-outlets-call-for-safety-of-journalists-covering-the-war-in-gaza
+title: 'Media outlets demand that Israel grant access to Gaza and halt attacks on
+  journalists there       '
+publisher: npr
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+More than 250 news outlets, including NPR, have signed an appeal urging the protection of Palestinian journalists in Gaza, independent foreign press access, and the evacuation of wounded journalists for medical treatment. The appeal, organized by Reporters Without Borders and Avaaz, highlights that at least 220 journalists have been killed by the Israeli army in Gaza over two years of war, marking the deadliest period for journalists globally. Israel's Foreign Ministry dismissed the appeal as a political manifesto against Israel, claiming global media reports do not reflect the true situation in Gaza. A study by Brown University found that Israel's attacks in Gaza have killed more journalists than major wars combined. The Committee to Protect Journalists accuses Israel of engaging in the deadliest and most deliberate effort to kill and silence journalists. The appeal calls for international action, including from the United Nations Security Council, to stop Israel's killing of journalists in Gaza. A similar petition signed by major news organizations in June noted that the risks to journalists in Gaza are a direct attack on press freedom. Israel's military has acknowledged some attacks on journalists, alleging affiliations with militant groups, but the Committee to Protect Journalists finds these claims unsubstantiated. In August alone, 15 Palestinian journalists were reportedly killed in Gaza, with recent attacks targeting journalists at Nasser Hospital and a press tent outside a major hospital. Palestinian journalists in Gaza face extreme dangers, including the risk of being targeted while reporting, and struggle with basic necessities like food, water, and internet access to share their work.
