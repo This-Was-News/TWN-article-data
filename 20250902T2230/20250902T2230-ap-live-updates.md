@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/live/donald-trump-news-updates-9-2-2025
+title: 'Live updates: Trump announces Space Command is moving from Colorado to Alabama'
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+President Donald Trump announced that U.S. Space Command will move from Colorado to Alabama, reversing a Biden-era decision. This move caps a four-year dispute between the states, with both claiming to be the better location. Trump made the announcement from the Oval Office, flanked by Republican members of Alabama's congressional delegation. Meanwhile, Chicago Mayor Brandon Johnson signed an executive order to counter the administration's plan to send federal officers into the city, directing city departments to protect residents' constitutional rights. Trump also addressed a video showing items thrown from the White House, suggesting it might be AI-generated, though the White House attributed it to a contractor performing maintenance. Additionally, the Pentagon authorized up to 600 military lawyers to serve as temporary immigration judges. The House Oversight Committee released files on the Jeffrey Epstein and Ghislaine Maxwell sex trafficking investigations, though Democrats noted most information was already public. Trump's shift in presidential admiration from Andrew Jackson to William McKinley reflects his evolving political goals. The administration continues counter-narcotics operations in the Caribbean, with a recent strike on a Venezuelan vessel linked to the Tren de Aragua gang. Trump also hinted at federal intervention in Chicago and Baltimore despite local opposition. Other notable events include a federal appeals court ruling against the EPA's termination of green bank grants, a meeting between Epstein abuse survivors and lawmakers, and the U.S. sanctioning a network allegedly smuggling Iranian oil.
