@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/florida-childhood-vaccines-mandate-eliminate-desantis-363323dcdd3811ca9ad7def5f9a30fb2
+title: Florida plans to become first state to eliminate all childhood vaccine mandates
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Florida plans to become the first state to eliminate all childhood vaccine mandates, a move that has sparked significant controversy. State Surgeon General Dr. Joseph Ladapo argues that current vaccine requirements are immoral intrusions on personal rights, allowing parents to make health decisions for their children. This decision aligns with the agenda of the Trump administration, led by Health Secretary Robert F. Kennedy Jr., a prominent anti-vaccine activist. Critics, including Dr. Rana Alssa of the American Academy of Pediatrics, warn that removing vaccine mandates will increase risks for students and school staff. Democratic state Rep. Anna Eskam calls the move reckless and dangerous, predicting potential outbreaks of preventable diseases. Meanwhile, Democratic governors of Washington, Oregon, and California have formed an alliance to safeguard health policies. Vaccines have saved millions of lives globally, and their effectiveness in preventing diseases is well-documented. Florida's current vaccine mandates cover diseases like measles, chickenpox, hepatitis B, and polio. Ladapo did not specify a timeline for the changes but emphasized that all vaccine mandates would be eliminated. The American Medical Association has urged Florida to reconsider, warning of potential infectious disease outbreaks. Under Governor Ron DeSantis, Florida has previously resisted COVID-19 vaccine mandates for schoolchildren. DeSantis also announced a new commission to promote medical freedom and parental rights in healthcare decisions.
