@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/09/03/nx-s1-5504670/pentagon-trans-troops-gender-dysphoria
+title: Pentagon told trans troops to get diagnosed. It's using the paper trail to
+  kick them out
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Air Force Master Sgt. Logan Ireland, who transitioned to male, faced a dilemma when the Pentagon included gender dysphoria as a disqualifying condition for military service. Initially, under Trump's first term, trans service members like Ireland needed a diagnosis to continue serving, but now that same diagnosis is being used to discharge them without due process. The policy has left thousands of openly trans service members at risk of losing their jobs and benefits. Before 2016, trans service members were ineligible for promotion and had to be referred by their birth-assigned gender. However, under Obama's administration, the ban was lifted, allowing trans individuals to serve openly. Trump later reinstated the ban, requiring trans service members to either leave or obtain a diagnosis of gender dysphoria to stay. Ireland, who had obtained such a diagnosis, believed he was safe when Biden repealed the ban in 2021, but the ban was reinstated again under Trump's second term. The Pentagon now uses the documented diagnoses to identify and discharge trans service members. The process is deemed unfair, with the Air Force denying early retirement benefits and revoking previously approved requests. Trans service members are now faced with the choice of taking a lump-sum separation payment or being removed from service. The new rules also prevent transgender service members from arguing their case before a board of peers, and recordings of hearings are prohibited, which legal experts argue is illegal. The policy has been criticized for breaking the social contract between the military and its service members, potentially setting a harmful precedent. Overall, the effort to identify and remove transgender troops is seen as counterproductive to the military's mission readiness and values.
