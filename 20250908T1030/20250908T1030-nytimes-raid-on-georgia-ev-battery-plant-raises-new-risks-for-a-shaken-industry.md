@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/09/08/us/georgia-immigration-raid-ev-battery-plant-hyundai-lg.html
+title: Raid on Georgia E.V. Battery Plant Raises New Risks for a Shaken Industry
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A recent raid on an electric vehicle (EV) battery plant in Georgia, owned by South Korean companies Hyundai and LG Energy Solution, has highlighted new risks for the EV industry in the United States. The sector is already struggling with lower-than-expected EV demand, tariffs on raw materials, and the phaseout of federal tax credits. The raid, which resulted in the arrest of 475 people, including about 300 South Korean citizens, has intensified labor tensions as some American workers claim they have not been given fair employment opportunities at the $7.6 billion taxpayer-subsidized complex. The plant's construction has relied heavily on foreign workers, including engineers and technicians from South Korea, to set up and maintain specialized equipment. This practice has drawn criticism from American labor unions, which want these jobs for local workers. The raid has also caused outrage in South Korea, where media outlets highlighted the poor conditions in which Korean workers are being held. The incident has raised concerns about the future of U.S. battery manufacturing, as it may deter skilled technicians from coming to the United States. The plant has faced safety issues, including worker deaths and chemical spills. LG Energy Solution and Hyundai have committed to maintaining high safety standards and complying with U.S. laws. The political implications are significant, as Georgia Governor Brian Kemp, a Republican, has supported clean energy policies, while former President Trump has criticized both EV and Kemp.
