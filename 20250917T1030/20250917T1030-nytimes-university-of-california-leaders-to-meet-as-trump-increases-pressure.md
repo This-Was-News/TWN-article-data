@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/09/17/us/university-of-california-berkeley-regents-meeting.html
+title: University of California Leaders to Meet as Trump Increases Pressure
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The University of California (U.C.) leaders are set to meet amid increasing pressure from the Trump administration, which has demanded a $1.2 billion settlement over allegations of antisemitism at UCLA and imposed conditions on foreign student admissions. The university recently complied with a federal request for information, providing names of students and employees connected to antisemitism allegations, which has sparked outrage within the system. U.C. President James B. Milliken warns that the financial terms could devastate the system, which has about 560,000 students and employees. The university is facing investigations and actions across all 10 campuses. Berkeley has distanced itself from the decision to share names, stating it was made by system officials. Critics, including faculty associations, have condemned the move as unnecessary and legally improper. The American Association of University Professors and labor groups have sued the Trump administration to prevent funding cuts and protect free speech. The university relies heavily on federal funding, with over $7 billion going to research and student aid. The Trump administration has threatened to block hundreds of millions of dollars to UCLA but has not yet brought a lawsuit. Governor Gavin Newsom has supported a legal challenge to the administration's actions. The regents' meeting will include a private session to discuss legal issues, but no decisions may be announced. Harvard University has successfully sued the administration over funding cuts, with the Trump administration planning to appeal.
