@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/sections/shots-health-news/2025/09/18/nx-s1-5543356/cdc-vaccine-advisers-acip-meeting
+title: CDC's vaccine advisers meet this week. Here's how they could affect policy
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Advisory Committee on Immunization Practices (ACIP) is meeting to discuss COVID-19 vaccine recommendations and the hepatitis B vaccine for infants. The committee's decisions influence CDC policies, insurance coverage, and state laws. Health Secretary Robert F. Kennedy Jr. has appointed members who question vaccine safety, raising concerns among experts. Former CDC director Susan Monarez testified that Kennedy pressured her to agree with the committee's recommendations, which she fears could restrict vaccine access without rigorous review. The FDA approved fall COVID-19 boosters, but the ACIP's delayed recommendation has caused uncertainty. Experts worry the committee may limit COVID-19 vaccine access, despite ongoing hospitalizations and deaths. Some committee members claim COVID-19 vaccines have caused harm, though evidence does not support this. The hepatitis B vaccine, recommended since 1991, has drastically reduced infections in infants. Committee chair Martin Kulldorff questioned the necessity of universal infant vaccination, arguing it could be delayed unless the mother is hepatitis B positive. Sen. Bill Cassidy emphasized the importance of the vaccine in preventing infant infections. Kulldorff also suggested against giving the combination MMRV vaccine to children under 4 due to a slight risk of febrile seizures, though experts note these seizures are temporary and not life-threatening. Changes in recommendations could make vaccines less accessible and affordable, potentially eroding public trust and increasing preventable diseases.
