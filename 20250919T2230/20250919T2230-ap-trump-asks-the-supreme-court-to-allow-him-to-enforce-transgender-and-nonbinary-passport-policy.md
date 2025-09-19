@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/trump-transgender-nonbinary-passports-a8abef038a19ffd233d34c88499cef11
+title: Trump asks the Supreme Court to allow him to enforce transgender and nonbinary
+  passport policy
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Donald Trump's administration has petitioned the Supreme Court to reinstate a passport policy that mandates gender markers based on birth certificates for transgender and nonbinary individuals. The Justice Department is appealing a lower-court ruling that allowed people to use gender markers aligning with their gender identity. This appeal is part of a series of emergency appeals by the Trump administration, many of which have been successful, including one related to banning transgender individuals from the military. The government argues that it should not be required to use what it deems inaccurate gender designations on official documents, while plaintiffs contend that the policy violates the rights of transgender and nonbinary Americans. The State Department revised its passport rules following an executive order from Trump, which declared that the U.S. would recognize only male and female sexes based on biological classification. Transgender actor Hunter Schafer, for instance, reported receiving a passport with a male gender marker despite submitting an application with a female marker. A judge blocked the Trump administration's policy in June after a lawsuit from nonbinary and transgender individuals, and an appeals court upheld the judge's order. The Trump administration has now asked the Supreme Court to suspend the order while the lawsuit continues. The administration argues that the Constitution does not prevent the government from defining sex based on biological classification, citing a recent Supreme Court ruling that upheld a ban on transition-related healthcare for transgender minors. However, an attorney for the plaintiffs asserts that the passport rules are discriminatory and that the administration has taken steps to limit the rights of transgender individuals.
