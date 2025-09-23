@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/tylenol-cause-autism-trump-kennedy-0847ee76eedecbd5e9baa6888b567d66
+title: Trump makes unfounded claims about Tylenol and repeats discredited link between
+  vaccines and autism
+publisher: ap
+usage: top
+initial_rank: 1
+---
+## Article summary
+President Donald Trump, during a White House news conference, promoted unfounded claims linking Tylenol, vaccines, and autism, despite medical consensus debunking these connections. He advised pregnant women and mothers not to use Tylenol, citing potential risks for autism, though medical experts and organizations like the Society for Maternal-Fetal Medicine and the American College of Obstetricians and Gynecologists dismissed these claims as irresponsible. The FDA announced it would notify doctors about potential risks of acetaminophen, the active ingredient in Tylenol, but scientific evidence remains inconclusive. Trump also reiterated discredited theories about vaccines causing autism, which contradicts decades of scientific research. The administration, led by Health Secretary Robert F. Kennedy Jr., launched a new effort to study autism's causes, focusing on existing studies rather than new research. FDA Commissioner Dr. Marty Makary proposed exploring leucovorin, a folic acid metabolite, as a potential treatment for autism, though current studies are small and not conclusive. Anti-vaccine activists, including Kennedy, have long pushed these unfounded claims, despite overwhelming evidence refuting them. Autism rates have risen due to better diagnosis and broader definitions, not environmental factors like vaccines or Tylenol. The administration's actions, driven by Kennedy and his supporters, have sparked controversies and disagreements within federal health agencies, including the CDC. Medical experts criticized Trump's remarks as dangerous and misleading, emphasizing the lack of evidence supporting his claims. Tylenol maker Kenvue disputed any link between the drug and autism, warning against avoiding its use during pregnancy due to potential risks from untreated fevers.
