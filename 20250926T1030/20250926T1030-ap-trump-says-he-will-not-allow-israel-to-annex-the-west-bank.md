@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/trump-israel-gaza-annex-west-bank-284f2db5b5e549cfecb6b24b26d98460
+title: Trump says he will not allow Israel to annex the West Bank
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Donald Trump has firmly stated that he will not allow Israel to annex the occupied West Bank, despite recent discussions among Israeli officials about potentially seizing parts of the territory. Trump made these remarks while signing unrelated executive orders in the Oval Office, emphasizing his opposition to any annexation. The possibility of annexation has been considered by Israel in response to several countries, including key U.S. allies like the United Kingdom and Canada, recognizing a Palestinian state. Trump has spoken with Israeli Prime Minister Benjamin Netanyahu about this issue and has been clear that he will not support annexation. The timing of these comments is significant as Israel is currently engaged in a major offensive in Gaza and expanding settlements in the West Bank. The West Bank is administered by the Palestinian Authority, and its annexation would likely end any remaining possibility of a two-state solution, which is widely seen as the only way to resolve the Arab-Israeli conflict. Netanyahu's government strongly opposes Palestinian statehood and supports the eventual annexation of much of the West Bank. The international community largely views Israeli settlements in the West Bank as illegal and an obstacle to peace. Several Western countries have recognized Palestinian statehood, aiming to support a two-state solution, a move that the U.S. and Israel have rejected. Despite these developments, many Palestinians remain skeptical about the potential for improvement in their circumstances as Israel's offensive continues.

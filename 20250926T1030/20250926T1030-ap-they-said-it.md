@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/quotes-world-leaders-unga-united-nations-0d5d12afc021c892c786104ae8c3f7ec
+title: 'They said it: Leaders at the UN, in their own words'
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+The United Nations General Assembly's 2025 session featured various leaders discussing global issues. Uganda's Vice President Jessica Alupo emphasized that hosting refugees should not burden the host country's economy. King Mswati III of Eswatini highlighted the loss of lives during the COVID-19 pandemic and the need to prevent further conflict-related deaths. Palau's President Surangel Whipps Jr. shared a local proverb about unity and collective action. Gambia's Vice President Mohammed Jallow stressed the importance of women's participation in conflict and peace discussions. The Netherlands' Prime Minister Dick Schoof noted the interconnectedness of global issues. Sierra Leone's President Julius Maada Bio asserted the equal sovereignty and responsibilities of small states. King Felipe VI of Spain underscored the importance of rules in international relations. Kenya's President William Ruto discussed the need for institutions to adapt and reform to remain relevant. Estonia's President Alar Karis condemned ongoing brutality, while Croatia's President Zoran Milanović emphasized the importance of preventing new wars and breaking cycles of violence. Suriname's President Jennifer Geerlings-Simons called for genuine unity among nations. Lithuania's President Gitanas Nausėda warned about the erosion of the international order. Jordan's King Abdullah II questioned the effectiveness of words in addressing crises. South Korea's President Lee Jae Myung highlighted the global impact of K-culture in fostering empathy. South Africa's President Cyril Ramaphosa advocated for shifting focus from war to poverty alleviation.
