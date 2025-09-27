@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/iran-snapback-sanctions-nuclear-us-israel-war-5b13ed1781659c1a9871427881ef239b
+title: "A hungrier, poorer and more anxious Iran awaits \u2018snapback\u2019 of UN\
+  \ sanctions over its nuclear program"
+publisher: ap
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+Iran's economy is struggling as it faces the reimposition of U.N. sanctions over its nuclear program, with ordinary people finding it increasingly difficult to afford basic food items. The Iranian rial is at a record low, driving up prices for staples like meat, rice, and other essentials. Concerns about renewed conflict with Israel and potentially the U.S. are growing, as missile sites struck during the June war appear to be rebuilt. Activists warn of rising repression within the Islamic Republic, which has executed more people this year than in the past three decades. Sina, a father of a 12-year-old, describes the current situation as the most challenging Iran has faced, even compared to the Iran-Iraq war and decades of sanctions. The snapback mechanism will freeze Iranian assets abroad, halt arms deals, and penalize the development of Iran's ballistic missile program. Iran has withdrawn from International Atomic Energy Agency monitoring and maintains a stockpile of uranium enriched to 60% purity, close to weapons-grade levels. The country argues that France, Germany, and the U.K. should not be allowed to implement snapback, citing the U.S.'s unilateral withdrawal from the nuclear accord in 2018. Experts warn that the situation is dangerous, with risks of miscalculation and further strikes by the U.S. or Israel. Inflation in Iran has reached 34.5%, with essential food items rising over 50% in price. The psychological pressure from the war and economic hardship has led to increased visits to psychologists, with experts warning of serious social and moral consequences if the situation continues. Iran has faced widespread protests in recent years, fueled by economic anger and demands for change, with the government responding with a surge in executions.
