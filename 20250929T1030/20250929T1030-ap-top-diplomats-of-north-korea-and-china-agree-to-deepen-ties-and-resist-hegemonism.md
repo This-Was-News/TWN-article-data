@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/north-korea-china-foreign-ministers-us-abf51c18841c30c67093f55e147cbd0a
+title: Top diplomats of North Korea and China agree to deepen ties and resist hegemonism
+publisher: ap
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+The foreign ministers of North Korea and China agreed to strengthen their bilateral ties and resist hegemonism and unilateralism, likely referring to the United States. This meeting in Beijing followed a recent summit between North Korean leader Kim Jong Un and Chinese President Xi Jinping, where they pledged mutual support and enhanced cooperation. The joint appearance of Kim, Xi, and Russian President Vladimir Putin at a Beijing military parade signaled potential three-way unity against the U.S., though the extent of China's involvement remains unclear. North Korean Foreign Minister Choe Son Hui emphasized Kim's commitment to bolstering ties with China, while Chinese Foreign Minister Wang Yi expressed China's firm position to solidify bilateral relations. Both countries agreed to strengthen cooperation in international and regional affairs, opposing unilateralism and power politics. The comments likely refer to their separate confrontations with the U.S., with China focusing on strategic competitions and North Korea on its nuclear weapons program. Kim's attendance at the Beijing military parade marked his first major multilateral event during his 14-year rule. North Korea has recently expanded cooperation with Russia by supplying troops and ammunition for the war in Ukraine, but experts suggest Kim now seeks to improve ties with China, its largest trading partner. China, in turn, aims to maintain influence over North Korea as bilateral ties reportedly cooled in recent years. Attention is now on the Chinese delegation for North Korea's upcoming military parade commemorating the 80th anniversary of its ruling Workers Party.
