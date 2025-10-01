@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/10/01/nx-s1-5558304/poll-political-violence-free-speech-vaccines-national-guard-epstein-trump
+title: A poll finds a growing agreement that political violence may be necessary to
+  right the country
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A recent NPR/PBS News/Marist poll reveals that 30% of Americans now believe political violence may be necessary to right the country, an increase from 11 points since April 2024, driven by Democrats. While 70% disagree, concerns about political violence are high, with 77% describing it as a major concern. The poll also shows a sharp political divide on who is more concerning: 70% of Democrats are more worried about violence toward protesters, while 74% of Republicans are more concerned about violence toward public officials. The survey, conducted with over 1,400 people, indicates that 62% believe the country is headed in the wrong direction, a sentiment that has reversed significantly for Republicans since Donald Trump became president. Additionally, 79% think the country has gone too far in restricting speech, and most believe the Supreme Court should define unacceptable speech. There is also a partisan split on the deployment of the National Guard to reduce crime, with 89% of Republicans in favor and three-quarters of Democrats opposed. The poll further shows strong support for childhood vaccinations and a divide on the importance of controlling gun violence versus protecting gun rights, with Democrats and independents prioritizing gun control, while Republicans prioritize gun rights.
