@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/10/01/us/politics/trump-military-founding-fathers.html
+title: "\u2018Dangerous Cities,\u2019 the Military, Trump and the Founding Fathers"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+President Trump suggested using U.S. military to address crime in cities like San Francisco and Chicago, which historians and former military leaders see as conflicting with the tradition of a nonpartisan military. The military has long aimed to remain nonpartisan, focusing on foreign threats rather than domestic issues. During Trump's first term, Defense Secretaries and Joint Chiefs of Staff resisted his attempts to use the military domestically for political purposes. Now, with Republicans controlling Congress, Trump's directives and appointments related to the military face less opposition. This includes deploying National Guard troops in Washington and Los Angeles against local leaders' wishes, banning certain books from military libraries, and planning to use military lawyers as immigration judges. Historians argue that deploying troops domestically as law enforcement goes against the founding fathers' intentions, who feared a standing army could be used to suppress dissent. The Posse Comitatus Act of 1878 generally bars active-duty forces from domestic law enforcement, though its origins were tied to post-Civil War politics. The founding fathers, influenced by historical events, sought to balance power between the president and Congress to prevent partisan military use. While past presidents used the military to enforce laws during crises, Trump's deployments lack such context, raising concerns about military professionalism. The military's high regard comes from its nonpartisan role, and using it for partisan domestic matters could detract from focusing on global threats like China and Russia.
