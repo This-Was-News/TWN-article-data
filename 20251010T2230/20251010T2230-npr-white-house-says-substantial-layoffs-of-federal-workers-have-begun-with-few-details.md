@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought
+title: White House says 'substantial' layoffs of federal workers have begun, with
+  few details
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Trump administration has initiated 'substantial' layoffs of federal workers during the government shutdown, with the Office of Management and Budget (OMB) director Russell Vought announcing the start of the reduction-in-force (RIF) process. While the exact number of affected employees remains unclear, some federal agencies, including the Department of Health and Human Services (HHS) and the Department of Education, have confirmed sending out RIF notices. Union leaders have reported receiving notices of intent to cut workforces in various agencies, including the Environmental Protection Agency (EPA) and the Department of Housing and Urban Development (HUD). The administration blames the Biden administration for creating a 'bloated bureaucracy,' although HHS has already cut more workers than were added during the Biden administration. Unions have criticized the layoffs, arguing that the administration is illegally dismantling essential federal services. The RIF announcement came hours before a court-ordered deadline for the federal government to detail the status of any planned or in-progress RIF notices. The Trump administration has argued that the cuts are necessary due to the lapse in funding, but some experts contend that layoffs are not required during a shutdown. Top Republicans blame Democrats for the layoffs, while Democrats accuse Republicans of exploiting the shutdown to shrink the federal government. Senate Majority Leader John Thune suggested the administration held off on layoffs as long as possible, while Minority Leader Chuck Schumer criticized the administration for deliberately causing chaos. Senator Susan Collins expressed opposition to the layoffs, highlighting the importance of federal employees' work. The layoffs have intensified tensions in Congress, potentially complicating efforts to end the shutdown.
