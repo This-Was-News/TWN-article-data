@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/live/donald-trump-news-updates-10-20-2025
+title: "Live updates: Trump and Australia\u2019s prime minister sign critical-minerals\
+  \ deal to counter China"
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+President Donald Trump and Australian Prime Minister Anthony Albanese signed an $8.5 billion critical minerals deal at the White House, aiming to counter China's new export restrictions. The agreement highlights the U.S. interest in Australia's rare-earth resources. Meanwhile, Head Start programs face funding cuts due to the government shutdown, affecting tens of thousands of preschoolers. Several universities have declined the White House's offer for funding in exchange for ideological commitments. The NCAA and NAIA baseball champions were honored at the White House. Two more suspects were charged in the beating of a Trump administration employee. An appeals court partially lifted a hold on Trump's command of Oregon National Guard troops. The White House is demolishing part of the East Wing to build a new ballroom. Trump discussed the Israel-Hamas ceasefire and warned of potential U.S. involvement. Federal officials faced questions about immigration crackdown tactics in Chicago. Trump plans to meet with Chinese leader Xi Jinping and discussed the Russia-Ukraine war with Ukrainian President Volodymyr Zelenskyy. The government shutdown continues, with negotiations ongoing. China removed a key trade official amid tensions with the U.S. Former Maine CDC Director Nirav Shah announced a run for governor. Colombia recalled its ambassador to the U.S. amid escalating tensions. The Supreme Court will consider a case on gun ownership for marijuana users. Protests against Trump's authoritarian rule continued across the U.S. China's new export rules on rare earths were criticized for extending its influence globally. Trump hosted Senate Republicans for lunch at the newly-renovated Rose Garden patio. Americans express growing concerns about job availability and rising costs under Trump's administration.
