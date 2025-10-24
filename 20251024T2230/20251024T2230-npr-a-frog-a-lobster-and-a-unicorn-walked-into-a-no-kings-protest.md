@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/10/24/g-s1-94724/trump-inflatable-animals-frog-no-kings-protest-portland
+title: A frog, a lobster and a unicorn walked into a No Kings protest
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Republicans, including House Speaker Mike Johnson and Treasury Secretary Scott Bessent, characterized recent "No Kings" rallies as "Hate America" gatherings attracting "unhinged" individuals. However, the protests were notably filled with people in inflatable animal costumes, resembling a "funhouse Noah's Ark." Scott Rohrbach, a NASA engineer, attended a rally in Washington, D.C., dressed as a unicorn, aiming to counter the narrative that protesters are anti-American radicals by using humor. He expressed concern about future election fairness under President Trump. The trend of animal costumes originated in Portland when a protester in a frog suit was targeted by law enforcement. This incident inspired "Operation Inflation," where streamers Jordy Lybeck and Brooks Brown raised funds to distribute inflatable costumes to protesters. The goal was to undermine Trump's portrayal of Portland as a "war zone" and make government responses appear farcical. Brooks Brown noted that the costumes make protesters appear less threatening and hinder quick movement, a point even acknowledged by a police officer. Princeton professor Kim Lane Scheppele suggests that such absurdist humor can be an effective tactic against autocrats, citing a past protest in Russia where toys were used to criticize the government. Scheppele believes these stunts publicize messages while creating a situation where any government response makes officials look worse. The animal costumes, therefore, serve to reframe protests, making it difficult to portray participants as a genuine threat.
