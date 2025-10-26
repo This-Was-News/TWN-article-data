@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/10/26/nx-s1-5586646/us-china-trade-deal-drawing-closer
+title: US and China say trade deal drawing closer as Trump and Xi prepare for meeting
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Officials from the United States and China have indicated that a trade deal is nearing finalization, with President Donald Trump and Chinese leader Xi Jinping expected to reach an agreement during their upcoming meeting. China's top trade negotiator, Li Chenggang, described the progress as a "preliminary consensus," while U.S. Treasury Secretary Scott Bessent stated there was a "very successful framework." Trump expressed confidence in reaching a deal, noting that both sides are eager to resolve trade tensions. This potential agreement comes amidst broader discussions at the ASEAN summit in Kuala Lumpur, where Trump has been engaging with regional leaders. The U.S. and China have been involved in a trade dispute, including China's restrictions on rare earth elements and Trump's threats of additional tariffs. Bessent mentioned that initial agreements include stopping the flow of fentanyl precursor chemicals to the U.S. and substantial Chinese purchases of American agricultural products, with export controls on rare earths being deferred. The U.S. is also seeking to reduce its reliance on China for critical minerals used in technology manufacturing. Trump's diplomatic efforts extended to mediating a ceasefire agreement between Thailand and Cambodia, which he credited his tariff threats for helping to achieve. He also met with Brazilian President Luiz Inácio Lula da Silva, discussing potential tariff reductions. However, Trump expressed anger towards Canada over a trade policy advertisement and threatened to increase tariffs. The U.S. is aiming to re-engage with the economically significant ASEAN region.
