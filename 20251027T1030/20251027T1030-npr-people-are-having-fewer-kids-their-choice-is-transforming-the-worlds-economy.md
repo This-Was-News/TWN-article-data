@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/10/27/nx-s1-5576355/population-babies-capitalism
+title: People are having fewer kids. Their choice is transforming the world's economy
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The world is experiencing a significant demographic shift as families are having fewer children, a trend observed in the U.S. and globally. This decision, influenced by economic considerations and changing life priorities, is leading to rapidly aging and gradually shrinking populations in many major economies. Economists warn that this demographic change could necessitate sweeping societal transformations, impacting retirement ages, labor markets, and social welfare programs. Countries like China, Japan, Italy, and South Korea are already seeing deaths outpace births, and more high-income nations are projected to face population decline without significant immigration. In the U.S., the trend of smaller families has been building for decades, resulting in a slower population growth and an increasing median age. Rural communities, like Franklin County, N.Y., are already grappling with population loss and a shortage of workers, leading to challenges such as empty storefronts and the closure of essential services like maternity wards. While some experts express concern about the economic implications of an aging and shrinking workforce, others, like Harvard economist Claudia Goldin, view these fears as overblown and potentially a backlash against women's empowerment and immigration. Governments in countries like Greece are implementing policies to encourage larger families, but experts are skeptical about their effectiveness, citing that the trend is driven by positive societal advancements. Ultimately, individuals like Ashley Evancho, who chooses to have only one child due to career and educational opportunity costs, suggest that economies may need to fundamentally adapt to this new demographic reality.
