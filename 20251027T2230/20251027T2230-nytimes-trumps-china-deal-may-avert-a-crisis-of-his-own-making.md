@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/10/27/us/politics/trump-china-trade-deal-talks.html
+title: "Trump\u2019s China Deal May Avert a Crisis of His Own Making"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Trump administration is signaling a potential trade deal with China that could revert the U.S.-China relationship to its pre-trade war state. Key elements of this potential agreement include China increasing purchases of American soybeans and pausing its rare earth minerals licensing system, while the U.S. would pause or remove some tariffs. This development comes after a period of escalating trade tensions where both nations imposed tariffs, harming companies operating across the Pacific. Officials have expressed optimism, citing a framework agreement reached in Malaysia that could avert a significant tariff increase scheduled for November 1st and secure substantial agricultural purchases. However, critics argue the administration is taking credit for resolving a crisis it initiated, as China's retaliatory measures, including tariffs on soybeans and curbs on rare earths, were responses to U.S. actions. The proposed deal is seen by some as a return to a status quo rather than addressing fundamental trade practice issues. The unpredictability of President Trump's deal-making style adds another layer of uncertainty, with markets reacting positively to the news. Unlike previous negotiations that were extensive, current talks appear less intensive, focusing on specific issues rather than broader systemic concerns. The aggressive trade policies from both sides have created an unstable environment, with companies caught in the crossfire and facing potential production disruptions. Experts suggest that both nations believe they have leverage, contributing to a potentially dangerous dynamic in their relationship.
