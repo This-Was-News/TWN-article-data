@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/10/29/us/politics/trump-china-nvidia-chips-sales.html
+title: As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Trump signaled he would discuss the sale of Nvidia's advanced AI chips, known as Blackwell, with Chinese leader Xi Jinping during an upcoming summit. This potential policy shift has raised alarms among U.S. officials who view it as a significant national security risk, as current regulations ban such sales to China. Critics argue that providing cutting-edge AI technology to China could shift the balance of power in the strategic competition between the two nations. Senator Chris Coons expressed concern that a trade-off for soybean orders could be a "tragic mistake." R. Nicholas Burns, former U.S. ambassador to China, echoed these sentiments, calling it a "massive mistake" that could strengthen China's military. Nvidia, however, has argued that China already possesses sufficient domestic chips for military applications and that maintaining access to the Chinese market benefits U.S. tech development. Nvidia's CEO, Jensen Huang, has emphasized the importance of global adoption of American tech standards and highlighted China's significant AI research community. The company has also been working with the U.S. government on regulations that could allow for a revenue cut on chip sales. This potential sale follows a previous instance where Trump reversed course on restricting the sale of a downgraded Nvidia chip, the H20, to China. Experts suggest that even a downgraded version of the Blackwell chip for China, the B30A, would offer a significant technological advantage over domestic Chinese production, leading to concerns about ceding America's lead in AI.
