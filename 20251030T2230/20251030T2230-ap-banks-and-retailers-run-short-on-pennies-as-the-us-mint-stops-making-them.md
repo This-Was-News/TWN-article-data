@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/penny-coins-lincoln-shortage-us-mint-trump-089cf657b3fa4d6dc21533cf6bb08cf3
+title: Banks and retailers run short on pennies as the US Mint stops making them
+publisher: ap
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+The United States is facing a significant shortage of pennies following President Trump's decision to halt their production earlier this year. Merchants across the country are running out of pennies, forcing them to round down transactions to avoid legal issues, which is costing some retailers millions. Banks are also unable to secure new penny shipments from the Federal Reserve and are rationing their existing supply. The abrupt end to penny production, without federal guidance, has left businesses pleading for customers to pay with exact change. While retailers have long advocated for the penny's abolition due to its high production cost (3.7 cents per penny in 2024), the sudden discontinuation has created logistical and legal challenges. The U.S. Mint stopped minting pennies in June, and by August, the last distributed coins were depleted from circulation. A major factor contributing to the shortage is the American habit of hoarding pennies, preventing their recirculation. Additionally, about a third of the coin terminals used for distribution are now closed to penny deposits, further hindering circulation. This lack of pennies has created a legal quandary for retailers, as rounding up transactions can violate laws ensuring equal pricing for cash and card customers. In response, many are rounding down, leading to financial losses. Unlike other countries that phased out small coins over years, the U.S. made an abrupt transition, leaving the retail and banking industries seeking clarity and guidance from the federal government.
