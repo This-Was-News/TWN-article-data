@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/hurricane-melissa-jamaica-haiti-cuba-killed-flooding-96bada7a26013c3cf4048d8390cc08f6
+title: "Haiti, Jamaica and Cuba pick up the pieces after Melissa\u2019s destruction"
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Communities in Haiti, Jamaica, and Cuba are beginning the arduous task of recovery in the wake of Hurricane Melissa's destruction. In Jamaica, efforts are underway to clear roads and reach isolated communities, with government workers and residents collaborating to remove debris. The storm left many homes destroyed, belongings waterlogged, and essential infrastructure, like roads and bridges, severely damaged, cutting off access to assistance. Emergency relief flights have landed, distributing vital supplies such as water and medicine, while helicopters deliver food to inaccessible areas. The education minister described the island as "really broken," and authorities reported at least 14 deaths, with the toll expected to rise. Cuba, having evacuated over 735,000 people, reported no deaths but significant damage to infrastructure and crops, with El Cobre being one of the hardest-hit towns. The U.S. State Department has expressed readiness to provide humanitarian assistance to Cuba. In Haiti, Melissa brought catastrophic flooding, resulting in at least 30 reported deaths and 20 missing persons, primarily in the southern region. Many individuals have been left homeless, struggling with hunger and a lack of shelter. The transitional presidential council president acknowledged the dire situation and the mobilization of resources for search and relief efforts. Hurricane Melissa made landfall in Jamaica as a Category 5 storm, tying strength records for Atlantic hurricanes. The storm, weakening to a Category 2, was forecast to pass near Bermuda, prompting the closure of its international airport and schools.
