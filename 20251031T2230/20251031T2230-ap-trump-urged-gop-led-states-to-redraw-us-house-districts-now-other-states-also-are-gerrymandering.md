@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/redistricting-gerrymandering-voting-maps-congress-trump-2ba53ae1f492f8e293f0fa261604e8c6
+title: Trump urged GOP-led states to redraw US House districts. Now other states also
+  are gerrymandering
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Donald Trump's call for Republican-led states to redraw U.S. House districts has sparked a wave of mid-decade gerrymandering across both Republican and Democratic-controlled states. Trump's objective is to help Republicans counter historical midterm election trends where the president's party typically loses seats, aiming to prevent Democrats from gaining the three seats needed to control the House. Texas, under Republican Governor Greg Abbott, enacted a new map potentially adding five Republican seats, though it faces legal challenges. California, led by Democrats, is proposing a new map to gain five seats, which requires voter approval. Missouri and North Carolina, also Republican-led, have approved maps that could add one seat each, facing opposition and lawsuits. Ohio's Republican-dominated panel approved new districts to boost GOP chances in competitive seats. Utah's Republican legislature revised districts after a judge struck down the previous map, potentially making some seats more competitive. Louisiana's Republican Governor Jeff Landry signed legislation to delay primaries, allowing time to redraw districts if the current map is overturned. Virginia's Democratic legislature is considering a constitutional amendment for mid-decade redistricting. Indiana and Kansas lawmakers are exploring special sessions for redistricting. Colorado's Democratic Attorney General supports a mid-decade redistricting amendment. Florida's Republican House Speaker has formed a redistricting committee. Illinois and Maryland Democrats are pushing for redistricting, while New York Democrats have proposed a constitutional amendment. Nebraska's Republican Governor supports mid-decade redistricting to potentially strengthen a competitive district.
