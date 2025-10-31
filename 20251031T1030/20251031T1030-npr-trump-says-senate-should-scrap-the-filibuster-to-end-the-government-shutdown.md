@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/10/31/nx-s1-5591978/trump-senate-scrap-filibuster-end-government-shutdown
+title: Trump says Senate should scrap the filibuster to end the government shutdown
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Donald Trump is urging the Senate to eliminate the filibuster to end the ongoing government shutdown. Trump believes this action would allow the Republican majority to bypass Democrats and reopen federal agencies. The filibuster, a Senate tactic requiring 60 votes to overcome, has given Democrats leverage against the Republican majority, contributing to the shutdown that began on October 1st. Trump's suggestion could significantly alter Senate procedures and congressional dealmaking. He expressed frustration that Republicans were allowing the shutdown to continue, especially after his successful trip to Asia. The shutdown is impacting Americans nationwide, with issues like food aid shortages, delayed flights, and rising healthcare costs becoming apparent. Senator Lisa Murkowski highlighted the growing food insecurity in Alaska due to the shutdown. While bipartisan talks are occurring, the shutdown is expected to persist, potentially becoming the longest in history. The outcome of upcoming off-year elections may influence future negotiations. Republicans, despite controlling Congress, are defending programs they previously sought to cut, including SNAP and Medicaid, which have faced substantial reductions and new work requirements. Democrats criticize these cuts, particularly to nutritional assistance, while Republicans argue the work requirements are necessary to combat waste and fraud. The expiration of federal subsidies for health insurance is also a major concern, with Democrats pushing for their continuation and Republicans suggesting they be addressed after the government reopens.
