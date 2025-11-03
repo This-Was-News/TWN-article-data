@@ -1,0 +1,9 @@
+---
+url: https://www.opb.org/article/2025/11/02/national-guard-block-again-portland-oregon/
+title: Federal judge again blocks National Guard deployment to Portland, Ore.
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A federal judge has blocked the Trump administration from deploying the National Guard to Portland, Oregon, until Friday, November 7th. U.S. District Court Judge Karin Immergut issued a short-term preliminary injunction, extending a previous order that was set to expire. The judge is still reviewing evidence from a three-day trial concerning the deployment. Oregon officials, including Attorney General Dan Rayfield and Governor Tina Kotek, have expressed strong opposition to the deployment, calling it unconstitutional and an infringement on state sovereignty. The legal battle began in late September when President Trump announced his intention to deploy troops, citing protests he described as "war-ravaged" and "under siege." The injunction suggests Immergut may rule in favor of Oregon, California, and Portland, who argue the deployment is unlawful. During the trial, law enforcement offered conflicting views on the necessity of the National Guard's presence. Immergut's order noted a lack of credible evidence that protests outside a U.S. Immigration and Customs Enforcement building were out of control or resulted in serious injuries to federal personnel. She also highlighted that a federal official testified they were surprised by the deployment and did not request it. The judge indicated that the situation in Portland did not meet the statutory conditions for deploying the National Guard, such as federal law being unable to be carried out or the presence of a rebellion. Immergut plans to issue a final ruling by Friday, which is expected to be appealed regardless of the outcome.
