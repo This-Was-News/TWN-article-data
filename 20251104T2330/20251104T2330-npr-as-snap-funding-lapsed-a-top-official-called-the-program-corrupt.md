@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/04/nx-s1-5595920/snap-usda-rollins-fraud
+title: As SNAP funding lapsed, a top official called the program 'corrupt'
+publisher: npr
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+Agriculture Secretary Brooke Rollins has described the Supplemental Nutrition Assistance Program (SNAP) as "corrupt" and "bloated" amid a government shutdown that threatened funding for the program, which serves approximately 42 million Americans. The Trump administration is partially restoring some federal food assistance payments after being ordered by federal judges, though delays are expected. Rollins stated that a data demand made to states, requiring personal information of SNAP recipients, revealed "massive fraud" and improper benefits to "illegal immigrants." However, undocumented immigrants are not eligible for SNAP, and only certain lawfully present noncitizens can receive benefits, with their status verified during the application process. Many states, particularly those with Democratic governors, have refused to comply with the data demand due to privacy concerns, and a federal judge blocked the USDA from withholding funds from non-compliant states. Rollins claimed to have removed nearly 700,000 people from SNAP and arrested about 118 individuals, citing examples of individuals receiving benefits in multiple states or deceased individuals still receiving payments. Experts question the methodology behind these numbers, suggesting they may be inflated or include individuals removed due to legislative changes rather than fraud. Noncitizens account for less than five percent of SNAP beneficiaries, and participation rates are lower among eligible immigrants compared to U.S.-born individuals. Critics worry that the administration is manipulating data to justify shrinking the program and promote a narrative about immigrant fraud.
