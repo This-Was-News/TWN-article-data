@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/government-shutdown-longest-trump-republican-senators-democrats-9712df6c11ef19c5df8f18c8a4f7b341
+title: Government shutdown becomes the longest on record as fallout spreads nationwide
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The government shutdown has reached a record 36 days, impacting millions of Americans through federal program cuts, flight delays, and unpaid federal workers. President Trump is refusing to negotiate with Democrats on health insurance subsidies until the government reopens, despite concerns about the administration's handling of SNAP food aid. While Trump met with GOP senators, no talks were scheduled with Democrats, who are questioning the president's commitment to his word. Centrist senators are attempting to negotiate an end to the stalemate, with expectations of a breakthrough following recent off-year election results. However, Senate Democrats emerged from a meeting with no clear path forward. This shutdown differs from previous ones as Trump is largely absent from negotiations, and House Speaker Mike Johnson has sent lawmakers home. Essential services like food aid and child care are disrupted, and air traffic controllers are warning of potential chaos if they miss another paycheck. Senate Majority Leader John Thune described the shutdown as the longest and most severe on record, urging Democrats to negotiate. Behind the scenes, senators from both parties are pushing for a return to normal funding processes and exploring agreements on bipartisan bills. A key challenge remains the funding for Affordable Care Act subsidies, which Republicans want reformed. The White House insists Democrats must fund the government first, while President Trump has suggested ending the filibuster to bypass Democrats, a move opposed by some GOP senators.
