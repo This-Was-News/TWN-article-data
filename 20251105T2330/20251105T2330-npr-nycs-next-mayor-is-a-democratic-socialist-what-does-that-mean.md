@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/05/nx-s1-5599928/democratic-socialism-explained-zohran-mamdani-bernie-sanders
+title: NYC's next mayor is a democratic socialist. What does that mean?
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+New York City has elected Zohran Mamdani, a democratic socialist, as its next mayor on a progressive platform focused on affordability. Mamdani, who represents both the Democratic and Working Families parties, is a member of the Democratic Socialists of America (DSA). Democratic socialism, while not having a single definition, generally advocates for increased government control over key economic sectors like healthcare and utilities for public benefit. Proponents, like Mamdani, often cite Dr. Martin Luther King Jr.'s vision of wealth distribution and aim to create a society where everyone can thrive. The DSA, the largest socialist organization in the U.S., emphasizes a rejection of private profit-driven economic systems in favor of a more equitable order. They distinguish their ideology from historic, authoritarian forms of socialism and even from "social democracy," which operates within capitalism. While acknowledging that radical change may not be immediate, democratic socialists work through organizing and lobbying for reforms like Medicare for All and the Green New Deal. The rise in popularity of democratic socialism has been linked to figures like Sen. Bernie Sanders and increased discontent among young voters with the Democratic Party, particularly after the 2016 election and during recent economic turbulence. Mamdani's victory, alongside other DSA-endorsed candidates like Alexandria Ocasio-Cortez, is seen by supporters as a significant step for the movement. Political scientists note that Mamdani's success might be specific to New York City's political landscape, but his governance could influence the perception and future of socialism nationwide.
