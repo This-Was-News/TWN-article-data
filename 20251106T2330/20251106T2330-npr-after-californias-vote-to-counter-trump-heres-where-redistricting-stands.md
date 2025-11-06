@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/06/nx-s1-5599558/states-redistricting-house-2026-midterm-elections
+title: After California's vote to counter Trump, here's where redistricting stands
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+California voters have approved a new congressional map, marking a significant Democratic response to President Trump's efforts to redraw voting districts in favor of Republicans for the 2026 midterm elections. This move by California aims to potentially gain five House seats for Democrats, countering actions taken by Texas Republicans over the summer. Trump has initiated a national redistricting race, viewing Republican advantages in the House as crucial for his agenda and protection against investigations. So far, Republicans have gained an edge in several states, with potential gains in Texas, Missouri, North Carolina, and Ohio, and could further benefit if states like Indiana, Kansas, Florida, or Louisiana redistrict. Democrats, while gaining ground in California and potentially Utah, have fewer legislative opportunities and face more restrictions on redistricting. Gerrymandering, the practice of drawing districts to favor a particular party, is legal in many states, potentially leading to less competitive districts and increased polarization. Lawsuits are also a factor, with ongoing legal challenges in Texas and California, and a Supreme Court case that could impact racial gerrymandering laws. Democratic-led states have more limited options due to fewer legislative majorities and, in some cases, redistricting commissions designed to reduce political influence. While some Democratic states like New York cannot complete redistricting in time for 2026, others like Virginia are initiating processes that could flip seats. States with a strong partisan advantage, like Massachusetts having all Democratic representatives, are also noted in the discussion.
