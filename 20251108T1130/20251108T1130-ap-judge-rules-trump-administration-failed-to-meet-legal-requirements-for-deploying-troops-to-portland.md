@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/national-guard-portland-oregon-trial-d0c6ebe5980b315f7f0688032100c6bc
+title: Judge rules Trump administration failed to meet legal requirements for deploying
+  troops to Portland
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+A federal judge in Oregon has ruled that the Trump administration did not meet legal requirements for deploying the National Guard to Portland. U.S. District Court Judge Karin Immergut found that the administration failed to establish a legal basis for the deployment, such as a rebellion or the inability to enforce the law with regular forces. The ruling followed a trial where arguments centered on whether protests at the city's U.S. Immigration and Customs Enforcement building met the conditions for using the military domestically under federal law. The administration had argued troops were necessary to protect federal personnel and property, citing Trump's description of Portland as "war ravaged." However, the judge noted that protests, while occurring nightly, had remained largely peaceful with only isolated instances of violence since mid-June. The occasional interference with federal officers was minimal and did not significantly impede immigration law enforcement. The Trump administration criticized the ruling, asserting that President Trump exercised lawful authority to protect federal officers amidst ongoing lawlessness and that they expect to be vindicated by a higher court. Oregon Attorney General Dan Rayfield stated that the court is holding the administration accountable to the truth and the rule of law, emphasizing that facts, not political whims, should guide legal application. This decision comes as other Democratic cities targeted by Trump for military involvement have also pushed back, arguing the legal threshold for deployment has not been met and that such actions violate states' sovereignty. Earlier orders from Immergut had already blocked the deployment of troops to Oregon, and the 9th U.S. Circuit Court of Appeals has also ordered that the troops not be deployed pending further action.
