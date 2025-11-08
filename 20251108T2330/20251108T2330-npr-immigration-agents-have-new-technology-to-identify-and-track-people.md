@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware
+title: Immigration agents have new technology to identify and track people
+publisher: npr
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+Immigration and Customs Enforcement (ICE) is significantly expanding its surveillance capabilities with new technologies designed to identify and monitor individuals. These tools include mobile applications that allow agents to use facial recognition and iris scanning in the field to determine a person's immigration status. ICE has also licensed software that accesses vast amounts of location-based data and revived a contract for spyware capable of hacking into cell phones. The agency is increasing its social media surveillance, employing AI-driven software and considering hiring contractors for 24/7 monitoring of platforms like Facebook and TikTok. This technological push aligns with the Trump administration's goal to increase deportations. Concerns have been raised by Democratic members of Congress and privacy advocates regarding the legality and potential misuse of these surveillance tools, emphasizing the erosion of privacy and constitutional rights. A recent video appears to show Border Patrol agents using a facial recognition app on young individuals. While ICE and DHS maintain that these technologies are used to fight crime and comply with oversight, critics argue that the surveillance apparatus is being built for broader policing purposes. The Department of Homeland Security is also proposing a rule to expand its ability to collect biometric data from noncitizens and their relatives. The use of spyware from companies like Paragon Solutions, which has been used to target journalists abroad, is also a point of concern, with legal groups suing DHS for records on its use.
