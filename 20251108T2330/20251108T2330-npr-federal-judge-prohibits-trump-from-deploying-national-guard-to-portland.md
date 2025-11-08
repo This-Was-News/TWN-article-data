@@ -1,0 +1,9 @@
+---
+url: https://www.opb.org/article/2025/11/07/portland-oregon-national-guard-trump-politics-karin-immergut/
+title: Federal judge prohibits Trump from deploying National Guard to Portland
+publisher: npr
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+A federal judge has permanently blocked President Donald Trump from deploying the National Guard to Portland. U.S. District Court Judge Karin Immergut ruled that the ongoing protests outside the U.S. Immigration and Customs Enforcement building did not warrant a National Guard deployment, despite acknowledging some violent incidents. She concluded that law enforcement was capable of addressing these situations and that the protests have been predominantly peaceful since a brief period in June. The permanent injunction went into effect immediately, marking the fourth time the judge has blocked such a deployment. The city of Portland and the states of Oregon and California had sued after Trump announced his intention to send troops, citing federal law that allows such deployments in cases of rebellion or inability to execute laws. During a three-day trial, the plaintiffs argued the executive branch exceeded its authority, while the Department of Justice maintained the president has sweeping authority. The White House stated they expect to be vindicated by a higher court. The ruling is seen as a check on presidential power, with political leaders emphasizing that no president is above the law. The judge also expressed concern that the Trump administration kept members of the Oregon National Guard at the ICE facility in violation of an earlier temporary restraining order. The administration's justification for the deployment, including the number of federal officers present, was also challenged and found to be inaccurate.

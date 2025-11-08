@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/shutdown-senate-thune-schumer-trump-9b1829525772259070ed73562ce4ebb3
+title: Weekend session gets off to slow start in Senate as lawmakers look for a way
+  out of shutdown
+publisher: ap
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Senate convened for a weekend session amidst a 39-day government shutdown, but progress remained elusive as lawmakers sought a resolution. The shutdown has had significant consequences, including unpaid federal workers, canceled flights, and delayed SNAP benefits. President Trump indicated no immediate willingness to compromise with Democrats on extending Affordable Care Act tax credits, proposing alternative healthcare solutions. While Senate Majority Leader John Thune dismissed Trump's proposal as not part of the shutdown solution, some Republicans echoed concerns about the current healthcare system. A bipartisan effort is emerging from moderate Democrats, proposing to end the shutdown in exchange for a future vote on Obamacare subsidies, which are set to expire and could double premiums. Senator Jeanne Shaheen is leading these talks, which involve extending funding for various government programs until later in the year, contingent on a future healthcare vote rather than a guaranteed subsidy extension. It remains uncertain if enough Democrats will support this plan, and President Trump and House Speaker Mike Johnson have expressed reservations about a guaranteed healthcare vote. Some Republicans are open to extending tax credits but want new limits on subsidies, advocating for direct consumer routing. Trump's call to scrap the filibuster to bypass Democrats has been rejected by Republican leaders, including Thune, who is focused on a bipartisan package. Democrats face a choice between continuing to fight for guaranteed subsidy extensions, prolonging the shutdown, or reopening the government with a promise of a future healthcare vote. Senate Minority Leader Chuck Schumer emphasized the risks of inaction, warning of financial hardship and loss of insurance for millions if Congress fails to act on the subsidies.
