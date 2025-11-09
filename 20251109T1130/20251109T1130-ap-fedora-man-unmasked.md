@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/louvre-fedora-man-ap-photo-c0d59847ef5f836a0c5ac49de8bff441
+title: 'Fedora man unmasked: Meet the teen behind the Louvre mystery photo'
+publisher: ap
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+A 15-year-old boy named Pedro Elias Garzon Delvaux has been identified as the "Fedora Man" captured in an Associated Press photo outside the Louvre on the day of a crown jewels heist. Initially, Pedro, a fan of fictional detectives, chose to remain silent about his identity, allowing the mystery surrounding the photo to grow. The image, taken by AP photographer Thibault Camus, showed Pedro walking past a crime scene, leading to widespread speculation online that he was a detective, an insider, or even an AI creation due to his vintage-inspired attire. Pedro, who dresses in a distinctive style inspired by 20th-century figures, was actually on his way to visit the Louvre with his mother and grandfather, unaware of the heist. The family's visit was cut short because the museum was closed due to the robbery. After the photo went viral, friends and family recognized him, especially when they spotted his mother in the background. Pedro eventually revealed his identity, surprising many with his age and ordinary explanation for his presence. He enjoys his "chic" style, which he wears to school and has even inspired a friend. Pedro sees a connection between unusual crimes and unusual appearances, aligning with his own aesthetic. He comes from a family that values art and museums, viewing them as living spaces. While he acknowledges the power of imagery and the stories people projected onto him, he ultimately confirmed he is a real person, not a fabrication. He is open to future opportunities, even jokingly suggesting he's waiting to be contacted for film roles, and intends to continue dressing in his unique style.
