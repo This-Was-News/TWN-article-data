@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/11/13/nx-s1-5608136/air-traffic-controllers-shutdown-back-pay-delay
+title: Air traffic controllers promised fast shutdown pay, but they've been told that
+  before
+publisher: npr
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+Air traffic controllers are being promised prompt back pay following the recent government shutdown, with Transportation Secretary Sean Duffy stating that the majority of their owed wages will be disbursed within days. However, this assurance is met with skepticism by some controllers who recall the lengthy and complicated process of receiving full compensation after the 2019 shutdown. During that previous shutdown, many essential air traffic controllers worked without pay and subsequently had to sue the federal government to recover overtime and other owed compensation. Some controllers only received settlement checks from the 2019 shutdown very recently, just before the current shutdown began. They express concerns about the FAA's ability to accurately track and compensate for overtime, shift differentials, and other pay adjustments this time around. The process of manually calculating owed wages was described as a "nightmare." Secretary Duffy has outlined a plan to pay 70% of back pay within 48 hours of the government's reopening, with the remaining 30% to follow about a week later. Despite these promises, some controllers remain wary due to past experiences, with one noting it took until May to be fully compensated for a shutdown that ended in January. Dozens of controllers filed lawsuits in 2019, alleging violations of the Fair Labor Standards Act regarding unpaid overtime, a case that eventually led to a settlement. The union representing controllers has declined to comment, referring inquiries to the FAA. Neither the FAA nor the Department of Transportation responded to NPR's requests for clarification on the back pay process. Secretary Duffy has also voiced support for a proposed $10,000 bonus for controllers who worked through the shutdown.
