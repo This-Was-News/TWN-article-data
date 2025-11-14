@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/11/14/us/trump-shutdown-news
+title: Trump Deflects Attention From His Ties to Epstein With Inquiry of Democrats
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The Trump administration announced it would lift tariffs on certain foreign products, including beef, tomatoes, coffee, and bananas, to ease consumer price pressures. The Federal Aviation Administration and Department of Transportation will reduce flight restrictions at 40 airports due to improvements in air traffic controller staffing. President Trump withdrew his nomination for the top IRS lawyer after criticism from a far-right activist. A proposed policy change could make it harder for immigrants from countries subject to the travel ban to obtain green cards. Attorney General Pam Bondi has been directed by President Trump to investigate ties between prominent Democrats and Jeffrey Epstein. The White House is rescinding a Biden-era rule that would have required airlines to compensate passengers for significant flight disruptions. Economic data releases remain delayed due to the government shutdown, impacting economists, policymakers, and investors. A Georgia prosecutor has appointed himself to oversee the election interference case against President Trump, replacing the previously disqualified Fani Willis. Switzerland and the United States reached a deal to lower tariffs on Swiss goods to 15 percent, with Swiss companies committing to significant investments in the U.S. Representative Eric Swalwell denies reports of mortgage fraud, alleging he is being targeted by the Trump administration. An NIH employee critical of Trump's health policies was placed on administrative leave. A secret Justice Department memo reportedly blesses President Trump's boat strikes as lawful, based on claims of an armed conflict with drug cartels.
