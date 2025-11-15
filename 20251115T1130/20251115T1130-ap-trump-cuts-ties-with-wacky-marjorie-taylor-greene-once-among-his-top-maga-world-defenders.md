@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/marjorie-taylor-greene-endorsement-trump-attack-epstein-db357b20a1ed419318e9486f55345875
+title: "Trump cuts ties with \u2018Wacky\u2019 Marjorie Taylor Greene, once among\
+  \ his top MAGA-world defenders"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Donald Trump has publicly disavowed Georgia Rep. Marjorie Taylor Greene, referring to her as "Wacky Marjorie" and stating he would endorse a challenger if a suitable candidate emerges for the upcoming midterm elections. This public break follows months of simmering disputes, during which Greene has seemingly moderated her political stance and openly criticized Republican leadership, particularly regarding government shutdowns and healthcare subsidies. Trump accused Greene of "going Far Left" and "COMPLAIN, COMPLAIN, COMPLAIN," dismissing her calls as those of a "ranting Lunatic." Greene responded on X, claiming Trump attacked and lied about her, suggesting his outburst was triggered by her efforts to release the Jeffrey Epstein files. She asserted that she does not "worship or serve Donald Trump" and has supported him significantly. Trump's dismissal appears to finalize a rift that widened after recent off-cycle elections, where voters leaned towards Democrats amid concerns over the cost of living. Greene had previously expressed that Trump should prioritize domestic issues like high prices over foreign affairs, a sentiment Trump countered by saying she had "lost her way." Trump also mentioned that people are encouraging challengers against Greene, believing she has "lost a wonderful conservative reputation." Greene's discontent has been evident since May, with her public criticisms of GOP donors and consultants, and her siding with Tucker Carlson against Trump. She has recently engaged in a "charm offensive," appearing on various media platforms to reach a broader audience, including Bill Maher's show and The View, where her more moderate tone was noted by co-hosts.
