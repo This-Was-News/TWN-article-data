@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/aircraft-carrier-venezuela-trump-ford-strikes-drugs-241ea9e039d717b9f80f793922cb7cc9
+title: US aircraft carrier arrives in the Caribbean in major buildup near Venezuela
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The USS Gerald R. Ford, the U.S.'s most advanced aircraft carrier, has arrived in the Caribbean as part of Operation Southern Spear, a significant buildup of American military power in the region. This deployment includes nearly a dozen Navy ships and approximately 12,000 personnel. The operation is officially described as a counterdrug effort, but it is widely seen as an escalation of pressure against Venezuelan President Nicolás Maduro. The U.S. military has conducted multiple strikes against vessels suspected of drug trafficking, resulting in at least 83 deaths in 21 attacks since early September. Rear Adm. Paul Lanzilotta stated the carrier strike group will bolster efforts against narco-terrorism in the Western Hemisphere, while Adm. Alvin Holsey emphasized readiness to combat destabilizing transnational threats. In Trinidad and Tobago, troops have begun joint training exercises with the U.S. military, which Venezuela has labeled an act of aggression. The U.S. administration insists the military buildup is solely focused on drug interdiction, though it has provided no evidence to support claims that those killed were narcoterrorists. Secretary of State Marco Rubio announced the State Department's intention to designate Cartel de los Soles, allegedly led by Maduro, as a foreign terrorist organization. Maduro has accused the U.S. of fabricating a war against him and has rallied his citizens to defend their homeland. Experts suggest the Ford's presence serves as a powerful message and potential instrument of intimidation, raising anxieties throughout the region.

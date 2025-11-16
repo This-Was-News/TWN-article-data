@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/trump-economy-midterms-republicans-affordability-election-losses-0e15f928cdbb01eee41eadfb477cb981
+title: "Trump\u2019s Republican Party insists there\u2019s no affordability crisis\
+  \ and dismisses election losses"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Despite recent election losses in several states, many Republican leaders maintain that the party's policies, message, and President Trump's leadership are not the issue. Trump himself asserts that Democrats and the media are misrepresenting voter concerns about the economy and high costs. To avoid further defeats in upcoming midterms, GOP officials are urging candidates to fully embrace Trump and highlight his accomplishments. This strategy underscores the Republican Party's deep reliance on Trump, who insists the economy under his administration is stronger than ever, a view that contradicts the experiences of many voters. The White House has subtly shifted its message to emphasize affordability, with Trump recently reducing tariffs on certain goods. However, his claims that Thanksgiving costs have decreased are factually inaccurate, as grocery prices have risen. Economic worries were the primary concern for voters in recent elections. Some strategists believe Trump's approach may not benefit the party, suggesting that candidates need to acknowledge and address voters' concerns directly. Representative Elise Stefanik, a House Republican leader, acknowledges affordability as a top constituent issue, downplaying the focus on cultural priorities. While unwilling to criticize Trump's policies, Stefanik emphasizes unity behind defeating the current Democratic governor. The Republican National Committee's talking points dismiss the recent losses as a result of Democratic voter advantages in those specific states, overstating Trump's popularity compared to former Presidents Obama and Bush. Despite evidence to the contrary, the party's messaging doubles down on supporting Trump and his agenda, stating that his and Republican efforts will ensure MAGA voters turn out in 2026.
