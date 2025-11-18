@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/israel-hamas-gaza-trump-11-18-2025-b4cc39532d7f100299ff3aa23c2143f1
+title: "Netanyahu applauds UN adoption of Trump\u2019s Gaza plan and Hamas rejects\
+  \ it"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The United Nations has adopted a U.S.-led resolution outlining a plan for Gaza, which Israeli Prime Minister Benjamin Netanyahu has praised, while Hamas has vehemently rejected it. The resolution establishes an international stabilization force to provide security in Gaza and approves a transitional authority, the Board of Peace, to be overseen by President Donald Trump. Netanyahu's office stated that the plan's emphasis on demilitarization and deradicalization of Gaza is key to achieving peace and prosperity. The U.S. plan includes provisions for the stabilization force to ensure the decommissioning of weapons from non-state armed groups and authorizes the use of necessary measures to carry out its mandate. Hamas, however, criticized the plan, arguing that its disarmament mandate strips the force of neutrality and turns it into a party favoring the occupation. The Palestinian Authority, on the other hand, welcomed the resolution, expressing readiness for immediate implementation and cooperation with international bodies. The resolution also envisions a potential future path to an independent Palestinian state, contingent on reconstruction and reforms, a point that was strengthened following pressure from Arab nations and Palestinians. Support from Muslim-majority and Arab countries, including Qatar, Egypt, and Saudi Arabia, was crucial for the resolution's adoption. The plan details the stabilization troops' role in securing Gaza's borders, coordinating humanitarian assistance, and working with Egypt and Israel. It also outlines a withdrawal of Israeli forces from Gaza based on agreed-upon standards linked to demilitarization. The U.N. vote occurred amidst ongoing conflict, with the resolution aiming to bolster hopes for maintaining a fragile ceasefire.
