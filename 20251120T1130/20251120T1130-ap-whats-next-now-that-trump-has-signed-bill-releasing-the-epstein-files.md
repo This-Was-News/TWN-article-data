@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/epstein-files-trump-congress-2dacdb8949433008f47a8b8876f558f0
+title: "What\u2019s next now that Trump has signed bill releasing the Epstein files"
+publisher: ap
+usage: top
+initial_rank: 1
+---
+## Article summary
+President Donald Trump has signed a bill that mandates the Justice Department to publicly release its case files related to convicted sex offender Jeffrey Epstein. This development follows months of resistance from Trump and significant political pressure, with both the House and Senate passing the bill with overwhelming bipartisan support. The Justice Department now has a 30-day deadline to produce the files, which are expected to be extensive, potentially around 100,000 pages. While the bill aims for transparency, it includes exemptions for victim-identifiable information, child sexual abuse material, and information deemed classified for national defense or foreign policy. There is also a provision allowing the withholding of information that could jeopardize active investigations, raising concerns among proponents that the department might open new investigations to shield certain details. The bill explicitly prohibits withholding information due to embarrassment, reputational harm, or political sensitivity. The release is anticipated to name individuals connected to Epstein, including global leaders and influential figures, sparking public anticipation and some concern about potential unintended consequences and the assumption of guilt. Proponents, including survivors of Epstein's abuse, are pushing for a full public reckoning and the naming of all accused individuals. The Justice Department is also required to provide reports on any withheld materials and redactions, with strictures against withholding based on political sensitivity.
