@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/21/nx-s1-5616287/senate-democrats-kennedy-center-investigation
+title: Senate Democrats are investigating the Kennedy Center for 'cronyism, corruption'
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Senate Democrats are investigating the John F. Kennedy Center for the Performing Arts for alleged "cronyism, corruption," citing "millions in lost revenue, luxury spending, and preferential treatment for Trump allies." Senator Sheldon Whitehouse, the ranking Democrat on the Senate Committee on Environment and Public Works, sent a letter outlining these claims to Kennedy Center president Richard Grenell. The investigation includes scrutiny of significant discounts on rental fees offered to non-arts groups, such as a contract with FIFA for the World Cup draw that reportedly waived the usual $5 million fee. Democrats also obtained contracts worth tens of thousands of dollars given to Grenell's associates. These allegations surface amidst declining audience numbers, artist cancellations, layoffs, and resignations at the Kennedy Center. While an analysis by The Washington Post indicated a significant drop in ticket sales, Grenell announced a record-breaking $58 million raised from donors. Grenell has denied all allegations, calling them "partisan attacks and false accusations" and instead blamed previous leadership for financial mismanagement and deferred maintenance. He stated that FIFA's event was covered by their "several million dollars" and expenses, in lieu of a rental fee. Former Kennedy Center president Deborah Rutter and board chair David Rubenstein have rejected Grenell's characterizations, suggesting that current financial gaps might be attributed to past management. Senator Whitehouse has requested specific financial documents and information from the Kennedy Center by December 4, 2025.

@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html
+title: The A.I. Boom Is Driving the Economy. What Happens if It Falters?
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+The U.S. economy in 2025 is experiencing a significant divergence, with the artificial intelligence sector booming while most other industries show weakness. Investments in AI developers, chipmakers, and data centers are driving substantial growth, creating jobs and boosting related industries like construction and power generation. This AI-driven expansion is offsetting economic downturns in sectors like tourism, government employment, and manufacturing, which are struggling with factors such as reduced hiring, budget cuts, and high prices. Companies supplying AI infrastructure, such as Caterpillar and Johnson Controls, are seeing increased sales of their equipment. Data center construction, in particular, is a major driver of nonresidential construction spending. However, this AI boom is heavily concentrated, with benefits primarily flowing to high-income households and specific tech hubs. Rural areas hosting data centers may face increased costs for utilities and limited long-term employment opportunities, despite initial construction jobs. The sustainability of this AI-fueled growth is a concern, as stock market valuations for AI-related companies are exceptionally high, raising fears of a potential bubble. If this AI gold rush falters, particularly due to a stock market correction, it could significantly impact consumer spending and lead to job losses in the service sector. The long-term economic benefit hinges on AI fulfilling its promise of transformative productivity increases. If AI does not deliver on this potential, current investments may prove to be unjustified, creating economic fragility.
