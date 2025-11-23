@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers
+title: Here's why concerns about an AI bubble are bigger than ever
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Concerns are mounting that the artificial intelligence industry is experiencing a bubble, with tech companies investing billions into AI chips and data centers, often relying on debt and risky financial tactics. While industry leaders like Nvidia CEO Jensen Huang and investors such as David Sacks and Ben Horowitz dismiss these fears, citing a boom and an investment super-cycle, others express skepticism. Venture capitalist Paul Kedrosky notes that the pace of AI improvement has slowed, questioning the sustainability of current growth expectations. The massive capital infusion, exemplified by OpenAI's ambitious data center plans and significant investments from major tech firms like Amazon, Google, Meta, and Microsoft, is raising eyebrows. Companies are increasingly using debt and complex financial structures, such as special purpose vehicles, to fund these ventures, a practice reminiscent of past financial crises like the Enron collapse. Some analysts worry that if demand for AI services doesn't meet projections, the overbuilt capacity could lead to significant financial losses. Furthermore, circular investment deals, where companies like Nvidia subsidize customers like OpenAI to purchase their chips, are also seen as artificially inflating demand. Prominent investors like Peter Thiel and Michael Burry have divested from or are betting against companies like Nvidia, highlighting concerns about inflated valuations and dubious accounting. Even some AI executives, like OpenAI's Sam Altman and Google's Sundar Pichai, acknowledge investor overexcitement and elements of irrationality in the current market, with Pichai stating that no company, including Google, would be immune if the bubble were to burst.
