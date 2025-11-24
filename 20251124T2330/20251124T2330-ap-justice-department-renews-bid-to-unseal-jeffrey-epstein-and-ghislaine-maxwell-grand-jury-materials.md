@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/justice-department-epstein-grand-jury-transcripts-441c932c63d726167c09f3ab813f68b5
+title: Justice Department renews bid to unseal Jeffrey Epstein and Ghislaine Maxwell
+  grand jury materials
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+The Justice Department has renewed its request to unseal grand jury transcripts related to Jeffrey Epstein and Ghislaine Maxwell's sex trafficking cases. This action is prompted by the recent passage of the Epstein Files Transparency Act, which mandates the release of government files concerning the late financier and his associate. U.S. Attorney Jay Clayton has filed court documents asking judges to reconsider previous decisions to keep the material sealed, citing the new law. The Justice Department interprets the transparency act as requiring the publication of this grand jury and discovery material. This move represents one of the first public steps towards complying with the act, which has a deadline of December 19 for the release of Epstein-related files in a searchable format. The department is seeking expedited rulings, arguing that the new law supersedes existing orders and policies that would prevent public disclosure. While the government proposes redacting victim-identifying information, some victims and Maxwell have been invited to respond to the request. The transparency act compels the release of all unclassified documents and investigative materials amassed during the investigations into Epstein's crimes. Previous rulings by judges Engelmayer and Berman had denied unsealing the transcripts, with Engelmayer suggesting the motive was an illusion of transparency and Berman stating the transcripts' content was minimal compared to other available information. Engelmayer noted the transcripts did not identify anyone other than Epstein and Maxwell as having sexual contact with a minor, nor did they reveal new methods of their crimes. Berman described the transcripts as a "hearsay snippet" dwarfed by the government's extensive files.
