@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/trump-health-care-plan-affordable-care-act-obamacare-97483a1f4d5e844f439c630d74d86ff2
+title: Health care plan circulated by the White House runs into familiar GOP divisions
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A health care proposal from the White House, aimed at extending Affordable Care Act (ACA) subsidies for two years with adjusted eligibility, is facing significant divisions within the Republican party. This familiar struggle highlights the GOP's long-standing difficulty in agreeing on how to address the ACA. The proposal comes as COVID-era tax credits are set to expire on January 1, potentially causing sharp premium increases for millions of Americans. While Democrats are demanding a straightforward extension, some have indicated openness to a plan similar to the White House's draft. However, many Republicans are hesitant, with some advocating for a repeal or overhaul of the ACA, a move that has previously failed. Senate Majority Leader John Thune had promised a vote on ACA tax credits by mid-December to help end a government shutdown, but the outcome remains uncertain. The White House proposal includes new income limits and would require premium payments for most Obamacare plans, addressing Republican concerns about fraud. Some bipartisan support exists in the House for a two-year extension with modifications. Despite this, House Speaker Mike Johnson has not committed to a vote, and some Republicans are pushing for abortion restrictions as a condition for extension. If Congress fails to act, premiums could more than double for subsidized enrollees. Some Republicans are exploring alternative proposals, such as health savings accounts, but these are unlikely to gain Democratic support. The situation is further complicated by mixed signals from former President Trump regarding his preferred healthcare approach.
