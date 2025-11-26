@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/11/25/nx-s1-5615164/pentagon-scouting-hegseth-cut-ties
+title: U.S. ready to cut support to Scouts, accusing them of attacking 'boy-friendly
+  spaces'
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The U.S. military is preparing to end its century-long partnership with Scouting America, formerly known as the Boy Scouts. Defense Secretary Pete Hegseth plans to sever all ties, citing the organization's shift away from being a meritocracy and its perceived promotion of "boy-friendly spaces." Documents indicate Hegseth criticizes Scouting America for being "genderless" and for embracing diversity, equity, and inclusion, which he argues goes against the mission of cultivating "masculine values." This proposed separation would halt military support for the National Jamboree and prohibit Scout troops from meeting on military installations worldwide. The military has historically provided significant logistical and medical aid to the Jamboree and used bases as meeting points for Scout troops, which has been beneficial for military families transitioning between postings. Scouting America, however, expresses pride in its military affiliation and aims to continue the relationship, emphasizing its nonpartisan nature and focus on leadership development. The organization also highlights the strong ties between Scouting and military recruitment, noting that a significant percentage of cadets and midshipmen have scouting backgrounds, with Eagle Scouts often receiving advanced rank and pay upon enlistment. Some within the Navy are concerned that cutting ties could negatively impact recruitment and accession efforts. The decision hinges on a statute allowing the Secretary of Defense to withhold support if deemed detrimental to national security, an argument Hegseth is reportedly using, also citing resource diversion from border operations and territorial protection due to the conflicts and budget constraints. The Pentagon has not officially commented on the "leaked documents," while Scouting America awaits further communication.
