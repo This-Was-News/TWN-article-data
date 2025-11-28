@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/hong-kong-tai-po-wang-fuk-court-fire-a84627d7f3ee62050c36a9aa3218205c
+title: Dozens more bodies recovered after Hong Kong blaze, raising death toll to 128
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Hong Kong firefighters have discovered dozens more bodies in a fire-ravaged apartment complex, bringing the death toll to at least 128 in one of the city's deadliest blazes. The search focused on apartments that had called for assistance but were unreachable during the fire. Many of the recovered bodies remain unidentified, and approximately 200 people are still unaccounted for. The investigation into the cause is expected to last several weeks. Initial findings suggest that some fire alarms were not functioning, and the rapid spread of the fire may have been exacerbated by bamboo scaffolding covered in netting. The fire started in one of eight towers at the Wang Fuk Court complex and quickly engulfed seven buildings. Firefighters took about 24 hours to control the blaze, with smoke continuing to emanate from the buildings for nearly two days. A total of 2,300 emergency personnel were involved, with 12 firefighters injured and one fatality among them. The complex, built in the 1980s and undergoing renovations, housed many older residents. Three men, including directors and an engineering consultant from a construction company, have been arrested on suspicion of manslaughter, with police suspecting gross negligence by company leaders. Authorities are also investigating whether materials used in the renovations met fire resistance standards and found flammable plastic foam panels attached to windows in the unaffected tower. Immediate inspections of other housing estates undergoing renovations are planned to ensure safety standards.
