@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/somalis-minnesota-trump-immigration-5b772dfcf1b342693f12083779247359
+title: "Trump targets Minnesota\u2019s Somali community with harsh words and policies"
+publisher: ap
+usage: top
+initial_rank: 1
+---
+## Article summary
+President Donald Trump has intensified his criticism of Minnesota's large Somali community, stating they contribute nothing to the U.S. and that federal authorities are preparing targeted immigration enforcement operations focusing on Somali immigrants living unlawfully in the state. The Minneapolis-St. Paul area is home to approximately 84,000 Somali descendants, most of whom are U.S. citizens, with nearly 58% of Somalis in Minnesota being U.S.-born and 87% of foreign-born Somalis being naturalized citizens. Trump's increased scrutiny follows claims by a conservative news outlet that taxpayer money from defrauded government programs has been diverted to the militant group al-Shabab, although federal prosecutors have not yet substantiated these links in public fraud cases. Last month, Trump announced the termination of Temporary Protected Status for Somali migrants in Minnesota, a move criticized as a legally dubious attempt to sow fear. Local Somali leaders, Governor Tim Walz, and Mayor Jacob Frey have pushed back against broader blame for recent large-scale fraud in public programs, such as the Feeding Our Future scandal, where many defendants were U.S. citizens. Earlier, Minnesota authorities struggled to prevent the recruitment of young Somali men by groups like the Islamic State and al-Shabab, with cases surfacing from 2007 onwards. Despite these challenges, Somalis have become a significant political force in Minnesota, notably with the election of U.S. Rep. Ilhan Omar and other Somali Americans serving in state and local government positions.
