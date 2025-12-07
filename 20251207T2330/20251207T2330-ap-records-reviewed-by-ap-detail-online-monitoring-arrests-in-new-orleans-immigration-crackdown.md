@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/immigration-new-orleans-online-monitoring-b2c300245ea4ffbef335502245760a1d
+title: Records reviewed by AP detail online monitoring, arrests in New Orleans immigration
+  crackdown
+publisher: ap
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+State and federal authorities in New Orleans are closely monitoring online criticism and protests related to an immigration crackdown, according to records reviewed by the Associated Press. Law enforcement agencies are tracking message boards around the clock for threats to agents and compiling updates on public sentiment regarding arrests made as part of "Operation Catahoula Crunch." Despite assurances that the sweeps target "criminal illegal aliens," records show that less than a third of the 38 individuals arrested in the first two days had criminal histories beyond traffic violations. Local officials express frustration over a lack of transparency regarding the operation, questioning the stated goals of arresting violent offenders. The U.S. Department of Homeland Security has released limited details about the arrests and has not provided a comprehensive accounting of detainees or their criminal histories. Governor Jeff Landry of Louisiana has welcomed the crackdown, which involves cooperation between state and federal agencies, including the FBI and Customs and Border Protection. State police have pledged operational support and warned the public against interfering with immigration enforcement. Activists, however, argue that the surveillance chills free speech and that the operation appears to be a dragnet targeting individuals based on their appearance. Law enforcement briefings have noted accusations of racial profiling and concerns that the operation is not solely focused on criminal immigrants. While no direct threats to law enforcement have been identified, authorities are tracking activist discussions, including trainings on filming federal agents and the use of hotlines for reporting arrests.
