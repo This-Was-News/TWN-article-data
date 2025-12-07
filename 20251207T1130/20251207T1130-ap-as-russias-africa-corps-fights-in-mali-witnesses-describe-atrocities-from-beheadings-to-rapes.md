@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2
+title: "As Russia\u2019s Africa Corps fights in Mali, witnesses describe atrocities\
+  \ from beheadings to rapes"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A new Russian military unit, the Africa Corps, has replaced the Wagner mercenary group in Mali and is reportedly committing atrocities, including rapes and beheadings, while collaborating with the Malian military. Dozens of refugees fleeing the conflict described the Africa Corps employing a "scorched-earth policy" with indiscriminate killings and abuses, mirroring Wagner's tactics. These accounts emerged from interviews with 34 refugees near the Mauritanian border, many of whom spoke anonymously due to fear of retaliation. Despite Malian authorities not officially acknowledging the Africa Corps, Russian state media has praised its counter-terrorism efforts, and Russia's Foreign Ministry confirmed its presence at Mali's request. Legal analysts suggest Moscow is directly responsible for the Africa Corps' actions, as it is embedded within the Russian Ministry of Defense. The unit's operations are largely unknown, but it is estimated to consist of around 2,000 fighters, potentially including individuals from Russia, Belarus, and African states. Civilian deaths attributed to Russian forces have decreased this year, but experts caution that numbers may not reflect the full scale due to increased fear of reporting and limited access for journalists and aid workers. Mali's withdrawal from the International Criminal Court further complicates efforts to track abuses. Refugees who returned home after Wagner's departure found that the Africa Corps continued the same or even worse methods, leading them to flee again. The shift from Wagner to Africa Corps, with its continuity in personnel and tactics, makes the Russian government directly accountable for any war crimes committed.

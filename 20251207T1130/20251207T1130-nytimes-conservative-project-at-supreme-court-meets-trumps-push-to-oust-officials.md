@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html
+title: "Conservative Project at Supreme Court Meets Trump\u2019s Push to Oust Officials"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+A long-standing conservative legal project to enhance presidential control over independent government agencies is now colliding with President Trump's efforts to remove officials from these bodies, challenging federal laws designed to protect their jobs. Chief Justice John G. Roberts Jr., who as a young lawyer advocated for greater executive branch control, now sits on a Supreme Court where a conservative majority has been chipping away at Congress's power to limit the president's authority to fire independent regulators. The upcoming Supreme Court decision in a case involving a Federal Trade Commission member, Rebecca Slaughter, could significantly shift power from Congress to the president, potentially restructuring the federal government. The administration argues that tenure protections for officials in such agencies are unconstitutional, infringing on the president's power to run the executive branch. This stance aligns with the unitary executive theory, which posits that all executive power is vested in the president and he must control all executive branch actions. The Supreme Court has previously taken steps to expand presidential firing power, notably in a case concerning the Consumer Financial Protection Bureau. While the Federal Reserve might be a unique case due to its historical insulation, the current court majority appears poised to grant the president more direct control over agencies like the FTC. The outcome of these cases could destabilize institutions crucial to American governance, impacting agencies responsible for consumer protection, worker safety, and environmental regulation.
