@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/11/nx-s1-5637488/midterm-elections-trump-redistricting-indiana
+title: In a setback for Trump, Indiana lawmakers defeat redistricting plan
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+Indiana lawmakers have voted against a congressional redistricting plan championed by President Trump, marking a significant setback for his efforts to aid Republicans in the 2026 midterm elections. The Indiana Senate, with a Republican majority, rejected the proposal by a 31-19 vote. This marks the first time Trump's redistricting campaign has been opposed by members of his own party. Republican state Senator Spencer Deery stated his opposition was rooted in conservative principles, resisting federal government overreach. Indiana Democrats also opposed the plan, arguing it would dilute the voting power of minority communities. Trump had urged Republican-led states to undertake mid-decade redistricting, a move also seen in Texas, Missouri, and North Carolina. The Indiana vote followed weeks of political tension, with some Republicans citing constituent opposition to altering current districts. Protests outside the chamber echoed sentiments against the redistricting effort. Indiana Governor Mike Braun, a Republican, had supported Trump's call and, along with Trump, had threatened primary challenges against senators opposing the plan. Amid rising tensions, lawmakers and their families reported receiving anonymous threats. Vice President Vance criticized Republican Senate President Pro Tempore Rodric Bray for encouraging votes against redistricting despite earlier assurances. Supporters of the redistricting argued it was a necessary political move to maintain Republican control of the U.S. House, pointing to similar actions by Democratic-led states.

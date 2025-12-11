@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/national-parks-dei-review-6feb21b4f2e8b495b33444d04f9a28fc
+title: US national park gift shops ordered to purge merchandise promoting DEI
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+The Trump administration has directed national parks to remove merchandise from their gift shops that is deemed to contradict President Trump's agenda, with a deadline of December 19 for compliance. This directive, issued by the Interior Department, aims to create neutral spaces for all visitors and is part of a broader effort to eliminate diversity, equity, and inclusion (DEI) programs. Conservation groups criticize this move as censorship that undermines the National Park Service's educational mission, while conservative think tanks argue that taxpayer-funded spaces should not promote what they consider divisive ideologies. Uncertainty surrounds which specific items will be banned, as the memo lacks concrete examples, leaving park employees and gift shop operators hesitant to speak on the record. The Interior Department stated the goal is to keep parks focused on their core mission of preserving resources for all Americans and to avoid promoting specific viewpoints. Critics argue this review is a waste of resources given existing staffing shortages and budget issues. The order requires all items, including books, apparel, and souvenirs, to be reviewed for neutrality. Some parks have already completed their reviews without flagging items, while others have historically sold merchandise related to figures like Frederick Douglass and the Civil Rights Movement. This initiative follows previous orders to flag materials that disparage Americans and an executive order from Trump emphasizing a focus on positive aspects of American history and achievements. The removal of merchandise has already impacted items catering to communities like the LGBTQ+.
