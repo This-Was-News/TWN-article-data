@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/trump-soybean-farmers-china-trade-tariffs-brazil-9663759ac3c9c7360bd5f23cb84180f0
+title: "Trump wants to keep farmers happy with cash. They\u2019re still worried about\
+  \ the future"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+American farmers are expressing mixed feelings about President Trump's latest $12 billion aid package, intended to alleviate losses from trade disputes and low commodity prices. While the financial assistance is seen as a welcome short-term relief, many farmers believe it is insufficient to address the long-term challenges facing the agricultural industry. Gene Stehly, a farmer from Randolph, Minnesota, stated that his fears about jeopardized international sales have materialized, and the aid doesn't cover current losses. Charlie Radman, a fourth-generation farmer, described the bailout as a "bridge" rather than a solution, emphasizing the need for more certainty and less reliance on ad hoc payments. Farmers were particularly hard-hit by China's reduced agricultural purchases during the trade war, impacting soybean and sorghum exports significantly. Despite promises from the administration regarding Chinese purchases, farmers remain skeptical about the integrity of these commitments. Glen Groth, another farmer, hopes for the administration to focus on opening markets beyond China and expanding domestic uses for agricultural products. Dan Keitzer highlighted that bumper crops and technological advancements necessitate increased demand, as most farmers prefer not to rely on government checks. The aid payments have eligibility caps, though past programs saw large farms finding ways to receive substantial amounts. Farmers are also concerned about rising costs and want the administration to address anti-competitive practices in the food supply chain, as indicated by a recent executive order. While grateful for the acknowledgment of their struggles, farmers like Tregg Cronin feel the government checks will likely be quickly spent on essential farm expenses.
