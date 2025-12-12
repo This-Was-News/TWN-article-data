@@ -1,0 +1,9 @@
+---
+url: https://www.kuow.org/stories/go-now-100-000-evacuated-in-historic-skagit-flood
+title: 100,000 people advised to evacuate as historic flooding hits Washington state
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Western Washington is experiencing historic flooding due to an atmospheric river, prompting widespread evacuation advisories and emergency declarations. In Pierce County, residents of River Park Estate in Sumner were advised to evacuate as floodwaters from the Puyallup River reached doorsteps, with some residents losing possessions in previous floods. Southeast King County is also affected, with the Cedar River forcing people from their homes in Maple Valley, where one resident managed to rescue family photographs from their inundated house. Everett officials are monitoring the Snohomish River, with forecasts indicating it has peaked, though some areas remain at risk of flooding, leading to road closures. Skagit County is facing the most severe impact, with over 75,000 residents under evacuation orders due to the Skagit River expected to crest at unprecedented levels, testing the resilience of recently repaired flood walls. Governor Bob Ferguson has declared a state of emergency and is seeking federal assistance, with Washington's Congressional representatives also urging President Trump to approve an emergency declaration. Emergency shelters have been established to accommodate displaced residents and their pets, though challenges with resources like pet food and dinner delivery have arisen due to flooded roads. The National Weather Service has issued flood warnings for multiple rivers across the state, with some areas anticipating water levels significantly higher than record-breaking floods in previous years. Climate scientists attribute the increasing intensity of atmospheric rivers to global warming. Despite the dire situation, no deaths have been reported thus far.
