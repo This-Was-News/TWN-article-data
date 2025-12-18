@@ -1,0 +1,9 @@
+---
+url: https://www.oceanstatemedia.org/politics/youve-got-to-run-every-lead-to-ground-r-i-attorney-general-peter-neronha-on-the-brown-university-shooting
+title: Rhode Island's AG gives an update on Brown University shooting investigation
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Rhode Island Attorney General Peter Neronha expressed confidence in the investigation into the Brown University shooting, stating that investigators are making progress in identifying and apprehending the suspect. While the suspect remained at large, Neronha indicated that the person seen in surveillance video is highly likely to be the perpetrator. The firearm used in the shooting has not yet been recovered, and the FBI is offering a reward for information leading to an arrest. Neronha addressed concerns that identifying and releasing a person of interest may have set back the investigation, asserting that all leads must be pursued thoroughly. He reflected on the increasing frequency of mass shootings in America, attributing it to a combination of anger, mental health issues, and the easy availability of weapons. Regarding safety concerns for students, Neronha acknowledged the understandable fear following the incident and expressed confidence that measures would be taken by Brown University and the city of Providence to enhance campus security for students' return. He also shared a personal reflection on the anxieties parents face regarding their children's safety in schools, acknowledging the unpredictable nature of such events and the role of luck and faith in ensuring safety. Neronha concluded by noting that in the current climate of gun violence, the nation is constantly vulnerable to tragic outcomes, a sobering reality that requires individuals to push past fear and continue moving forward.
