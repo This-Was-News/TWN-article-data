@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/live/donald-trump-news-updates-12-18-2025
+title: 'Live updates: Trump administration moves to cut off transgender care for children'
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The Trump administration has unveiled significant regulatory actions aimed at banning gender-affirming care for minors, a move that has drawn strong condemnation from transgender advocates. These proposals, which include cutting off federal funding for such treatments, are the most substantial yet against gender-affirming care for children. In other news, the Trump administration is moving to reclassify marijuana as a less dangerous drug, potentially easing regulations and opening avenues for medical research, though some Republican senators oppose this change. Washington's performing arts center is set to be renamed the Trump-Kennedy Center, a decision that has sparked criticism from some members of the Kennedy family and civil rights organizations. The administration is also facing scrutiny over a military strike on an alleged drug boat, with Democrats calling for a hearing on its legality. Meanwhile, a federal judge has ordered the reinstatement of federal workers fired during a government shutdown, though the ruling is on hold. The U.S. government is also finalizing a major loan for an African railway project to reduce reliance on China for critical minerals. Additionally, the U.S. Treasury Department has imposed sanctions on ships involved in Iran's petroleum trade, and the U.S. has placed sanctions on two International Criminal Court judges involved in investigating Israeli officials. Democrats are demanding a vote on extending Affordable Care Act subsidies, and rural schools are struggling with federal grant cuts. Finally, the U.S. government has finalized funding for a major African railway project aimed at reducing reliance on China for critical minerals.
