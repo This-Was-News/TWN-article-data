@@ -2,7 +2,7 @@
 url: https://apnews.com/article/spotify-youtube-twitch-amazon-recap-2025-3d057a82a1c75c13b1ddabb6da84f1f3
 title: How to find Spotify Wrapped, YouTube Recap and more as 2025 comes to a close
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

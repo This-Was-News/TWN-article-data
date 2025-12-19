@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/10/10/nx-s1-5567177/national-guard-map-chicago-california-oregon
 title: Trump says National Guard will soon go to New Orleans. Here's the latest
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

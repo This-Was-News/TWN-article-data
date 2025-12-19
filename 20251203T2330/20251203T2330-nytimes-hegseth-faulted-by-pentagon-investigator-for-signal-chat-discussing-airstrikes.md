@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/12/03/us/trump-news
 title: Hegseth Faulted by Pentagon Investigator for Signal Chat Discussing Airstrikes
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary

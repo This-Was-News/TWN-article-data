@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/03/nx-s1-5630116/shredded-cheese-recall-pecorino-romano
 title: 'Check your cheese: Shredded and grated varieties are recalled nationwide'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
