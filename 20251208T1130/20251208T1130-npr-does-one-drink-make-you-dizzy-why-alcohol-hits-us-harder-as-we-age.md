@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/08/nx-s1-5610478/alcohol-age-drink
 title: Does one drink make you dizzy? Why alcohol hits us harder as we age
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

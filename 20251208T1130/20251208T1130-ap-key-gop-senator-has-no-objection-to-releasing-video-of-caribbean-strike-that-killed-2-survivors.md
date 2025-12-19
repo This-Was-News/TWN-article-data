@@ -3,7 +3,7 @@ url: https://apnews.com/article/venezuela-boat-attacks-hegseth-trump-drug-cartel
 title: Key GOP senator has no objection to releasing video of Caribbean strike that
   killed 2 survivors
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
