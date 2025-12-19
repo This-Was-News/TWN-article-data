@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/04/nx-s1-5629211/health-care-broken-costs-united-health-investors
 title: U.S. health care is broken. Here are 3 ways it's getting worse
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

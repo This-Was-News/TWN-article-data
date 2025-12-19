@@ -3,7 +3,7 @@ url: https://apnews.com/article/pete-hegseth-boat-strike-admiral-congress-521606
 title: Lawmakers to hear from Navy admiral who ordered attack that killed boat strike
   survivors
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
