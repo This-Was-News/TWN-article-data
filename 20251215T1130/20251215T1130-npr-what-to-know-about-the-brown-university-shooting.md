@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/14/nx-s1-5644153/brown-university-shooting-man-identified
 title: What to know about the Brown University shooting
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

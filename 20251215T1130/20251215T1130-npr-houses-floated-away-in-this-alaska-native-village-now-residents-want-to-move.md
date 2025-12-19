@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/15/nx-s1-5596136/alaska-storm-native-climate-change
 title: Houses floated away in this Alaska Native village. Now residents want to move
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/2026-midterms-donald-trump-house-control-680d23f
 title: Another blue wave? Meet the Democrat trying to make it happen and the Republican
   trying to stop her
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

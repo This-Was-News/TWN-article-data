@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/14/nx-s1-5640820/farm-federal-relief-12-billion
 title: With federal relief on the horizon, Black farmers worry it won't come soon
   enough
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/12/15/us/rob-michele-reiner-dead
 title: Hollywood Director Rob Reiner and His Wife Are Found Dead
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
