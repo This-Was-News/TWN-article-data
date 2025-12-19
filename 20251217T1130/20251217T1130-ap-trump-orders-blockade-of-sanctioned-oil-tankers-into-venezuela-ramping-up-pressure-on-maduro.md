@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-venezuela-maduro-oil-tankers-625a7c9a3106e
 title: "Trump orders blockade of \u2018sanctioned oil tankers\u2019 into Venezuela,\
   \ ramping up pressure on Maduro"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

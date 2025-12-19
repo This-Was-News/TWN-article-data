@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/16/nx-s1-5645884/white-house-chief-staff-susie-
 title: What to know from Susie Wiles' interviews with 'Vanity Fair,' according to
   the writer
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

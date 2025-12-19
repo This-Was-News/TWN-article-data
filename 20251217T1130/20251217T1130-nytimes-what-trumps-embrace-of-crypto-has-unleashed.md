@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html
 title: "What Trump\u2019s Embrace of Crypto Has Unleashed"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
