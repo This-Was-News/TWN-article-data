@@ -3,7 +3,7 @@ url: https://apnews.com/article/issa-congress-redistricting-california-texas-b1e
 title: "Redistricting forced a California GOP congressman to weigh a Texas move. He\
   \ tells AP why he\u2019s not"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

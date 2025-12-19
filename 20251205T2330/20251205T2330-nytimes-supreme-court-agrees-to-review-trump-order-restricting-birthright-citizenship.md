@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/05/us/politics/supreme-court-trump-birthright-citizenship.html
 title: Supreme Court Agrees to Review Trump Order Restricting Birthright Citizenship
 publisher: nytimes
-usage: candidate
+usage: top
 initial_rank: 3
 ---
 ## Article summary

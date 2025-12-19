@@ -2,7 +2,7 @@
 url: https://apnews.com/article/warner-bros-netflix-acquisition-movies-impact-ad1a5beeb9240d02e37a9add8bfbe33d
 title: "What Netflix\u2019s acquisition of Warner Bros. means for the movies"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/texas-floods-camp-mystic-911-calls-98ba3a42f00dc
 title: 911 callers trapped in flooded attics and inundated camp cabins beg for help
   as floodwaters rise
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

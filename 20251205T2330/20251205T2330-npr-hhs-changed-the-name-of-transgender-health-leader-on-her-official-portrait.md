@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5633282/transgender-rachel-levine-portrait-hhs
 title: HHS changed the name of transgender health leader on her official portrait
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
