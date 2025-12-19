@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/13/world/middleeast/trump-gaza-plans-postwar.html
 title: "Can Trump\u2019s Grand Plans for Gaza Get Off the Drawing Board?"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

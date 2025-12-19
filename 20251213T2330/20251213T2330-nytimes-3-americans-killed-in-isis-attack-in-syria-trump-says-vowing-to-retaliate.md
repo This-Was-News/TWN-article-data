@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/13/world/middleeast/us-forces-attacked-syria.html
 title: 3 Americans Killed in ISIS Attack in Syria, Trump Says, Vowing to Retaliate
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

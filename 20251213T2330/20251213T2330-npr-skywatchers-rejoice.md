@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/13/nx-s1-5643515/geminids-meteor-shower-peaks-tonight
 title: 'Skywatchers rejoice: The Geminids meteor shower peaks tonight'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
