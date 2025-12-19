@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/12/07/us/trump-news
 title: Democrats Seek Release of Video That Shows Killing of Boat Strike Survivors
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
