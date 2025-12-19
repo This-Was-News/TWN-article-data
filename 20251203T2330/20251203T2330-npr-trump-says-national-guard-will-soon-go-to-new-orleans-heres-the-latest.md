@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/10/10/nx-s1-5567177/national-guard-map-chicago-california-oregon
+title: Trump says National Guard will soon go to New Orleans. Here's the latest
+publisher: npr
+usage: rejected
+initial_rank: 2
+---
+## Article summary
+President Trump has increasingly deployed the National Guard to cities with Democratic leadership, citing crime reduction and protection of federal interests. These deployments, however, have faced significant legal challenges and pushback from federal and state judges who have deemed them unlawful or unnecessary. Despite these rulings, the administration remains committed to domestic military deployments, with New Orleans being the next slated city. Louisiana Governor Jeff Landry requested federal assistance to deploy up to 1,000 National Guard members to combat high crime rates in New Orleans, Shreveport, and Baton Rouge. While Republican mayors in Shreveport and Baton Rouge have welcomed the possibility of additional resources, New Orleans Mayor-elect Helena Moreno has criticized Trump's actions as targeting blue cities and stated that crime has already decreased. Recent events in Washington D.C. saw a Guard member killed and another injured during a patrol, leading Trump to order an additional 500 troops and mandate that all Guard personnel be armed. This incident occurred shortly after a judge ruled the D.C. deployment unlawful, though the order was paused for an appeal. Similar legal battles are ongoing in Chicago and Portland, where troop deployments have been blocked or reduced due to lawsuits from state and city officials. In Los Angeles, a deployment in response to immigration protests also led to a legal dispute over the governor's consent. The Supreme Court is now considering an emergency appeal to lift the court order blocking troop use in Chicago.
