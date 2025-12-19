@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/12/nx-s1-5639883/fda-testosterone-treatment-mar
 title: Testosterone levels have declined in men. Here's what the FDA wants to do about
   it
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/12/nx-s1-5642538/machados-escape-from-venezuela
 title: How U.S. veterans helped Venezuela's Machado escape her country
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

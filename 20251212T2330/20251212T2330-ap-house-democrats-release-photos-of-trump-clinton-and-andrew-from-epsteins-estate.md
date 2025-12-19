@@ -3,7 +3,7 @@ url: https://apnews.com/article/epstein-photos-released-democrats-trump-clinton-
 title: "House Democrats release photos of Trump, Clinton and Andrew from Epstein\u2019\
   s estate"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

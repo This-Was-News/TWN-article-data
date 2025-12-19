@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/12/12/us/trump-news
 title: National Trust Sues Trump Over Ballroom
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
