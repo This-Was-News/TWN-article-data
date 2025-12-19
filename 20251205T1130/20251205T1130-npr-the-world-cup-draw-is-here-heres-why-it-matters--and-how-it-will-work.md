@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/05/nx-s1-5633268/fifa-world-cup-draw-soccer
 title: "The World Cup draw is here. Here's why it matters \u2014 and how it will work"
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

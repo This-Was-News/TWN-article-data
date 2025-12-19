@@ -3,7 +3,7 @@ url: https://apnews.com/article/india-russia-putin-visit-summit-talks-85e7605435
 title: Putin and Modi held talks and announce expansion of Russia-India trade ties
   amid US pressure
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/pete-hegseth-boat-strike-admiral-congress-521606
 title: "Admiral says there was no \u2018kill them all\u2019 order in boat attack,\
   \ but video alarms lawmakers"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
