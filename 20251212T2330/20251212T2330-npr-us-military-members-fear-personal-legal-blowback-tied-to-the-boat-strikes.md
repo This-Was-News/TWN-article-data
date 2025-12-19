@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/12/nx-s1-5629164/boat-strikes-service-members-legal-risk
+title: U.S. military members fear personal legal blowback tied to the boat strikes
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+U.S. military members, including staff officers and drone pilots, are seeking legal advice from outside organizations due to concerns about potential personal blowback from lethal strikes against suspected drug boats. Over the past three months, the U.S. has conducted over 20 strikes in the Caribbean and Eastern Pacific, resulting in more than 80 deaths. The administration asserts these actions are legal, conducted under the laws of war, and ordered by the President under his commander-in-chief powers. However, many legal experts and former military lawyers argue these strikes against alleged civilian narcotraffickers are unlawful and constitute murder. This legal disparity is causing anxiety among service members involved in the campaign. Organizations like Quaker House and the Orders Project have received increased calls from service members worried about the legality of their participation and the potential for punishment. Some officers report facing pressure from superiors to approve these strikes, even when they have reservations. The advice provided by these groups focuses on documenting pressure and seeking clarification, rather than declaring orders lawful or unlawful. While the individuals seeking advice are often not directly involved in executing the strikes, their calls highlight the confusion and apprehension some service members feel about their orders. There is a concern that future accountability may be driven by politics rather than established legal principles, creating an uncertain environment for military personnel.
