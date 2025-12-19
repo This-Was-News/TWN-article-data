@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/12/nx-s1-5639989/rockalina-box-turtle-friend
 title: For 50 years, Rockalina the turtle lived on a kitchen floor. Now she has a
   new friend
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

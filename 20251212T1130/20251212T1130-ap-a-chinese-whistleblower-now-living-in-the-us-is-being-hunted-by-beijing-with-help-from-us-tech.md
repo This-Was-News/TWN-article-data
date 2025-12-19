@@ -3,7 +3,7 @@ url: https://apnews.com/article/whistleblower-china-surveillance-tech-silicon-va
 title: A Chinese whistleblower now living in the US is being hunted by Beijing with
   help from US tech
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

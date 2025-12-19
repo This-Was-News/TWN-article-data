@@ -3,7 +3,7 @@ url: https://apnews.com/article/abrego-garcia-el-salvador-deportation-f6d3df5d23
 title: Abrego Garcia won release from detention. He must check in with immigration
   officials 14 hours later
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

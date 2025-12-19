@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/11/us/indiana-senate-redistricting-republicans.html
 title: "Indiana Lawmakers Reject Trump\u2019s New Political Map"
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
