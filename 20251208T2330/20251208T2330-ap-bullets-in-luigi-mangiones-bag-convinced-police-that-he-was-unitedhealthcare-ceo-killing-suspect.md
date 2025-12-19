@@ -3,7 +3,7 @@ url: https://apnews.com/article/mangione-unitedhealthcare-hearing-evidence-cb21b
 title: "Bullets in Luigi Mangione\u2019s bag convinced police that he was UnitedHealthcare\
   \ CEO killing suspect"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

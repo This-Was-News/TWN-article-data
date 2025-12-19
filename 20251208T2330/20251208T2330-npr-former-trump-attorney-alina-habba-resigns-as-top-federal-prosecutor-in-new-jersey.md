@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba
 title: Former Trump attorney Alina Habba resigns as top federal prosecutor in New
   Jersey
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
