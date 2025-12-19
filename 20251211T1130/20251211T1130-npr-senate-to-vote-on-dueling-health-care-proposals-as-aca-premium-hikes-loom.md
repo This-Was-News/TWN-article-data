@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/11/g-s1-101655/senate-aca-premium-vote
+title: Senate to vote on dueling health care proposals as ACA premium hikes loom
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Senate is set to vote on two competing health care proposals as subsidies for the Affordable Care Act (ACA) are scheduled to expire at the end of the month, potentially causing premiums to skyrocket. Senate Republicans promised Democrats a vote on extending these subsidies in exchange for reopening the government. Democrats are advocating for a three-year extension of the ACA subsidies, warning of significant premium hikes if they expire. Republicans, however, argue that extending the subsidies would perpetuate waste and fraud within the ACA. They are proposing an alternative plan, led by Senators Cassidy and Crapo, which offers up to $1,500 annually for health savings accounts for individuals earning less than 700% of the federal poverty level. This Republican proposal does not extend ACA tax credits and prohibits funds from being used for health care premiums, abortion services, or gender reassignment. Democrats have rejected the GOP plan, deeming it insufficient and criticizing its limitations. They argue that the Republican bill fails to address the core issue driving up costs, which is the expiration of ACA tax credits. Democrats are urging for an immediate extension of these credits, suggesting that changes to the healthcare system can be addressed later. The urgency is highlighted by the fact that 24 million Americans could lose their subsidies by year's end, and Democrats emphasize that there is no time to implement the Republican alternative. While Senate Democrats appear unified in their support for extending ACA subsidies, it remains uncertain if all Republicans will back their party's proposal.
