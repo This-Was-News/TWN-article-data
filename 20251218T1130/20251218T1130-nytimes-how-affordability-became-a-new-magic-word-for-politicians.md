@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/18/magazine/affordability-economy.html
 title: "How \u2018Affordability\u2019 Became a New Magic Word for Politicians"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/17/nx-s1-5647391/dinosaur-tracks-italy-olympics
 title: 'Italy makes a surprising discovery ahead of the Winter Olympics: dinosaur
   tracks'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/18/us/politics/6-takeaways-from-trumps-address-to-the-nation.html
 title: A Bellicose Trump Points Fingers in Defending Record on Economy
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

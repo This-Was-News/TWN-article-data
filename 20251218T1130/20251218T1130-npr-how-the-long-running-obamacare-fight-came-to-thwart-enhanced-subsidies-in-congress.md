@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/17/nx-s1-5645846/congress-health-care-subsidies
 title: How the long-running Obamacare fight came to thwart enhanced subsidies in Congress
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

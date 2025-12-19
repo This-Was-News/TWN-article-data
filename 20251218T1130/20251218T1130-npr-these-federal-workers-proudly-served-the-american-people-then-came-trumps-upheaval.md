@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/18/nx-s1-5626822/trump-federal-workers-firing-c
 title: These federal workers proudly served the American people. Then came Trump's
   upheaval
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

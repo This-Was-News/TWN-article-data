@@ -3,7 +3,7 @@ url: https://apnews.com/article/curling-stones-scotland-island-ailsa-craig-b8df5
 title: An uninhabited Scottish isle is home to the golden granite used in Olympic
   curling stones
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
