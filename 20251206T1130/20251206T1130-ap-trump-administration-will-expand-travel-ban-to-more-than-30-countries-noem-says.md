@@ -3,7 +3,7 @@ url: https://apnews.com/article/travel-ban-trump-immigration-national-guard-shoo
 title: Trump administration will expand travel ban to more than 30 countries, Noem
   says
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
