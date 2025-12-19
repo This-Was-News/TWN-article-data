@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/14/world/australia/what-we-know-bondi-shooting.html
 title: What We Know About the Shooting in Australia
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

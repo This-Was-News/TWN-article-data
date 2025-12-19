@@ -3,7 +3,7 @@ url: https://apnews.com/article/australia-shooting-sydney-bondi-beach-31f711f09f
 title: "Father and son gunmen kill at least 15 people in attack on Hanukkah event\
   \ at Sydney\u2019s Bondi Beach"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
