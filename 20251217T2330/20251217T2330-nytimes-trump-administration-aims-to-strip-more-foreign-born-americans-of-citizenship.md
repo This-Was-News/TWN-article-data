@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/17/us/politics/trump-immigration-citizenship-denaturalization.html
+title: Trump Administration Aims to Strip More Foreign-Born Americans of Citizenship
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Trump administration is planning to significantly increase efforts to strip naturalized Americans of their citizenship. Internal guidance obtained by The New York Times directs U.S. Citizenship and Immigration Services (USCIS) to provide 100-200 denaturalization cases per month for the 2026 fiscal year, a substantial escalation from previous years. Federal law allows denaturalization only in cases of fraud during the citizenship application process or other narrow circumstances. Activists express concern that this campaign could ensnare individuals who made honest mistakes on their paperwork and create fear among naturalized citizens. USCIS spokesman Matthew J. Tragesser stated the agency will pursue denaturalization for those who lied or misrepresented themselves during naturalization. Former agency officials worry that numerical targets risk politicizing citizenship revocation and turning a rare tool into a blunt instrument. Proponents of stricter immigration laws argue for more aggressive rooting out of improperly granted citizenship. The denaturalization process requires USCIS to refer cases to the Justice Department, which must then pursue them through federal courts. This process has historically been challenging and rare, with the Supreme Court emphasizing the preciousness of citizenship. Despite the increased referrals, experts question the government's ability to successfully denaturalize a large number of individuals due to the difficult court process. Concerns remain that arbitrary targets could lead to the unwarranted sweeping up of individuals, inciting fear among naturalized citizens.
