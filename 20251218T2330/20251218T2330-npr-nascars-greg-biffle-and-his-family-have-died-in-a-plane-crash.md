@@ -2,7 +2,7 @@
 url: https://www.wfae.org/charlotte-area/2025-12-18/plane-crashes-in-statesville-unclear-if-any-survivors
 title: NASCAR's Greg Biffle and his family have died in a plane crash
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

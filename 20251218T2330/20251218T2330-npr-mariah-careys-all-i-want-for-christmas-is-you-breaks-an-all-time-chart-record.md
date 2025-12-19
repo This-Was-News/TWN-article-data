@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/18/nx-s1-5647472/mariah-carey-all-i-want-for-christmas-is-you-all-time-record
 title: Mariah Carey's 'All I Want for Christmas Is You' breaks an all-time chart record
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

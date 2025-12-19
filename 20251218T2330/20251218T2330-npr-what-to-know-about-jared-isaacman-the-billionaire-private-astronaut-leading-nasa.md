@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/18/nx-s1-5648277/jared-isaacman-nasa-confirmed
 title: What to know about Jared Isaacman, the billionaire private astronaut leading
   NASA
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

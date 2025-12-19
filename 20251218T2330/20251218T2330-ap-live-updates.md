@@ -2,7 +2,7 @@
 url: https://apnews.com/live/donald-trump-news-updates-12-18-2025
 title: 'Live updates: Trump administration moves to cut off transgender care for children'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

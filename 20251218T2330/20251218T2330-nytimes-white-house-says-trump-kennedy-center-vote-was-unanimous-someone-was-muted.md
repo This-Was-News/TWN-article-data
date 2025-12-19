@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/12/18/us/politics/trump-kennedy-center-name.ht
 title: "White House Says Trump-Kennedy Center Vote Was \u2018Unanimous.\u2019 Someone\
   \ Was Muted."
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
