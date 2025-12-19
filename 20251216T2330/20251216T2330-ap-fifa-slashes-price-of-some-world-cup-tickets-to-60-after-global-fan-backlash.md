@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/fifa-ticket-prices-slashed-73e7147a8843d07af08fcc88068dce80
+title: FIFA slashes price of some World Cup tickets to $60 after global fan backlash
+publisher: ap
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+FIFA has announced a significant reduction in the price of some World Cup tickets, making them available for $60 to loyal fans. This decision comes after widespread criticism and backlash from global supporters regarding the previously high ticket prices, with some fans facing costs of up to $4,185 for final match seats. The new 'Supporter Entry Tier' price category will offer 400 to 750 tickets per game to national federations for distribution to dedicated fans. This move represents a rare concession from FIFA and its president, Gianni Infantino, who have faced scrutiny over various World Cup strategies. While FIFA states the lower prices aim to support traveling fans, fan advocacy groups like Football Supporters Europe view it as an appeasement tactic in response to negative public reaction. The upcoming North American World Cup, featuring an expanded 48 teams, is projected to be the most expensive for fans despite FIFA anticipating substantial revenue. Despite the outcry, FIFA has received over 20 million ticket requests. Fan groups argue that the majority of fans will still face exorbitant prices, significantly higher than in previous tournaments. Previously, the cheapest tickets ranged from $140 to $265, a stark contrast to an initial pledge made eight years ago for $21 tickets. Additionally, FIFA has agreed to waive administrative fees for refunds after the final match, addressing another point of fan frustration. Concerns have also been raised by fan groups regarding ticketing policies for individuals with disabilities, who are now facing higher prices and losing benefits previously offered.
