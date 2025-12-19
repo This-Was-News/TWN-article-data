@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/19/nx-s1-5615152/epstein-files-release-trump-pam-bondi-democrats
+title: The Justice Department begins the release of the Epstein files
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Justice Department has begun releasing documents related to the investigation of convicted sex offender Jeffrey Epstein. The "Epstein Library" website will host these files, categorized into Court Records, DOJ Disclosures, FOIA Records, and House Disclosures. While many of the initial documents are already public, hundreds of thousands more are expected to be released. The release is mandated by the Epstein Files Transparency Act, which requires the Attorney General to publish all unclassified records about Epstein and individuals connected to his criminal activities. This includes information on his accomplice Ghislaine Maxwell, plea deals, and records pertaining to his death. The files contain sensitive material, including photos and videos of accusers, which will not be made public. President Trump, who has had a complex public stance on the release, signed the act into law. Previously released documents, including emails and texts from the House Oversight Committee, have revealed powerful individuals in politics, academia, and business who sought Epstein's counsel. Notable figures mentioned include linguist Noam Chomsky, former Israeli Prime Minister Ehud Barak, Steve Bannon, former Harvard President Larry Summers, and former White House counsel Kathryn Ruemmler. Trump's name appears frequently in the released files, with Epstein expressing an obsession with his presidency and alleging Trump's knowledge of illicit activities. Epstein also made disparaging remarks about Trump in emails. A birthday book for Epstein, reportedly signed by Trump, was also previously released, though Trump has called it fake.
