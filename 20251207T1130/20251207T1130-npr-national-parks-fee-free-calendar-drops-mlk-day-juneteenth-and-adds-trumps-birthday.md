@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar
 title: National parks fee-free calendar drops MLK Day, Juneteenth and adds Trump's
   birthday
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

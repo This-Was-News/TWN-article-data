@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/06/g-s1-101082/abbott-glucose-monitor-deaths-recall-freestyle-libre
 title: 7 deaths and hundreds of injuries are linked to faulty Abbott glucose monitors
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

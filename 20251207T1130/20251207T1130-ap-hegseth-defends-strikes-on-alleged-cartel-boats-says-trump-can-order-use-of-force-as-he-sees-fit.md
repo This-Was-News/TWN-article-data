@@ -3,7 +3,7 @@ url: https://apnews.com/article/hegseth-trump-defense-reagan-cartels-nuclear-90e
 title: "Hegseth defends strikes on alleged cartel boats, says Trump can order use\
   \ of force \u2018as he sees fit\u2019"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

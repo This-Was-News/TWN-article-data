@@ -2,7 +2,7 @@
 url: https://apnews.com/article/pastor-philip-anthony-mitchell-2819-church-atlanta-4c7505c9bf6178bb3ea57b977480576e
 title: Young adults are waiting in line to worship at this fast-growing Atlanta church
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
