@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-slur-haiti-africa-immigration-28aa0785d6f3
 title: Trump once denied using this slur about Haiti and African nations. Now he boasts
   about it
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

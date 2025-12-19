@@ -3,7 +3,7 @@ url: https://apnews.com/article/senate-health-care-insurance-premiums-ee6ccda9ea
 title: Senate heads toward dueling partisan votes on health care, with each likely
   to fail
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary

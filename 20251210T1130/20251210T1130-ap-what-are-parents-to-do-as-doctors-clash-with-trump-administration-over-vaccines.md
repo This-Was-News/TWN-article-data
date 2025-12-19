@@ -2,7 +2,7 @@
 url: https://apnews.com/article/vaccine-safety-mmr-autism-rfk-hepatitis-20d3122d7a9a339cd8447a347bd49928
 title: What are parents to do as doctors clash with Trump administration over vaccines?
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

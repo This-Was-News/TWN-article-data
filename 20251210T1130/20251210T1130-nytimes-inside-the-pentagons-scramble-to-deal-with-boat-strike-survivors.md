@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html
 title: "Inside the Pentagon\u2019s Scramble to Deal With Boat Strike Survivors"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
