@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/11/nx-s1-5639823/best-movies-films-2025
 title: These 10 terrific movies emerged from a tumultuous year for the film industry
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

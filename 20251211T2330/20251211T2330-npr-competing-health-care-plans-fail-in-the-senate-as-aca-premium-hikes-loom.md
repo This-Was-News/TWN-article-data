@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/11/g-s1-101655/senate-aca-premium-vote
 title: Competing health care plans fail in the Senate as ACA premium hikes loom
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
