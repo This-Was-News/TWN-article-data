@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/12/09/us/politics/military-history-latin-ameri
 title: "\u2018Voodoo Rituals\u2019 and Banana Wars: U.S. Military Action in Latin\
   \ America"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

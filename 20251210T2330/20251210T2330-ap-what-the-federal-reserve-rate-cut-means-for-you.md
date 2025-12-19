@@ -2,7 +2,7 @@
 url: https://apnews.com/article/federal-reserve-rate-cut-finances-credit-cards-auto-loans-mortgages-jobs-28c665ed26bcd1652abb299cf87145f8
 title: What the Federal Reserve rate cut means for you
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

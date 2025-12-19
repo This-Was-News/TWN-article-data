@@ -2,7 +2,7 @@
 url: https://apnews.com/live/donald-trump-news-updates-12-10-2025
 title: 'Live updates: Trump says US has seized an oil tanker off the coast of Venezuela'
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

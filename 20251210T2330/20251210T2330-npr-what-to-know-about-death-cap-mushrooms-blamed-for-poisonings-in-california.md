@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/10/nx-s1-5639775/death-cap-mushrooms-california
 title: What to know about death cap mushrooms, blamed for poisonings in California
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
