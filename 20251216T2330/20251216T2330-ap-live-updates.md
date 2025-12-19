@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-12-16-2025
 title: 'Live updates: Trump bans travel from 5 more countries, imposes new limits
   on others'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

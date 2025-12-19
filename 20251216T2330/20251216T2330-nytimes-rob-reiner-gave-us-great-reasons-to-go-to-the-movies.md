@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/16/movies/rob-reiner-movies-director.html
 title: Rob Reiner Gave Us Great Reasons to Go to the Movies
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

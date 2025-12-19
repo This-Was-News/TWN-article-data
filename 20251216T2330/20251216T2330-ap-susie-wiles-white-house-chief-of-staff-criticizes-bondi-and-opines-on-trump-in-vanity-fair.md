@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-wiles-chief-staff-interview-cabinet-bondi-
 title: Susie Wiles, White House chief of staff, criticizes Bondi and opines on Trump
   in Vanity Fair
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

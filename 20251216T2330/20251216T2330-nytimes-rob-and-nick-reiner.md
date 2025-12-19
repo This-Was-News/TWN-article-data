@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/16/us/rob-nick-reiner-father-son-being-charlie.html
 title: 'Rob and Nick Reiner: A Father-Son Relationship in Several Acts'
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

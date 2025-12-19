@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/16/nx-s1-5598328/chain-restaurants-tariffs-inflation-prices-deals
 title: How do chain restaurants offer unlimited pasta in this economy?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
