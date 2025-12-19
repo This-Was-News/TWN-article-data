@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authoriz
 title: The Senate passes a $901B defense bill that pushes Hegseth to release boat
   strike videos
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 4
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/17/nx-s1-5647318/congress-retirement-2026-house-senate
 title: More than 10% of Congress is quitting after next session. Here's who's leaving
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

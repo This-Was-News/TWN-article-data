@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/17/nx-s1-5645820/holidays-heart-christmas-health
 title: 'Beware the Christmas coronary: How to spot signs of holiday heart trouble'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

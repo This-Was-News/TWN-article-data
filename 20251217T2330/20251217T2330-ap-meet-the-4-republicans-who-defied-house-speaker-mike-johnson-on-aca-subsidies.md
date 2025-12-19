@@ -2,7 +2,7 @@
 url: https://apnews.com/article/republicans-mike-johnson-aca-4601c4b607a2038a16c02bc8bf35492b
 title: Meet the 4 Republicans who defied House Speaker Mike Johnson on ACA subsidies
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
