@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/12/02/us/politics/trump-affordability-economy-
 title: "Trump Calls Affordability a \u2018Con Job\u2019 as His Edge on the Economy\
   \ Slips"
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

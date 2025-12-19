@@ -2,7 +2,7 @@
 url: https://apnews.com/article/conservative-christian-women-influencers-5f33d42cc1bb0aa3eef684e978df8e5b
 title: "How Christian \u2018momfluencers\u2019 are reshaping the American right"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

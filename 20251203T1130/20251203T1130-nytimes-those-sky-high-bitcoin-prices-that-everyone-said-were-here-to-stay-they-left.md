@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html
 title: Those Sky-High Bitcoin Prices That Everyone Said Were Here to Stay? They Left.
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -1,8 +1,6 @@
 ---
 url: https://www.npr.org/2025/12/02/nx-s1-5629186/youtube-2025-trends-videos-music-creators
-title: 'The defining cultural trends of 2025, according to YouTube
-
-  '
+title: 'The defining cultural trends of 2025, according to YouTube'
 publisher: npr
 usage: candidate
 initial_rank: 5
