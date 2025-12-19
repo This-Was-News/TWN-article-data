@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting
+title: CDC advisers vote to overturn decades-long policy on hepatitis B vaccine for
+  infants
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The CDC's Advisory Committee on Immunization Practices (ACIP) has voted to change its long-standing recommendation for hepatitis B vaccination in infants. The proposed change, if approved by the CDC's acting director, would mean that newborns would only receive the hepatitis B vaccine at birth if their mothers test positive for the virus or if their status is unknown. This marks a significant departure from the universal recommendation for all newborns, which has been in place for over 30 years and is credited with substantially reducing liver diseases caused by the virus. The vote was split, with 8-3 in favor of the change, reflecting deep disagreements among committee members and medical community liaisons. Critics of the change argue that the universal birth dose policy has been highly effective and safe, and that altering it could lead to an increase in hepatitis B infections. They expressed concern that the move is influenced by a questioning of vaccine safety rather than robust scientific evidence. Additionally, the committee voted 6-4 to recommend testing children's antibody levels after each hepatitis B shot to determine if additional doses are necessary, potentially leading some children to receive fewer than the standard three shots. This decision has been met with strong objections from medical groups who believe it undermines a proven public health strategy and could put vulnerable infants at risk. The shift in policy is seen by some as part of a broader effort to overhaul vaccine recommendations, with concerns raised about a systematic undermining of the nation's vaccine program. Public health experts continue to advise consulting medical providers and professional medical groups for science-based advice on disease prevention.

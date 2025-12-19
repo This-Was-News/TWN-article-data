@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/05/us/politics/supreme-court-trump-birthright-citizenship.html
+title: Supreme Court Agrees to Review Trump Order Restricting Birthright Citizenship
+publisher: nytimes
+usage: top
+initial_rank: 3
+---
+## Article summary
+The Supreme Court has agreed to review President Trump's executive order that sought to restrict birthright citizenship for children born to undocumented immigrants and some temporary foreign residents. This order, if it had gone into effect, would have challenged the long-standing interpretation of the 14th Amendment, which grants citizenship to nearly all individuals born in the United States. The legal battle centers on whether the 14th Amendment's citizenship clause, ratified after the Civil War, applies to children of non-citizens. Trump's administration argues the amendment was intended only for formerly enslaved people and their descendants, not for children of undocumented migrants. Previous attempts to implement the order were blocked by lower courts, with one judge calling it "blatantly unconstitutional." The Supreme Court previously sided with the Trump administration on a related issue regarding universal injunctions, which had curtailed the power of lower court judges to halt executive actions nationwide. Following that decision, the ACLU filed a new class-action lawsuit challenging the birthright citizenship order, asserting that it violates established law and tradition. The ACLU cites the 1898 Supreme Court case *United States v. Wong Kim Ark*, which affirmed birthright citizenship for individuals born in the U.S. to non-citizen parents. The case is expected to be heard in the coming months, with a decision anticipated by late June or early July, potentially impacting hundreds of thousands of births annually and representing a significant test of presidential power.

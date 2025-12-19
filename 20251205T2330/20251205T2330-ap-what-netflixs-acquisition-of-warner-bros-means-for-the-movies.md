@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/warner-bros-netflix-acquisition-movies-impact-ad1a5beeb9240d02e37a9add8bfbe33d
+title: "What Netflix\u2019s acquisition of Warner Bros. means for the movies"
+publisher: ap
+usage: rejected
+initial_rank: 5
+---
+## Article summary
+Netflix's potential acquisition of Warner Bros., a historic Hollywood studio, signals a significant disruption to the film industry and the future of moviegoing. Warner Bros., responsible for three of the top five domestic box office hits, including 'A Minecraft Movie' and 'One Battle After Another,' faces an uncertain future under streaming giant ownership. While Netflix co-CEO Ted Sarandos has stated a commitment to theatrical releases for Warner Bros. films, he also expressed skepticism about long exclusive theatrical windows, suggesting a shift from the traditional 90-day model. This move could impact major theater chains, which have had a complex relationship with Netflix releases, though recent successes like 'Glass Onion' and 'KPop Demon Hunters' have shown potential for collaboration. The acquisition also raises questions about the fate of Warner Bros.'s diverse slate of upcoming films, including 'Wuthering Heights,' 'Supergirl,' and Denis Villeneuve's 'Dune: Part Three,' as well as potential sequels to 'Superman' and 'A Minecraft Movie.' Industry leaders express concerns about the "unprecedented threat" to the global exhibition business and potential negative impacts on consumers. Filmmaker relationships are also a key consideration, as many top directors have strong ties to Warner Bros. and champion the theatrical experience, a dynamic complicated by past decisions like the simultaneous release of films on HBO Max. The future integration of HBO Max and Netflix remains unclear, though potential bundling options are being discussed, with Netflix highlighting the expanded content offerings for its subscribers.
