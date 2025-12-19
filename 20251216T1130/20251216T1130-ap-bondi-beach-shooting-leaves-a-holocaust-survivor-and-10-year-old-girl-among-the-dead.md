@@ -3,7 +3,7 @@ url: https://apnews.com/article/australia-shooting-victims-bondi-sydney-antisemi
 title: Bondi Beach shooting leaves a Holocaust survivor and 10-year-old girl among
   the dead
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

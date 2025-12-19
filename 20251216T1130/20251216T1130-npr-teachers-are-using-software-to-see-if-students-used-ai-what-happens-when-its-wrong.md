@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students
 title: Teachers are using software to see if students used AI. What happens when it's
   wrong?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

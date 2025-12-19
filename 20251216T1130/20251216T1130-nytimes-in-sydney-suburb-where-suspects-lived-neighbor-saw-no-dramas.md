@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/16/world/australia/sydney-bondi-suspects-neighborhood-bonnyrigg.html
 title: "In Sydney Suburb Where Suspects Lived, Neighbor Saw \u2018No Dramas\u2019"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
