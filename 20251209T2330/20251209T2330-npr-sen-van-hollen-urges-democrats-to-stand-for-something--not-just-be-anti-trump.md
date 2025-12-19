@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/09/nx-s1-5629032/sen-chris-van-hollen-says-demo
 title: "Sen. Van Hollen urges Democrats to stand for something \u2014 not just be\
   \ anti-Trump "
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

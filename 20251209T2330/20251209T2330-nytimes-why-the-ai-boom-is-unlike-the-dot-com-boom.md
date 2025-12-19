@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html
 title: Why the A.I. Boom Is Unlike the Dot-Com Boom
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

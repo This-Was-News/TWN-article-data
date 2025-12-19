@@ -2,7 +2,7 @@
 url: https://apnews.com/article/boat-strikes-pete-hegseth-venezuela-9f46a5f074b5b3c979ee41082949b196
 title: Hegseth tells congressional leaders he is weighing release of boat strike video
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/09/g-s1-101183/gop-authority-trump-pushback
 title: The GOP has allowed Trump to expand his authority. Here's where they're pushing
   back
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

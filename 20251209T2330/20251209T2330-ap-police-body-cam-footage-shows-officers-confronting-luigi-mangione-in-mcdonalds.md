@@ -3,7 +3,7 @@ url: https://apnews.com/video/police-body-cam-footage-shows-officers-confronting
 title: "Police body cam footage shows officers confronting Luigi Mangione in McDonald\u2019\
   s"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-12-9-2025
 title: "Live updates: Trump travels to Pennsylvania rally to talk about Americans\u2019\
   \ affordability worries"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

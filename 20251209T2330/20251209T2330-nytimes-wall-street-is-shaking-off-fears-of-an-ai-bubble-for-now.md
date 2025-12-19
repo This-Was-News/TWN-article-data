@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html
 title: Wall Street Is Shaking Off Fears of an A.I. Bubble. For Now.
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
