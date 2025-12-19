@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/05/nx-s1-5619186/supreme-court-agrees-to-hear-arguments-in-birthright-citizenship-case
+title: 'Supreme Court agrees to hear arguments in birthright citizenship challenge '
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The Supreme Court has agreed to hear arguments on President Trump's challenge to birthright citizenship, a principle that has been understood to grant citizenship to nearly all individuals born in the U.S. for 127 years. The Trump administration argues that citizenship has been too freely granted to children born to non-citizens, especially those present in the U.S. unlawfully or temporarily, such as tourists. This policy, introduced via executive order on the President's first day back in office, aims to withhold citizenship from children born after January 20, 2025, to such individuals. However, four federal courts and two appeals courts have blocked the executive order, citing the 14th Amendment, which states that all persons born or naturalized in the United States and subject to its jurisdiction are citizens. The administration contends that parents in the country temporarily are not fully "subject to the jurisdiction" of the U.S. and that the current practice facilitates "birth tourism." Despite repeated losses in lower courts, the Supreme Court will now consider the administration's arguments. Experts suggest the administration is pursuing a "long game" by being willing to lose lower court skirmishes to reach the Supreme Court. The governing precedent for birthright citizenship in such cases is United States v. Wong Kim Ark (1898), which affirmed citizenship for a child born in San Francisco to Chinese citizens. The Supreme Court's decision could significantly impact immigration law and may be highlighted before the 2026 mid-term elections.
