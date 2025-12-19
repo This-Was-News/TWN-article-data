@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/09/us/supreme-court-fed.html
 title: 'A Key Question for the Supreme Court: What About the Fed?'
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
