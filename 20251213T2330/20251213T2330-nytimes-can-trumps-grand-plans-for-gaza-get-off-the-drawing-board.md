@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/13/world/middleeast/trump-gaza-plans-postwar.html
+title: "Can Trump\u2019s Grand Plans for Gaza Get Off the Drawing Board?"
+publisher: nytimes
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+Two months after a cease-fire, Donald Trump's ambitious 20-point plan for Gaza, aimed at establishing lasting peace and future governance without Hamas, has yet to materialize. Key components, such as an international security force and a transitional government, face significant hurdles. Concerns linger about foreign troops engaging Hamas, leading to a lack of clarity and delayed formation of these bodies. Hamas has been rebuilding its presence in Gaza as progress on the plan has slowed. The plan proposes an international force to stabilize Gaza and train Palestinian police, with the UN Security Council granting a mandate for demilitarization. However, no country has publicly committed troops, and nations are hesitant to engage in combat or confiscate weapons from Hamas. Efforts to form the force are gaining momentum, with US military meetings scheduled and a CENTCOM presentation outlining troop deployment and training of Palestinian officers. The plan also designates a technocratic Palestinian committee for postwar governance, overseen by a "Board of Peace" chaired by Trump. Details about the board and committee membership remain unclear, with announcements likely postponed. Despite Hamas's historical opposition, a senior official suggested openness to international troops for monitoring cease-fires, not disarmament. Israel remains skeptical of the force's ability to disarm Hamas, with Prime Minister Netanyahu emphasizing that disarmament will occur, by force if necessary. Potential members for the executive committee include former Trump advisors and international figures, though some Palestinian activists have voiced criticism.
