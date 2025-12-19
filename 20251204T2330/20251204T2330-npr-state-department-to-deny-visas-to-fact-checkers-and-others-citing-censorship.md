@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship
 title: State Department to deny visas to fact checkers and others, citing 'censorship'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/04/nx-s1-5619692/supreme-court-texas-redistrict
 title: Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House
   seats
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-12-4-2025
 title: "Live updates: Admiral says there was no \u2018kill them all\u2019 order in\
   \ boat attack, but video alarms lawmakers"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
