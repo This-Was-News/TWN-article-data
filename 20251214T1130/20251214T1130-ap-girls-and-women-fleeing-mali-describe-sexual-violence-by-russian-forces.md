@@ -2,7 +2,7 @@
 url: https://apnews.com/article/mali-russia-africa-corps-refugees-rape-assault-28f34205d837dad8a323c3a034f96636
 title: Girls and women fleeing Mali describe sexual violence by Russian forces
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

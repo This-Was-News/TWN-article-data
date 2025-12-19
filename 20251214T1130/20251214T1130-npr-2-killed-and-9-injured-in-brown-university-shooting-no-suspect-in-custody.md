@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/13/nx-s1-5643588/brown-university-shooting
 title: 2 killed and 9 injured in Brown University shooting, no suspect in custody
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/13/nx-s1-5643538/chile-election-kast-jara
 title: Chile votes in polarizing presidential runoff as far-right takes lead
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
