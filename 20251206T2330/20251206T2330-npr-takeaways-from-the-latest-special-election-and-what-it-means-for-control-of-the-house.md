@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/06/nx-s1-5634822/takeaways-special-election-hou
 title: Takeaways from the latest special election and what it means for control of
   the House
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

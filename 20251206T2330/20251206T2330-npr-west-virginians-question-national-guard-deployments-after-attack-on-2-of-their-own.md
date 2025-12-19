@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/06/nx-s1-5634728/west-virginia-national-guard-d
 title: West Virginians question National Guard deployments after attack on 2 of their
   own
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

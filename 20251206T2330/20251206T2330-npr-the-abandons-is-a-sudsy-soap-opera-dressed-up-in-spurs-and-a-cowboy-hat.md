@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/06/nx-s1-5627082/the-abandons-netflix-western
 title: '''The Abandons'' is a sudsy soap opera dressed up in spurs and a cowboy hat'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

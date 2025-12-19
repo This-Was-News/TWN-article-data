@@ -3,7 +3,7 @@ url: https://apnews.com/article/national-parks-free-trump-birthday-juneteenth-ml
 title: "National Park Service drops free admission on MLK Day, Juneteenth while adding\
   \ Trump\u2019s birthday"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
