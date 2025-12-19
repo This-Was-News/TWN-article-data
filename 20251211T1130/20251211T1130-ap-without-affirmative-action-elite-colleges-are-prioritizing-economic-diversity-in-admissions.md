@@ -3,7 +3,7 @@ url: https://apnews.com/article/college-admissions-affirmative-action-scholarshi
 title: Without affirmative action, elite colleges are prioritizing economic diversity
   in admissions
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-seized-us-venezuela-trump.html
 title: U.S. Steps Up Campaign Against Maduro in Seizing Tanker Off Venezuela
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

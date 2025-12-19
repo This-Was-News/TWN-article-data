@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/10/nx-s1-5637430/youth-polling-update
 title: Young voters could be key to midterm success, but they've soured on both parties
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
