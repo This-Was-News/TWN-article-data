@@ -3,7 +3,7 @@ url: https://apnews.com/article/brian-walshe-wife-murder-trial-massachusetts-ver
 title: Brian Walshe found guilty of murdering his wife, who disappeared nearly 3 years
   ago
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

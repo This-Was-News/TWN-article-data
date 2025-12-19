@@ -2,7 +2,7 @@
 url: https://apnews.com/article/australia-shooting-bondi-beach-sydney-reconstruction-fb3e0653567b214670c16a28a6a5dea3
 title: The Bondi Beach shooting as seen from the beach, the boardwalk and a hotel
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

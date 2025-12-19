@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/14/nx-s1-5644153/brown-university-shooting-man-identified
 title: Brown University shooting victims identified as gunman remains at large
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary

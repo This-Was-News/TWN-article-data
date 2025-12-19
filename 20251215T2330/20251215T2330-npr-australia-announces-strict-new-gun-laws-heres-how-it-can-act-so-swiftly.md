@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/15/nx-s1-5645002/australia-new-gun-laws-sydney-bondi-shooting
 title: Australia announces strict new gun laws. Here's how it can act so swiftly
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/live/rob-michele-reiner-dead-updates
 title: "As it happened: Rob Reiner\u2019s son Nick \u2018booked for murder\u2019 in\
   \ stabbings of director-actor and wife"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

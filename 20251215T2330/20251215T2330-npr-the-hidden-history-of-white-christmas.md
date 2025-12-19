@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/15/nx-s1-5628363/white-christmas-bing-crosby-history
 title: The hidden history of 'White Christmas'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
