@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/12/us/politics/rubio-cuba-venezuela.html
 title: For Rubio the Cuba Hawk, the Road to Havana Runs Through Venezuela
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

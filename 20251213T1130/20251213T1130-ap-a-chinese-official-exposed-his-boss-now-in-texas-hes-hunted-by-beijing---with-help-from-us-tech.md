@@ -3,7 +3,7 @@ url: https://apnews.com/article/whistleblower-china-surveillance-tech-silicon-va
 title: "A Chinese official exposed his boss. Now in Texas, he\u2019s hunted by Beijing\
   \ - with help from US tech"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

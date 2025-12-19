@@ -2,7 +2,7 @@
 url: https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-c6f255d11c8ce09be5e67a8df3de2f64
 title: "What to know about Kilmar Abrego Garcia\u2019s release from immigration custody"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

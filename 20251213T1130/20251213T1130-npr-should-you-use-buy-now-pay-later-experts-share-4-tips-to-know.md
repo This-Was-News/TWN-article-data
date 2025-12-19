@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/13/nx-s1-5640011/buy-now-pay-later-holiday-shopping
 title: Should you use buy now, pay later? Experts share 4 tips to know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

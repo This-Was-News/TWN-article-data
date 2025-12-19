@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/12/nx-s1-5629164/boat-strikes-service-members-legal-risk
 title: U.S. military members fear personal legal blowback tied to the boat strikes
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
