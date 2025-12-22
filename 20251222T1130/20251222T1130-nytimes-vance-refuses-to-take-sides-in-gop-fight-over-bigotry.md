@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/21/us/politics/vance-republicans-trump-antisemitism.html
+title: Vance Refuses to Take Sides in G.O.P. Fight Over Bigotry
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+At Turning Point USA's annual conference, Vice President JD Vance adopted a "big-tent" approach, refusing to draw lines against extremists and conspiracy theorists within the conservative movement. This stance exposed deep divisions within the Republican party regarding the embrace or exclusion of such figures. Vance stated his intention to fight alongside "all of you," emphasizing that President Trump's coalition was built without "purity tests." The conference highlighted internal conflicts, with commentators like Ben Shapiro warning against amplifying conspiracies and figures like Candace Owens and Tucker Carlson facing accusations of antisemitism and promoting hate speech. Vivek Ramaswamy also criticized factions within the party, particularly those embracing "heritage American" ideas and those attacking Vance's wife. Vance, however, suggested a more inclusive approach, stating he did not bring a "list of conservatives to denounce and deplatform." While Vance has previously disavowed figures like Nick Fuentes, he has also downplayed their influence and avoided condemning extremist rhetoric in other instances, comparing controversial group chats to college discussions. He focused on unifying around Trump's immigration policies and targeting diversity initiatives, asserting that America will "always be a Christian nation." Vance also made controversial remarks about Somali Americans and criticized Democratic politicians. His inclusive stance drew criticism from some Republicans who prioritize a clear condemnation of antisemitism and a strong stance against Russia, while Trump allies praised his "unifying message" for future elections.
