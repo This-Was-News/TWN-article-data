@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/23/us/politics/national-guard-new-orleans.html
+title: National Guard Troops to Arrive in New Orleans
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Approximately 350 National Guard troops are set to arrive in New Orleans before New Year's Eve and will remain through at least February, according to Louisiana Governor Jeff Landry. This deployment follows similar deployments in Washington, D.C., and Memphis, and comes after President Trump's criticisms of high crime rates in Democratic-led cities. Governor Landry stated that the troops are intended to enhance safety during the city's busiest season. The announcement was made shortly after the Supreme Court's decision regarding National Guard deployments in Chicago. While Governor Landry can deploy the Guard without presidential approval, federal authorization helps cover expenses. The troops will join Border Patrol agents already present in the city since early December as part of a federal immigration crackdown. Their presence will coincide with the anniversary of a terrorist attack on Bourbon Street and extend through the Mardi Gras celebrations. New Orleans has been a focus for President Trump regarding crime, and Governor Landry had previously requested federal assistance for troop deployment. The mayor-elect of New Orleans expressed appreciation for the support, noting it comes at no cost to the city and will bolster public safety. This deployment, along with Border Patrol agents, reflects a broader Republican focus on linking crime concerns with immigration issues, despite data suggesting immigrants have lower crime rates. The National Guard's role is primarily supportive, complementing federal immigration agents, though their visible presence has raised some concerns. Crime in New Orleans saw a spike around the pandemic but has recently decreased to pre-pandemic levels, according to local police.
