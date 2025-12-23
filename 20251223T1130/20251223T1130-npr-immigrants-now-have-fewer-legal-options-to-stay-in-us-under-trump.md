@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/23/g-s1-103001/trump-immigration-deportation-migration-legal-status
+title: Immigrants now have fewer legal options to stay in U.S. under Trump
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+In the first 11 months of President Trump's presidency, over 1.6 million immigrants have lost their legal status in the U.S., a number exceeding Philadelphia's population. This marks a significant effort to remove deportation protections for individuals who had legally entered the country through various programs like parole, visas, asylum, and Temporary Protected Status (TPS). Immigration advocates suggest this figure may be an undercount, emphasizing that these individuals followed government procedures only to have their status revoked. The administration's actions include ending the CBP One app, which allowed migrants to schedule appointments for asylum, and pausing the diversity visa lottery program. Homeland Security Secretary Kristi Noem cited a perpetrator of a shooting as an example of why the diversity visa lottery is problematic. The White House states that limiting both legal and illegal migration is a key goal, with press secretary Karoline Leavitt asserting Trump's administration has been the most restrictive in history. The Supreme Court has allowed the administration to end humanitarian parole programs, impacting individuals from Cuba, Haiti, Nicaragua, and Venezuela. Additionally, TPS has been terminated for citizens of multiple countries, including Syria, Nicaragua, and Honduras, though some legal challenges are ongoing. The State Department has also revoked tens of thousands of visas, citing safety concerns. With several TPS designations set to expire in 2026, thousands more migrants face the potential end of their legal status, raising concerns about a significant reduction in those residing under temporary status for the first time since 1990.
