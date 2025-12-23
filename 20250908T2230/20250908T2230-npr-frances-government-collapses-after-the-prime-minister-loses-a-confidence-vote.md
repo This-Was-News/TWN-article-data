@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/09/08/g-s1-87610/france-government-collapse-confidence-vote-macron-bayrou
+title: France's government collapses after the prime minister loses a confidence vote
+publisher: npr
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+France's government collapsed after Prime Minister François Bayrou lost a confidence vote in the National Assembly. The vote, which resulted in a 364-194 defeat for Bayrou, was a significant political miscalculation as he gambled on lawmakers supporting his plan to slash public spending to reduce France's debt. The collapse of Bayrou's short-lived minority government has plunged France into renewed uncertainty and potential legislative deadlock, with pressing challenges including budget difficulties and international conflicts. President Emmanuel Macron, who appointed Bayrou last December, now faces the task of finding a fourth prime minister in 12 months. Macron's office stated he would accept Bayrou's resignation and name a new prime minister in the coming days. The root of the latest government collapse was Macron's decision to dissolve the National Assembly in June 2024, which backfired by producing a splintered legislature with no dominant political bloc. Bayrou's decision to call the confidence vote backfired as left-wing and far-right legislators seized the opportunity to oust him. Bayrou conceded that putting his fate to the vote was risky but argued that France's debt crisis compelled him to seek legislative support for remedies. Far-right leader Marine Le Pen called for Macron to dissolve the National Assembly again, hoping her party would win a majority in another snap legislative election. Macron's chosen replacement will face the same precarious environment and pressing budget problems, with France's public debt standing at 3.346 trillion euros, or 114% of GDP.
