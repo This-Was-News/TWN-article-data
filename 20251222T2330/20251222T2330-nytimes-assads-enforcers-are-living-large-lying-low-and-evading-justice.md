@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/22/world/middleeast/assad-syria-enforcers-lives-now.html
+title: "Assad\u2019s Enforcers Are Living Large, Lying Low and Evading Justice"
+publisher: nytimes
+usage: rejected
+initial_rank: 2
+---
+## Article summary
+Following the fall of the Assad regime in December 2024, many of its top enforcers, including war criminals, have either gone into hiding or are living luxuriously in exile. A New York Times investigation tracked 55 former regime leaders, finding that most have evaded justice. Some, like Maher al-Assad and former spymaster Ali Mamlouk, are residing in Moscow, with Russian authorities reportedly keeping them in one place for surveillance. Others have found refuge in the United Arab Emirates and Lebanon, or remain in Syria. The investigation revealed details of extravagant lifestyles, including birthday parties on yachts and comfortable living in Moscow apartments, often funded by the state or through illicit means. While some lower-ranking officers faced harsher conditions in Soviet-era accommodations, many top commanders secured luxurious housing. The United Arab Emirates has become a preferred haven for some, though they are required to refrain from political statements and public attention. Some officials, like Ghassan Bilal, accused of drug trafficking and war crimes, have invested in Emirati real estate and maintain properties in Spain. A few former officials have remained in Syria, with one, Tahir Khalil, identified as being detained. Amr al-Armanazi, who developed Syria's chemical weapons program, appears to be living comfortably in Damascus, though his role in war crimes remains unaddressed. The pursuit of justice for victims is hampered by a lack of political will from governments and reluctance to extradite fugitives.
