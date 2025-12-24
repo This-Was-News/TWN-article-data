@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/sections/goats-and-soda/2025/12/19/g-s1-102765/americas-new-top-health-diplomat-has-strong-opinions-on-abortion-and-gender
+title: America's new top health diplomat has strong opinions on abortion and gender
+publisher: npr
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+Bethany Kozma has been appointed as the new leader of the Department of Health and Human Services (HHS) Office of Global Affairs, a role often called the "diplomatic voice" of HHS. Kozma has a history of strong public statements and activism, notably equating abortion with "murder" and campaigning against gender-affirming care. While her background in global health is not widely documented, she previously served in the George W. Bush administration and re-entered public life as an activist during the Obama years. In 2017, she joined the Trump administration at the U.S. Agency for International Development, where she advocated against policies supporting gender fluidity and LGBTQ+ rights. She was also involved in Project 2025, a conservative blueprint for a future Republican administration, where she expressed views against climate change initiatives and gender-affirming care. Kozma's appointment comes at a time of significant shifts in global health policy, particularly following the U.S. withdrawal from the World Health Organization. Instead of engaging with the WHO, the current strategy involves striking individual deals with countries for health aid tied to specific policy prescriptions. Advocates express concern that Kozma may use her new position to embed anti-abortion and anti-LGBTQ+ policies into these agreements, potentially expanding the scope of the Helms Amendment, which restricts funding for abortion services. This could lead to reduced funding for health groups serving these populations, potentially increasing marginalization and disease risk, especially in countries desperate for aid.
