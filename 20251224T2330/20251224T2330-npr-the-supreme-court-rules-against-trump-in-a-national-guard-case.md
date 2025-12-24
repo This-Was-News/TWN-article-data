@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard
+title: The Supreme Court rules against Trump in a National Guard case
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The U.S. Supreme Court has ruled against President Trump, refusing to allow him to send National Guard troops into Illinois without the governor's consent. The administration had argued that federalizing the National Guard was necessary to protect federal agents and facilities in Chicago due to ongoing protests. However, lower courts had previously rejected Trump's claim that the situation constituted a rebellion against the U.S. government. The Supreme Court's majority opinion stated that the government failed to demonstrate sufficient legal authority for such a deployment and did not explain why it warranted an exception to the Posse Comitatus Act. This decision marks a significant, though not precedent-setting, moment in clarifying the president's power over federal military resources. Legal experts view this as a setback for Trump's deployment plans. The ruling was praised by Illinois Attorney General Kwame Raoul, who emphasized that the limited circumstances for federalizing the militia were not met in Illinois. The White House stated that the ruling does not detract from the administration's commitment to safeguarding the public. Justices Alito and Thomas dissented, arguing the court overstepped its bounds and that the President's constitutional authority to protect federal officers should have been sufficient justification. This case is part of a series of legal challenges Trump's administration has faced regarding National Guard deployments in various states, including Oregon, Tennessee, California, and Washington, D.C., with mixed outcomes.
