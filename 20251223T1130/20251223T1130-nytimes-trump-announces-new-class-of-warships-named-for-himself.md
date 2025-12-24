@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/22/us/politics/new-trump-class-warships.html
 title: Trump Announces New Class of Warships Named for Himself
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
