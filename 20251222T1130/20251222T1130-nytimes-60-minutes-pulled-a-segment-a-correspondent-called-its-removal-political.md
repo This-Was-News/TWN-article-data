@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/12/21/business/60-minutes-trump-bari-weiss.htm
 title: "\u201860 Minutes\u2019 Pulled a Segment. A Correspondent Called Its Removal\
   \ \u2018Political.\u2019"
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/turning-point-charlie-kirk-vance-republicans-202
 title: Vance refuses to set red lines over bigotry as conservatives feud at Turning
   Point
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
