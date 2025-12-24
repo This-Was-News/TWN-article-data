@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/interactive/2025/12/23/us/trump-white-house-oval-office-gold-decor.html
 title: "\u2018He\u2019s a Maximalist\u2019: Inside Trump\u2019s Gilded Oval Office"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

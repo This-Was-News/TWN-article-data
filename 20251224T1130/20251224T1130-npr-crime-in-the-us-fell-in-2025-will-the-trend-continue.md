@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/24/nx-s1-5611466/2025-crime-trends-2026-predictions
 title: Crime in the U.S. fell in 2025. Will the trend continue?
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
