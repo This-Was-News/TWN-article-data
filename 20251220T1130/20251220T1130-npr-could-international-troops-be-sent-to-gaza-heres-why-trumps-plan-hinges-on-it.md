@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/18/nx-s1-5647733/gaza-next-phase-israel-hamas
 title: Could international troops be sent to Gaza? Here's why Trump's plan hinges
   on it
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

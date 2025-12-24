@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/19/nx-s1-5615152/epstein-files-release-trump-pam-bondi-democrats
 title: DOJ releases Epstein files and the first batch is short on new information
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
