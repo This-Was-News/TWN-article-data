@@ -2,7 +2,7 @@
 url: https://apnews.com/article/60-minutes-trump-weiss-cecot-56c68d45c3d6bc7183f23aa285a70719
 title: "\u201860 Minutes\u2019 pulls story about Trump deportations from its lineup"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

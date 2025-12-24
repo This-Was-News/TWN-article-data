@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/22/world/middleeast/assad-syria-enforcers-lives-now.html
 title: "Assad\u2019s Enforcers Are Living Large, Lying Low and Evading Justice"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

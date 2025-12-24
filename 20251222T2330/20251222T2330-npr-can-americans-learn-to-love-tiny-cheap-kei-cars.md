@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/22/nx-s1-5644937/kei-cars-tiny-vehicles
 title: Can Americans learn to love tiny, cheap kei cars?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

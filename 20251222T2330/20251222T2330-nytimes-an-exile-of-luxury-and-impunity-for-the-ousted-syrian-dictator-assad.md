@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/22/world/middleeast/assad-syria-exile-luxury.html
 title: An Exile of Luxury and Impunity for the Ousted Syrian Dictator Assad
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
