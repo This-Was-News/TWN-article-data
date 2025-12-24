@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/sections/shots-health-news/2025/12/23/nx-s1-5643014/autism-aba-therapy-medicaid-costs
+title: ' It''s the ''gold standard'' in autism care. Why are states reining it in?'
+publisher: npr
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+States are implementing significant cuts to Medicaid funding for Applied Behavior Analysis (ABA) therapy, a widely used and often considered 'gold standard' treatment for autism. This reduction in services is impacting families across the country, who rely on ABA to help their children improve social interactions, communication, and daily living skills. For example, Aubreigh Osborne, a young girl diagnosed with autism, experienced remarkable progress with ABA therapy, but her access to care was abruptly halved due to state budget cuts. These cuts are driven by ballooning state Medicaid spending on ABA, which has seen dramatic increases in recent years, alongside concerns raised by audits about potential overbilling and improper payments by some providers. The financial pressures on state Medicaid programs are exacerbated by looming federal spending reductions. In response to these cutbacks, families are fighting back through lawsuits and advocacy, fearing that reduced access to ABA therapy will jeopardize their children's progress. Some states, like North Carolina, have temporarily reversed cuts following legal challenges, but the underlying issue of insufficient Medicaid funding persists. While some providers criticize the intensive, high-hour model of ABA, others are adapting to new rate structures, though concerns remain about provider availability. The situation highlights a complex interplay between the rising demand for autism services, the financial constraints of public health insurance, and the critical need for effective therapies for children with autism.
