@@ -3,7 +3,7 @@ url: https://apnews.com/article/new-epstein-files-trump-nassar-justice-departmen
 title: Voluminous new Epstein document release includes multiple Trump mentions, but
   little revelatory news
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

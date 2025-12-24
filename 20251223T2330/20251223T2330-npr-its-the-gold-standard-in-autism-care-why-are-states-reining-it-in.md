@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/shots-health-news/2025/12/23/nx-s1-5643014/autism-aba-therapy-medicaid-costs
 title: ' It''s the ''gold standard'' in autism care. Why are states reining it in?'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/12/23/us/trump-epstein-files-news
 title: Supreme Court Refuses to Allow National Guard Deployment in Chicago
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
