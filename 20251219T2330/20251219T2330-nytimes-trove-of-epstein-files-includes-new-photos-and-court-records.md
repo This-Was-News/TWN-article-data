@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/12/19/us/epstein-files-release
 title: Trove of Epstein Files Includes New Photos and Court Records
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/19/nx-s1-5648599/kennedy-center-president-history
 title: It was called the Kennedy Center, but 3 different presidents shaped it
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

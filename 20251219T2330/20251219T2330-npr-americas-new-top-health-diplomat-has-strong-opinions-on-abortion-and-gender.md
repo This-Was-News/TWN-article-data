@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/goats-and-soda/2025/12/19/g-s1-102765/americas-new-top-health-diplomat-has-strong-opinions-on-abortion-and-gender
 title: America's new top health diplomat has strong opinions on abortion and gender
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://apnews.com/live/donald-trump-news-updates-12-19-2025
 title: 'Live updates: Justice Department releases case files on Jeffrey Epstein'
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
