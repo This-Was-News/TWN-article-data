@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-on-key-issues
+title: U.S. and Ukraine reach consensus on key issues aimed at ending the war
+publisher: npr
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+The United States and Ukraine have reached a consensus on several key issues aimed at ending the ongoing conflict, though disagreements persist regarding territorial control in eastern Ukraine and the management of the Zaporizhzhia nuclear power plant. Ukrainian President Volodymyr Zelenskyy revealed that a 20-point plan, negotiated in Florida, has been presented to Russian negotiators, with a response anticipated soon. The most contentious points involve the Donetsk and Luhansk regions, with the U.S. proposing free economic zones and Ukraine insisting on a referendum and international forces for stability. Another significant hurdle is the management of the Zaporizhzhia nuclear power plant, where the U.S. suggests a tripartite consortium, while Ukraine proposes a joint venture with the U.S. that allows American discretion in distributing shares. Despite these sticking points, most other aspects of the agreement have found consensus between the U.S. and Ukraine. The draft proposal includes provisions for a frozen contact line, a referendum on territorial arrangements, and the withdrawal of Russian forces from certain regions, with international forces monitoring the ceasefire. Ukraine also seeks strong security guarantees mirroring NATO's Article 5, to be detailed in a separate bilateral document with the U.S. Additionally, the plan addresses economic recovery, proposing accelerated free trade agreements, privileged access to the European market, and a substantial global development package for reconstruction and investment in various industries. Ukraine also requires the release of all prisoners since 2014 and the return of civilian detainees, political prisoners, and children.

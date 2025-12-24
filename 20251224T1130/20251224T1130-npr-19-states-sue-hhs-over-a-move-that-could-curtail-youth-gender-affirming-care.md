@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/24/g-s1-103603/19-states-sue-hhs-over-youth-gender-affirming-care
+title: 19 states sue HHS over a move that could curtail youth gender-affirming care
+publisher: npr
+usage: candidate
+initial_rank: 5
+---
+## Article summary
+Nineteen states and the District of Columbia have filed a lawsuit against the U.S. Department of Health and Human Services (HHS), its secretary Robert F. Kennedy Jr., and its inspector general. The lawsuit challenges a recent HHS declaration that labels treatments like puberty blockers, hormone therapy, and surgeries as unsafe and ineffective for minors experiencing gender dysphoria. This declaration also warned healthcare providers of potential exclusion from federal health programs like Medicare and Medicaid if they offer such care. Filed in Oregon, the lawsuit asserts that the declaration is inaccurate, unlawful, and was implemented without proper public notice or comment, circumventing federal policy change requirements. New York Attorney General Letitia James, who led the suit, stated that the HHS secretary cannot unilaterally alter medical standards. The HHS declaration was based on a departmental report that favored behavioral therapy over gender-affirming care for youth and raised concerns about adolescent consent and potential infertility. Major medical organizations, however, have criticized the report and continue to support access to gender-affirming care. This legal action is part of a broader trend of states challenging federal actions and restrictions on transgender healthcare for young people, with several states already enacting bans or restrictions on such care. HHS also proposed rules to cut off federal funding for hospitals providing gender-affirming care to children and to prohibit federal Medicaid funds for these procedures, though these are not yet final.
