@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/19/g-s1-103194/u-s-launches-strikes-syria
 title: U.S. launches strikes in Syria targeting Islamic State fighters after American
   deaths
-publisher: npr
+publisher: lead
 usage: candidate
 initial_rank: 3
 ---

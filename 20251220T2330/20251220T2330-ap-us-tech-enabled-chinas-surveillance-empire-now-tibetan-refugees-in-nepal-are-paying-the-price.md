@@ -3,7 +3,7 @@ url: https://apnews.com/article/china-tibet-nepal-surveillance-technology-silico
 title: "US tech enabled China\u2019s surveillance empire. Now Tibetan refugees in\
   \ Nepal are paying the price"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

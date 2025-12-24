@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/20/upshot/affordability-democrats-trump.html
 title: How Democrats Used One Word to Turn the Tide Against Trump
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

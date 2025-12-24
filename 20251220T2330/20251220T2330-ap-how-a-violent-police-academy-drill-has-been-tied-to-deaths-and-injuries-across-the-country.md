@@ -3,7 +3,7 @@ url: https://apnews.com/article/redman-drills-police-academy-training-deaths-ed1
 title: How a violent police academy drill has been tied to deaths and injuries across
   the country
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

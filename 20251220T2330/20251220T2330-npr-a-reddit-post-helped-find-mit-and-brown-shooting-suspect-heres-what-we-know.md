@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/19/nx-s1-5649528/brown-mit-shooter-what-we-know
 title: A Reddit post helped find MIT and Brown shooting suspect. Here's what we know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

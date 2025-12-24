@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/20/us/politics/middle-class-us-economy-affordability.html
 title: These Young Adults Make Good Money. But Life, They Say, Is Unaffordable.
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
