@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/goats-and-soda/2025/12/21/g-s1-102866/health-c
 title: "On winter's coldest days, this classic Kashmiri coat offers warmth \u2014\
   \ and wisdom"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

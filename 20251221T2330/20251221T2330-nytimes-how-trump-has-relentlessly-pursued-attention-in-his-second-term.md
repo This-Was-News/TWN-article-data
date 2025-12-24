@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/interactive/2025/12/20/business/media/trump-media-year-in-review-2025.html
 title: How Trump Has Relentlessly Pursued Attention in His Second Term
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

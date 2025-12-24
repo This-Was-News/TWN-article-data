@@ -3,7 +3,7 @@ url: https://apnews.com/article/venezuela-trump-blockade-ship-intercepted-coast-
 title: Coast Guard is pursuing another tanker helping Venezuela skirt sanctions, US
   official says
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
