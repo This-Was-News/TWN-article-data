@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/20/nx-s1-5650758/epstein-files-doj-trump-photo
 title: Available to download Friday, some Epstein files no longer there Saturday afternoon
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

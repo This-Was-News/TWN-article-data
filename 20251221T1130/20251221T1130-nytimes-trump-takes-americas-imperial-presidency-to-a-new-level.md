@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/21/us/politics/trump-imperial-presidency.html
 title: "Trump Takes America\u2019s \u2018Imperial Presidency\u2019 to a New Level"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
