@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/01/nx-s1-5627109/afghan-dc-national-guard-attack-rahmanullah-lakanwal
+title: Afghan suspect in D.C. National Guard attack appeared to suffer personal crisis
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+Rahmanullah Lakanwal, an Afghan national accused of shooting two National Guard soldiers in Washington D.C., was described by a refugee resettlement volunteer as appearing to undergo a personal crisis. The volunteer, who worked with Lakanwal and his family in Bellingham, Washington, noted that Lakanwal initially seemed hopeful upon arriving in the U.S. in 2021 but became increasingly isolated and withdrawn by 2023. Emails from early 2024 indicated Lakanwal spent most of his time in his dark bedroom, not speaking to anyone, leading the volunteer to worry about his mental well-being and potential suicidal ideation. While Homeland Security Secretary Kristi Noem suggested Lakanwal was radicalized in the U.S., the volunteer saw no signs of radicalization, attributing his behavior to challenges adapting to American life, poor English skills, and cultural isolation. Lakanwal had previously served in an elite counterterrorism unit in Afghanistan that worked with the CIA. The volunteer also noted Lakanwal's tendency to take long, unexplained cross-country drives. Attempts by volunteers to find professional help for Lakanwal's deteriorating mental state from aid groups like World Relief and USCRI yielded limited responses. Following the incident, the Trump administration froze refugee cases involving Afghan nationals and initiated a review of individuals from several countries. Activists emphasize that Lakanwal's alleged violence should be viewed as an isolated incident, not representative of the broader Afghan refugee community.
