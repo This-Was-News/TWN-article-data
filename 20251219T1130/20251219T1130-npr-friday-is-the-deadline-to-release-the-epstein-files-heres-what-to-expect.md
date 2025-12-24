@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/19/nx-s1-5647638/epstein-files-release-law-deadline-trump
 title: Friday is the deadline to release the Epstein files. Here's what to expect
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

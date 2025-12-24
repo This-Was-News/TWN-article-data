@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/18/nx-s1-5646498/brown-university-shooting-suspect-found-dead
 title: 'Suspect in Brown University shooting and MIT professor killing found dead '
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/19/us/brown-mit-shootings-what-we-know.html
 title: What We Know About the Shootings
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

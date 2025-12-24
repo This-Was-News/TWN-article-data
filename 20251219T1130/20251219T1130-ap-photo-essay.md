@@ -3,7 +3,7 @@ url: https://apnews.com/photo-essay/gaza-photos-destruction-war-israel-palestini
 title: 'PHOTO ESSAY: The Palestinian families trying to rebuild their lives in the
   ruins of Gaza'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

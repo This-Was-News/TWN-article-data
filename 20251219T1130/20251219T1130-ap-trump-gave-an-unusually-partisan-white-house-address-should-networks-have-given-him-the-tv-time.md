@@ -3,7 +3,7 @@ url: https://apnews.com/article/donald-trump-address-tv-networks-c9704130f09f607
 title: Trump gave an unusually partisan White House address. Should networks have
   given him the TV time?
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
