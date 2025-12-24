@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/interactive/2025/12/22/us/politics/trump-donors-fundraising-benefits.html
+title: "Hundreds of Big Post-Election Donors Have Benefited From Trump\u2019s Return"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+Since President Trump's election, he and his allies have raised nearly $2 billion for political causes and passion projects, potentially surpassing funds raised for his 2024 campaign. A New York Times investigation revealed that over half a billion dollars came from 346 donors who each gave at least $250,000. More than half of these donors, or their industries, have benefited from Trump's actions or statements. While direct links between donations and favorable treatment cannot be proven, the significant contributions from individuals and corporations with vested interests raise questions about conflicts of interest. Unlike typical second-term presidents who wind down fundraising, Trump has actively solicited large sums for various groups, offering donors access and opportunities to pitch their interests. Lobbyists have advised clients to donate to these groups to gain favor. Some donors have received ambassadorships, cabinet positions, pardons, or relaxed enforcement, while others have seen their industries benefit from administration policies like tax cuts or deregulation. Major companies, including defense contractors and tech firms, have made substantial donations, sometimes coinciding with favorable government actions or settlements. The fundraising apparatus includes various entities, some requiring donor disclosure and others not, creating an opaque system. Despite Trump's past claims of being an outsider immune to pay-to-play politics, his current fundraising strategy involves extensive donor events and continued solicitations, with new initiatives like Freedom 250 being launched.
