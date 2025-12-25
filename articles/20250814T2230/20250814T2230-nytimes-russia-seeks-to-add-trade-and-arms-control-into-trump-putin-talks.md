@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/08/14/world/europe/trump-putin-talks-russia-trade-arms-control.html
+title: Russia Seeks to Add Trade and Arms Control Into Trump-Putin Talks
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Ahead of the meeting between President Trump and President Vladimir V. Putin, the Kremlin expressed interest in discussing topics beyond Ukraine, such as economic ties and nuclear arms control. Putin convened top officials to brief them about the upcoming meeting, emphasizing efforts to end the fighting in Ukraine and reach agreements beneficial to all parties. He highlighted that an agreement on Ukraine could foster long-term peace globally, especially if coupled with strategic arms control agreements. The arms-control regime between Russia and the U.S. has weakened due to increased hostility and the power disparity post-Soviet collapse. Russia announced it would no longer abide by a defunct treaty prohibiting intermediate-range missiles, and a nuclear arms reduction treaty signed in 2011 is set to expire next February. Yury Ushakov, Putin's foreign policy aide, briefed reporters that while Ukraine would be the central topic, broader issues of peace, security, and bilateral cooperation, including trade and economic spheres, would also be discussed. He noted the untapped potential in U.S.-Russia cooperation, despite minimal trade. The Russian delegation included high-ranking officials like Foreign Minister Sergei Lavrov, Finance Minister Anton Siluanov, Kremlin envoy Kirill Dmitriev, and Defense Minister Andrei Belousov, indicating a focus on economic matters. The Kremlin has highlighted differing approaches between Russia and the U.S. on ending the fighting in Ukraine, with Russia preferring separate discussions. As talks continue, Russia and Ukraine exchanged drone strikes, with Ukrainian drones hitting Russian cities and injuring civilians.
