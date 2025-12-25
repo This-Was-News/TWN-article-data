@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/10/24/us/politics/republicans-trump-drug-war.html
+title: As Trump Skirts Congress on Drug War, Some in G.O.P. Want a Say
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A growing number of Republicans in Congress are expressing concerns about President Trump's expanding military offensive against drug cartels, which is being conducted without explicit congressional authorization. While most Republicans have supported these strikes, a rare display of dissent is emerging over the legal basis and oversight of the campaign. Senators like Mike Rounds and Susan Collins are pressing for more information and involvement, with the Senate set to vote on a bipartisan resolution that would prohibit U.S. attacks within or against Venezuela without congressional approval. President Trump has stated he does not need or plan to seek such authorization, viewing the operation as a necessary fight against narcoterrorists. Some Republicans, including Thom Tillis and John Curtis, acknowledge the need for discussion and more information, while others, like John Kennedy, have been assured by Secretary of State Marco Rubio that the administration is on solid legal ground. However, questions persist, particularly after a survivor of a strike was repatriated and released. Senator Lisa Murkowski and Senator Rand Paul are the only Republicans who have directly opposed the military offensive, with Senator Paul warning against a potential ground war for regime change in Venezuela. Despite constitutional grants of war-making powers to Congress, presidents have historically asserted broad authority in military actions. Many Republicans argue that Trump is acting within his rights as commander-in-chief to protect the nation, likening the cartels to terrorist organizations.
