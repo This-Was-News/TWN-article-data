@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/europe-breton-tech-visa-ban-censorship-rubio-8608c3781b67958abb92e4781d73aed9
+title: EU warns of possible action after the US bars 5 Europeans accused of censorship
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+The European Union has warned of possible retaliatory action after the United States imposed travel bans on five Europeans. The U.S. State Department accused these individuals of pressuring tech firms to censor or suppress American views online. Among those banned is Thierry Breton, the former EU commissioner responsible for social media regulation, who had previously clashed with Elon Musk. U.S. Secretary of State Marco Rubio characterized the banned individuals as "radical activists" and "weaponized nongovernmental organizations" driving foreign government censorship campaigns. The European Commission, however, asserted that the EU is an open market with the sovereign right to regulate economic activity according to its democratic values. French President Emmanuel Macron stated that the EU would "stand firm against pressure and will protect Europeans," emphasizing that the bloc's digital rules are not determined outside of Europe. German Foreign Minister Johann Wadephul called the entry bans "not acceptable," and EU Council President António Costa labeled them unacceptable between allies. The U.K. government acknowledged each country's right to set visa rules but supported efforts to keep the internet free from harmful content. The U.S. action is part of a broader campaign against foreign influence over online speech, utilizing immigration law. The EU maintains that its digital rules, such as the Digital Services Act, are democratically adopted and applied fairly, without targeting specific countries.
