@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/08/18/nx-s1-5495427/trump-redistricting-texas-congress-california
+title: Trump prompted a battle over voting maps. Here's how redistricting affects
+  voters
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Leaders in California and Texas are redrawing voting districts for the upcoming midterm congressional elections, a process influenced by President Trump's call for Texas to favor Republican candidates. The U.S. House has 435 seats, with the number for each state shifting based on population changes determined by the national census every ten years. States typically redraw districts early in each decade, but this process can determine election outcomes and the influence of individual votes. The Texas and California legislatures are meeting to finalize their opposing plans. Gerrymandering, the practice of manipulating district lines to favor a political party, is a contentious issue. The Brennan Center for Justice highlights that gerrymandering skews election results, reduces competitiveness, and undermines voter representation. Texas Republicans aim to create five more districts favoring the GOP, while California Democrats, led by Governor Gavin Newsom, are rushing to draw new maps that could benefit their party. Newsom is attempting to bypass California's Citizens Redistricting Commission, established to remove politics from the process. Republican leaders in other states like Florida, Ohio, and Missouri are also considering creating more Republican-leaning districts. The debate over redistricting includes concerns about racial gerrymandering, which dilutes the voting power of minority groups. Texas Republicans argue their maps create Latino-majority districts, but Democrats claim this is an extreme and illegal form of packing. The Supreme Court's 2019 ruling allows partisan gerrymandering, which Texas Republicans are using to their advantage. Groups advocating for fair redistricting recommend reducing politicians' roles in drawing district lines, with some states using bipartisan or nonpartisan commissions.

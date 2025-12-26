@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/08/18/us/politics/trump-wants-to-fight-democrats-on-crime-theyre-treading-cautiously.html
+title: "Trump Wants to Fight Democrats on Crime. They\u2019re Treading Cautiously."
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Trump has brought the issue of crime back to the forefront of American politics by taking control of law enforcement in Washington, D.C., which Democrats see as an attempt to stoke fear for political gain. While Democrats oppose the federal incursion, they are cautious not to get drawn into a debate on public safety on Trump's terms. Trump has used the increase in violent crime in urban areas during the pandemic as a campaign tool, winning control of the House in the 2022 midterms and expanding his coalition in 2024 with promises to prevent other areas from becoming like the cities he criticizes. His actions in D.C., including sending National Guard troops and federal law enforcement officers to patrol the streets, are seen by Democrats as an exaggeration of statistics to justify a power grab. However, Democrats recognize that concerns about public safety resonate with their own supporters as well. Some Democrats, like Representative Ritchie Torres, argue that the party should address public safety issues to prevent Trump and Republicans from weaponizing the issue in the midterm elections. Trump's tactics have been effective in the past, and Democrats are wary of his ability to shape perception, as seen in the 2024 election where he won the support of voters with deep economic concerns. Despite improvements in crime rates in some cities, Democrats must balance acknowledging the issue while not ceding ground to Trump's narrative. Mayors like Brandon Scott of Baltimore and Muriel Bowser of Washington, D.C., acknowledge that crime is still a problem and are working to address it, even as they push back against Trump's actions.
