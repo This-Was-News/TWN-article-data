@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/comey-halligan-justice-department-d663148e16d042087210d4d266ea10ae
+title: "Judge scolds Justice Department for \u2018profound investigative missteps\u2019\
+  \ in Comey case"
+publisher: ap
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+A federal judge has strongly criticized the Justice Department's handling of the case against former FBI Director James Comey, citing a "disturbing pattern of profound investigative missteps." Magistrate Judge William Fitzpatrick ruled that prosecutors made fundamental misstatements of law to the grand jury, potentially used privileged communications, and exhibited unexplained irregularities in the proceedings. The judge's 24-page opinion is a severe assessment of the Justice Department's actions leading to Comey's indictment, highlighting how procedural errors and prosecutorial inexperience may have compromised the case. These issues have fueled concerns that the Justice Department is being politically weaponized, especially as similar allegations arise in the prosecution of New York Attorney General Letitia James. Comey's lawyers sought grand jury records due to suspected irregularities, and Fitzpatrick's review revealed significant concerns about the case's integrity. The Justice Department requested a hold on the ruling, arguing the judge may have misinterpreted facts, and a trial judge has temporarily frozen the order pending their objections. Fitzpatrick detailed nearly a dozen irregularities, including a prosecutor's apparent misstatements about a defendant's right not to testify and suggestions that grand jurors could rely on evidence not presented. The indictment itself, charging Comey with lying to Congress, has faced challenges regarding the appointment of the prosecutor, Lindsey Halligan, a former White House aide with no prior prosecutorial experience. The judge also expressed concern over potentially privileged communications between Comey and his friend, Professor Dan Richman, being exposed to the grand jury without Comey's opportunity to object.
