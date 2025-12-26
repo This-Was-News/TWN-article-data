@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/united-nations-gaza-ceasefire-us-resolution-russia-107e44e276fe04a5365ff6d914545718
+title: UN approves US plan authorizing an international stabilization force in Gaza
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The UN Security Council has approved a US-backed plan authorizing an international stabilization force for Gaza and envisioning a potential path to an independent Palestinian state. Russia and China abstained from the 13-0 vote, opting not to veto the resolution. This decision is a critical step for the fragile ceasefire and future of Gaza following the war between Israel and Hamas. Arab and Muslim countries indicated their willingness to contribute troops only with Security Council authorization. The resolution endorses President Trump's ceasefire plan, which includes a Board of Peace as a transitional authority and mandates the stabilization force with security, border oversight, and demilitarization until the end of 2027. While Arab nations and Palestinians sought stronger language on self-determination, the resolution states conditions may arise for Palestinian statehood after reconstruction and reforms. Israeli Prime Minister Netanyahu opposes the establishment of a Palestinian state, viewing it as a reward for Hamas. The adoption was facilitated by support from Arab and Muslim nations, who issued a joint statement calling for swift approval. The resolution aims to demilitarize Gaza and permanently decommission weapons from non-state armed groups, a significant challenge given Hamas's stance. The stabilization force is authorized to use necessary measures, including military force, to fulfill its mandate. Troops will help secure borders, train a Palestinian police force, and coordinate humanitarian aid, while consulting with Egypt and Israel. Israeli forces are slated to withdraw from Gaza based on agreed-upon milestones linked to demilitarization.
