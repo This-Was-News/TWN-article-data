@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/27/nx-s1-5622991/afghan-refugee-program-nationa
 title: What was 'Operation Allies Welcome,' which allowed some Afghans entry into
   the U.S.?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

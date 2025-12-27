@@ -2,7 +2,7 @@
 url: https://apnews.com/article/food-kitchen-grocery-shopping-nutrition-health-cb348a9d6405f31e354a2634ef01920a
 title: The cold truth is you may not know the best way to use a refrigerator
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

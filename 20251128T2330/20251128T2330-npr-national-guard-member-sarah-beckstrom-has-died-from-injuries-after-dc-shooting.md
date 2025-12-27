@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/27/nx-s1-5622955/national-guard-shooting-washington-dc-updates
 title: National Guard member Sarah Beckstrom has died from injuries after D.C. shooting
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

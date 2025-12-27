@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/28/nx-s1-5623787/trump-vows-to-permanently-paus
 title: Trump vows to 'permanently pause' migration from poor nations in social media
   screed
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
