@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/02/g-s1-100045/travelers-without-real-id-charged-fee
 title: U.S. air travelers without REAL IDs will be charged a $45 fee
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
