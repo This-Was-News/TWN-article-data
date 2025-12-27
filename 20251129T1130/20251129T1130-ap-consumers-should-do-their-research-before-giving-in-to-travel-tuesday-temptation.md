@@ -2,7 +2,7 @@
 url: https://apnews.com/article/travel-tuesday-black-friday-cyber-monday-algorithmic-pricing-airlines-d2f477499e00d7bab1bdeb7302dda7e2
 title: Consumers should do their research before giving in to Travel Tuesday temptation
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

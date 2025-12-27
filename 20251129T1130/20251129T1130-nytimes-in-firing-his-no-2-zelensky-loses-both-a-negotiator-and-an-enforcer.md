@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/29/world/europe/zelensky-yermak-ukraine.html
 title: In Firing His No. 2, Zelensky Loses Both a Negotiator and an Enforcer
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

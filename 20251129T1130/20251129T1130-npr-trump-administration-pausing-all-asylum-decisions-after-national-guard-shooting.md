@@ -1,6 +1,6 @@
 ---
 url: https://www.npr.org/2025/11/28/g-s1-99760/trump-vows-permanent-pause-on-some-immigration-after-national-guard-shooting
-title: ' Trump administration pausing all asylum decisions after National Guard shooting'
+title: Trump administration pausing all asylum decisions after National Guard shooting
 publisher: npr
 usage: candidate
 initial_rank: 5

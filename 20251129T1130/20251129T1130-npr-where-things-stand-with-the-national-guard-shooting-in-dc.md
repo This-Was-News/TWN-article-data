@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/29/nx-s1-5624477/where-things-stand-with-the-national-guard-shooting-in-d-c
 title: Where things stand with the National Guard shooting in D.C.
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
