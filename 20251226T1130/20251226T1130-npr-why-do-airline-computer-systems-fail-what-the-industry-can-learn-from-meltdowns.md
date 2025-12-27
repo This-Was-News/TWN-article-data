@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/26/nx-s1-5656218/airline-computer-systems-meltdowns
 title: Why do airline computer systems fail? What the industry can learn from meltdowns
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

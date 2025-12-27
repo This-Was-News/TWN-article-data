@@ -3,7 +3,7 @@ url: https://apnews.com/article/hawaii-feral-cats-feeding-ban-native-species-cd6
 title: "Hawaii\u2019s Big Island bans feeding feral cats in an effort to help endangered\
   \ native species"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

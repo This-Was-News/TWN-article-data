@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/01/01/world/middleeast/isis-islamic-state.html
 title: A Guide to the Islamic State
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

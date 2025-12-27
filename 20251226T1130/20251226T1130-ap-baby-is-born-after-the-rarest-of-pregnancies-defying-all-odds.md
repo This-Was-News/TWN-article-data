@@ -2,7 +2,7 @@
 url: https://apnews.com/article/ectopic-pregnancy-healthy-baby-born-ovarian-cyst-f0232c1d9a3eb7a819345c17b10e9b83
 title: Baby is born after the rarest of pregnancies, defying all odds
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

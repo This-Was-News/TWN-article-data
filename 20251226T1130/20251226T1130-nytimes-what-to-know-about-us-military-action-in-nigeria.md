@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/03/world/africa/trump-nigeria-military-christians.html
 title: What to Know About U.S. Military Action in Nigeria
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
