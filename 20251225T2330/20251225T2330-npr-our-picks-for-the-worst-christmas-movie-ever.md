@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/15/nx-s1-5641953/worst-christmas-movies-debate-love-actually
 title: 'Our picks for the worst Christmas movie ever '
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://apnews.com/article/reading-for-pleasure-routine-library-books-booktok-4ccb7acd24ad890bf0b403605ca89378
 title: "It\u2019s not too late to turn the page and start reading again in 2026"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

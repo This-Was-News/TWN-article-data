@@ -3,7 +3,7 @@ url: https://www.lpm.org/news/2025-12-25/as-trump-pushed-mines-to-increase-produ
 title: As Trump pushed mines to increase production, protections for black lung victims
   stalled
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

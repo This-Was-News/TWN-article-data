@@ -2,7 +2,7 @@
 url: https://apnews.com/article/census-baby-boomers-aging-america-trivia-3c5a2354d68e576b02fd1bd0042efc0e
 title: The oldest boomers are turning 80 in 2026. How much pop culture do you remember?
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

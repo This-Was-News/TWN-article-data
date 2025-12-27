@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/25/g-s1-103683/powerball-player-arkansas-won-jackpot
 title: A Powerball player in Arkansas has won a $1.817 billion lottery jackpot
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

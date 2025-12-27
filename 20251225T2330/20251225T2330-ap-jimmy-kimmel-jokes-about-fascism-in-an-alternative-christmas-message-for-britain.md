@@ -3,7 +3,7 @@ url: https://apnews.com/article/jimmy-kimmel-uk-christmas-mssage-aa6260d38b1e5e3
 title: "Jimmy Kimmel jokes about fascism in an \u2018alternative Christmas message\u2019\
   \ for Britain"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
