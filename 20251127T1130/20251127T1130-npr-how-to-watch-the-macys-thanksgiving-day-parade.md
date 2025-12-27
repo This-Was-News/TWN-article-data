@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/26/nx-s1-5616401/macys-thanksgiving-day-parade
 title: How to watch the Macy's Thanksgiving Day Parade
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/26/nx-s1-5604808/4-marketing-tricks-to-not-fall-for-this-holiday-season
 title: 4 marketing tricks to not fall for this holiday season
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

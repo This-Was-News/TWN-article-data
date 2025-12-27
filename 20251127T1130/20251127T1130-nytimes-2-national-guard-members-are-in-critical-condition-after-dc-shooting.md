@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/11/27/us/national-guard-shooting-dc
 title: 2 National Guard Members Are in Critical Condition After D.C. Shooting
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

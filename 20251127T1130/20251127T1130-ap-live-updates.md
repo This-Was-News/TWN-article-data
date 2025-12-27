@@ -3,7 +3,7 @@ url: https://apnews.com/live/pope-leo-middle-east-visit-updates-11-27-2025
 title: 'Live updates: Pope Leo arrives in Turkey on first foreign trip, bringing a
   message of peace to the region'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
