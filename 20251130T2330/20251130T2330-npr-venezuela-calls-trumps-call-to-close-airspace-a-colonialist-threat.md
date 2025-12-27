@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/30/nx-s1-5626164/venezuela-calls-trumps-call-close-airspace-colonialist-threat
 title: Venezuela calls Trump's call to close airspace a 'colonialist threat'
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/shots-health-news/2025/11/30/nx-s1-5604679/dri
 title: More cities are seeing PFAS pollution in drinking water. Here's what Louisville
   found
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

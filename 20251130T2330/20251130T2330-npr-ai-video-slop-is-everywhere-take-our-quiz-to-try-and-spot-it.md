@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz
 title: AI video slop is everywhere, take our quiz to try and spot it
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
