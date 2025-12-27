@@ -1,0 +1,10 @@
+---
+url: https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html
+title: "Trump Promised Radical Change in His Second Term. Here\u2019s What He\u2019\
+  s Done So Far."
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+One year into his second term, Donald J. Trump has enacted significant policy changes across immigration, trade, and domestic affairs. He has drastically reduced illegal border crossings by blocking asylum access and pressuring Mexico, though mass deportations have fallen short of his goals. The federal workforce has been significantly downsized, with purges in departments like Justice and the FBI, leading to a reduction in public services. Trump has implemented wide-ranging tariffs on trading partners, aiming to rebalance global trade, but this has caused market uncertainty and price increases, with limited evidence of job reshoring. Despite promises of affordability, inflation persists, and while gas prices have stabilized, grocery costs remain high. His administration has pursued an aggressive, albeit contradictory, drug policy, including military attacks on suspected drug smuggling boats, and has also eased some marijuana restrictions. While Trump played a role in a Gaza cease-fire, he failed to secure a quick peace deal in Ukraine and has been criticized for exaggerating his conflict resolution successes. He has normalized the use of federal troops in domestic law enforcement, deploying them to the border and taking control of the National Guard in cities. Furthermore, Trump has openly used the Justice Department as an instrument of intimidation against perceived enemies, directing investigations and prosecutions. He has also initiated a purge of diversity, equity, and inclusion (DEI) initiatives across the government and targeted private corporations embracing diversity practices. A central theme of his presidency has been the accumulation of greater presidential power, centralizing control over the executive branch and challenging Congress's power of the purse.
