@@ -2,7 +2,7 @@
 url: https://apnews.com/photo-gallery/thanksgiving-macys-parade-nyc-manhattan-c06d8cb4c9a9a051d581d89118bcbff4
 title: "This year\u2019s Macy\u2019s Thanksgiving Day Parade, in photos"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

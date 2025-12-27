@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/27/nx-s1-5620766/fevers-viruses-cold-flu
 title: 'Fever helps the body fight off viruses: But how does it work?'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://apnews.com/article/pumpkin-pie-recipe-mei-yan-fong-51ebf912a95935631d499ae7de9c920f
 title: What happens when pumpkin pie meets deep-dish pizza?
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

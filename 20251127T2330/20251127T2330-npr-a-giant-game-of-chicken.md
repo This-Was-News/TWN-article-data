@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/27/nx-s1-5620605/trump-venezuela-maduro
 title: '''A giant game of chicken'': Trump''s Venezuela standoff edges toward conflict'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
