@@ -3,7 +3,7 @@ url: https://apnews.com/article/speed-skating-milan-cortina-olympics-b5ee5d9bded
 title: "Racers say Milan Cortina speed skating venue feels like they\u2019re on a\
   \ lake"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

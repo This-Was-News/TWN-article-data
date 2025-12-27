@@ -3,7 +3,7 @@ url: https://apnews.com/article/milan-cortina-olympics-hockey-arena-bb158ccdaadf
 title: No backup plan for Olympic ice hockey arena as construction goes down to the
   wire
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

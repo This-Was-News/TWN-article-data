@@ -3,7 +3,7 @@ url: https://apnews.com/article/cortina-olympic-village-athletes-mobile-homes-bc
 title: "Behind the scenes of Cortina\u2019s trailer-park Olympic Village: 400 mobile\
   \ homes in an Alpine valley"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

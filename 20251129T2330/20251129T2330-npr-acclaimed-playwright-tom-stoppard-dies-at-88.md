@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/29/1115745320/acclaimed-playwright-tom-stoppard-dies-at-88
 title: Acclaimed playwright Tom Stoppard dies at 88
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

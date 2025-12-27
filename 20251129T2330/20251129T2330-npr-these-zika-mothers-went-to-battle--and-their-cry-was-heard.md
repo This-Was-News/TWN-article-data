@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/goats-and-soda/2025/11/29/g-s1-98622/these-zika-mothers-went-to-battle-and-their-cry-was-heard
 title: "These Zika mothers went to battle \u2014 and their cry was heard"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
