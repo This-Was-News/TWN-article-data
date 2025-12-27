@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/27/nx-s1-5607073/mamdani-and-trump-made-nice-nyc-immigrants-are-still-on-edge
+title: Mamdani and Trump made nice. New York City immigrants are still on edge
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+New York City Mayor-elect Zohran Mamdani and President Trump recently met, resulting in a surprisingly cordial exchange that contrasted sharply with their previously volatile relationship. Despite Mamdani's past criticisms of Trump as a "fascist" and Trump's threats to send in the National Guard and expand ICE operations, the meeting was described as warm, with Trump stating they agreed on more than he expected. However, many New York immigrants, particularly undocumented street vendors, remain on edge, viewing the meeting with skepticism due to Trump's unpredictable nature. One vendor shared a recent experience of witnessing an ICE pursuit near her stand, fueling fears of increased enforcement and potential retribution against the city for electing a democratic socialist mayor. While Trump has stated he is not currently planning troop deployment but would if necessary, Mamdani has pledged to defend immigrants and is reportedly exploring legal strategies to counter federal actions. Congressman Patrick Ryan echoed concerns about deploying troops against citizens, highlighting the importance of states challenging such administrations in court. Advocacy groups like the Street Vendor Project are preparing for potential ICE campaigns by adapting pandemic-era strategies, such as a catering program, to support vulnerable vendors. The incoming mayor's commitment to easing street vendor operations, including increasing licenses and repealing criminal liability, offers a glimmer of hope amidst ongoing anxieties about the remaining years of the Trump administration.
