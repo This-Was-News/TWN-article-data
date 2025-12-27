@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/desegregation-school-louisiana-concordia-789b083a875ddfe21e36e5eec4127bfb
+title: "Trump administration\u2019s effort to end 1960s school desegregation cases\
+  \ faces a hurdle"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The Trump administration's initiative to terminate decades-old school desegregation orders is facing a significant challenge from a federal judge in Louisiana. A federal judge in Louisiana refused to close a desegregation case from the 1960s, prompting an appeal from the Concordia Parish school system and the state. This case represents a crucial test for the administration's strategy to quickly end long-standing civil rights-era legal battles. Louisiana officials argue these cases are outdated, and surprisingly, the U.S. Justice Department, which historically championed these cases, is now supporting their dismissal. U.S. District Judge Dee Drell rejected a joint filing from Louisiana and the Justice Department seeking to release Concordia Parish from a 1965 lawsuit initiated by Black families seeking access to all-white schools. Some families contend that court orders are still necessary to improve educational opportunities in the predominantly Black schools. Judge Drell stated that the court can reject such agreements when broader public policy and the protection of others are at stake, emphasizing the need for resolution in line with legal precedent. Instead, Drell offered the school district a hearing to demonstrate it has fully dismantled state-sponsored racial segregation, the conventional path to case dismissal. The school district and state have appealed this decision. The Justice Department has employed a similar strategy in another Louisiana school district and indicated plans to dismiss additional cases. Numerous desegregation cases from the 1960s remain active or pending across the South, with the Justice Department framing them as federal overreach into local school matters.
