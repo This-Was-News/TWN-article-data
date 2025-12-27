@@ -2,7 +2,7 @@
 url: https://apnews.com/article/russia-ukraine-peace-plan-negotiations-diplomacy-6a3de7850018c24b3232c4ceea0c9703
 title: "What to know about this week\u2019s diplomatic efforts to end the war in Ukraine"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

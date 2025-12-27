@@ -2,7 +2,7 @@
 url: https://apnews.com/article/associated-press-100-photos-of-2025-ap-photos-that-defined-the-year
 title: "This year\u2019s top photos from AP photographers worldwide"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

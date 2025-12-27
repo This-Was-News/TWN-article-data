@@ -5,5 +5,3 @@ publisher: nytimes
 usage: top
 initial_rank: 1
 ---
-## Article summary
-The New York Times website is currently verifying user access. Visitors are prompted to log in if they are already subscribers or to subscribe if they wish to access all content. The site indicates that users may need to exit Reader mode to log into their Times account. This message appears to be a standard access verification and subscription prompt for users accessing the New York Times online.

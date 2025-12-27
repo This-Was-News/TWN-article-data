@@ -3,7 +3,7 @@ url: https://apnews.com/article/military-strikes-boats-drugs-caribbean-hegseth-c
 title: "Lawmakers voice support for congressional reviews of Trump\u2019s military\
   \ strikes on boats"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/01/nx-s1-5608225/snap-rule-changes-usda-rollins
 title: 'The agriculture secretary says SNAP changes are coming. Here''s what we know '
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

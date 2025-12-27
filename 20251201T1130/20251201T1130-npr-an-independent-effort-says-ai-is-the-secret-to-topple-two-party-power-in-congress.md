@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control
 title: An independent effort says AI is the secret to topple two-party power in Congress
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
