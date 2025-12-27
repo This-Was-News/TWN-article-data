@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/28/nx-s1-5604862/black-friday-sales-forecast
 title: What will holiday shopping say about the state of America? An expert hunts
   for clues
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

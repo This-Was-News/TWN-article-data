@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/28/nx-s1-5616662/olive-ridley-sea-turtles-rebou
 title: 'A bright spot for turtles: Olive ridleys are recovering in India, but still
   at risk'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

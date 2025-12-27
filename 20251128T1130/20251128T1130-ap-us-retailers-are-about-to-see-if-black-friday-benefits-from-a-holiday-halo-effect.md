@@ -3,7 +3,7 @@ url: https://apnews.com/article/black-friday-deals-holiday-shopping-2d85fcbab82d
 title: US retailers are about to see if Black Friday benefits from a holiday halo
   effect
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
