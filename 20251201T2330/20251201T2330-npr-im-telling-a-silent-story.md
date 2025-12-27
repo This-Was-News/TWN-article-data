@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/01/nx-s1-5621908/wicked-costume-design-paul-taz
 title: '''I''m telling a silent story'': Paul Tazewell on ''Wicked'' and the magic
   of costume design'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

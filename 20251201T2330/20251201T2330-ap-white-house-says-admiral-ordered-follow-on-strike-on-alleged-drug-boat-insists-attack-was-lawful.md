@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-venezuela-hegseth-maduro-512c66b99b2a13e9d
 title: White House says admiral ordered follow-on strike on alleged drug boat, insists
   attack was lawful
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

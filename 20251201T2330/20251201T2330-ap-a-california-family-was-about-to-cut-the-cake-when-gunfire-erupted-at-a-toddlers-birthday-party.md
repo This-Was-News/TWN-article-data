@@ -3,7 +3,7 @@ url: https://apnews.com/article/california-shooting-stockton-party-b5694f32ae71d
 title: "A California family was about to cut the cake when gunfire erupted at a toddler\u2019\
   s birthday party"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
