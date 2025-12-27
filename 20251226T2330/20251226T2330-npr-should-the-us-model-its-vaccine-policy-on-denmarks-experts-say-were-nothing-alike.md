@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/26/nx-s1-5656214/childhood-vaccination-denmark-
 title: Should the U.S. model its vaccine policy on Denmark's? Experts say we're nothing
   alike
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html
 title: "Trump\u2019s Claims About Nigeria Strike Belie a Complex Conflict on the Ground"
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

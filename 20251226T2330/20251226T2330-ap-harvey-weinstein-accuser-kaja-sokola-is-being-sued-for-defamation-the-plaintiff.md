@@ -3,7 +3,7 @@ url: https://apnews.com/article/harvey-weinstein-sexual-assault-trial-lawsuit-9d
 title: 'Harvey Weinstein accuser Kaja Sokola is being sued for defamation. The plaintiff:
   Her sister'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

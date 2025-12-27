@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-tariffs-economy-liberation-day-d3458da225c
 title: Trump overturned decades of US trade policy in 2025. See the impact of his
   tariffs, in four charts
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

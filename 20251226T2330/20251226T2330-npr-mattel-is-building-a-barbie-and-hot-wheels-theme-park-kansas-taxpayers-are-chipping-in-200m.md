@@ -3,7 +3,7 @@ url: https://www.kcur.org/politics-elections-and-government/2025-12-26/kansas-is
 title: Mattel is building a Barbie and Hot Wheels theme park. Kansas taxpayers are
   chipping in $200M
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

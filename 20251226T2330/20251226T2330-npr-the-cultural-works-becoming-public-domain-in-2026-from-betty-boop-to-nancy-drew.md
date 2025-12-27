@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/26/nx-s1-5649395/public-domain-2026-copyright-b
 title: The cultural works becoming public domain in 2026, from Betty Boop to Nancy
   Drew
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
