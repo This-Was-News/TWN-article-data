@@ -1,0 +1,10 @@
+---
+url: https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html
+title: "Trump Promised Radical Change in His Second Term. Here\u2019s What He\u2019\
+  s Done So Far."
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+One year into his second term, Donald J. Trump has enacted significant policy changes across various sectors. He has drastically reduced illegal border crossings and limited non-white refugee admissions. Diversity and inclusion programs within the government have been eliminated, and pressure has been applied to corporations to follow suit. Trump has also played a role in international affairs, brokering a Gaza ceasefire while also straining relations with traditional allies. His administration has implemented broad tariffs on imports, aiming to rebalance global trade, and has extended tax cuts from his first term. Climate change policies have been reversed, and federal agencies have been dismantled or downsized. The federal workforce has been significantly reduced, impacting public services. Trump has openly used the Justice Department as a tool against perceived political enemies, leading to controversial indictments and investigations. His administration has also taken steps to remove references to diversity from government documents and educational materials, and has targeted private companies with diversity practices. Furthermore, Trump has sought to expand presidential power, centralizing control over the executive branch and challenging congressional authority over spending. The use of federal troops for domestic law enforcement purposes has been normalized, albeit with legal challenges. While inflation persists, the economy has shown growth, though the impact of tariffs on prices remains a concern. In combating illegal drugs, the administration has employed aggressive tactics, including military attacks on suspected drug smuggling boats, though the legal justification for these actions has been questioned.
