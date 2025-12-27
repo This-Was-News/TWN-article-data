@@ -3,7 +3,7 @@ url: https://apnews.com/article/lakanwal-national-guard-shooting-suspect-afghan-
 title: "Suspect in National Guard attack struggled with \u2018dark isolation\u2019\
   \ as community raised concerns"
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
