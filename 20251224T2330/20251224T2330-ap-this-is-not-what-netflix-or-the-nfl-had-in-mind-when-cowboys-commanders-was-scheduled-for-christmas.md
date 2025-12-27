@@ -3,7 +3,7 @@ url: https://apnews.com/article/cowboys-commanders-preview-netflix-638b192f8dab1
 title: This is not what Netflix or the NFL had in mind when Cowboys-Commanders was
   scheduled for Christmas
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

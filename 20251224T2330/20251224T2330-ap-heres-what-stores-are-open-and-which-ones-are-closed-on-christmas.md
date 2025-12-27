@@ -2,7 +2,7 @@
 url: https://apnews.com/article/christmas-target-walmart-costco-cvs-walgreens-2995b1e72450360f12ca81582a852917
 title: "Here\u2019s what stores are open, and which ones are closed, on Christmas"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/24/g-s1-103618/u-s-and-ukraine-reach-consensus-
 title: The U.S. and Ukraine reach consensus on key issues in talks aimed at ending
   the war
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

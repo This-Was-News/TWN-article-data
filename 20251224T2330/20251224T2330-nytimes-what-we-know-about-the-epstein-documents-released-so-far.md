@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/23/us/politics/epstein-files-trump-takeaways.html
 title: What We Know About the Epstein Documents Released So Far
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

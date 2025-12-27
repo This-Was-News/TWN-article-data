@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/24/nx-s1-5643035/yule-christmas-word-origin
 title: How cozy Yuletide traditions got their start with raging parties and animal
   sacrifice
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

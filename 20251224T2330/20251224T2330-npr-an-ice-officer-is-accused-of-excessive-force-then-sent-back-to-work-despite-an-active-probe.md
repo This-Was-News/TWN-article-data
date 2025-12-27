@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/24/nx-s1-5650773/ice-immigration-agent-leave-ov
 title: An ICE officer is accused of excessive force, then sent back to work despite
   an active probe
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

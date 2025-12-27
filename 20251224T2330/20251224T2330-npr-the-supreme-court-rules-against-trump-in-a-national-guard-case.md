@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/23/nx-s1-5641959/supreme-court-chicago-national-guard
 title: The Supreme Court rules against Trump in a National Guard case
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

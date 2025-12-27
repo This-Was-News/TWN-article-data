@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/24/nx-s1-5648191/strangers-christmas-kindness
 title: "The strangers who guided her home \u2014 and returned with Christmas dinner"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

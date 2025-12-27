@@ -2,7 +2,7 @@
 url: https://apnews.com/photo-gallery/christmas-photo-gallery-global-08acf32426539d963d9f2b780639bf91
 title: Photos of Christmas celebrations around the world
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
