@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/12/25/us/trump-housing-first.html
 title: "Trump Says \u2018Housing First\u2019 Failed the Homeless. Here\u2019s What\
   \ the Evidence Says."
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

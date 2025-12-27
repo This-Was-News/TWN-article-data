@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/25/nx-s1-5583930/marty-supreme-timothee-chalame
 title: "The real ping pong champion \u2014 and hustler \u2014 who inspired 'Marty\
   \ Supreme'"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

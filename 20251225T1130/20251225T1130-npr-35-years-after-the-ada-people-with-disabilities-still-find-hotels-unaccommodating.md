@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/24/nx-s1-5564041/disabilities-wheelchairs-travel-hotels-accommodations
 title: 35 years after the ADA, people with disabilities still find hotels unaccommodating
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
