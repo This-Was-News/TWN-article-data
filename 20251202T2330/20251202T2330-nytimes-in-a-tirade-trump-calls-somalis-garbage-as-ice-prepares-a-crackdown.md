@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/12/02/us/trump-ukraine-putin-news
+title: "In a Tirade, Trump Calls Somalis \u2018Garbage\u2019 as ICE Prepares a Crackdown"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Trump administration is proposing to weaken automobile fuel efficiency standards, a move that executives from major automakers were invited to witness. President Trump stated this action aims to lower the price of gasoline-powered cars and dismantle policies promoting electric vehicles. Environmental groups and former regulators argue this will increase pollution and hinder the U.S. in the global electric car market. In other news, the Agriculture Department threatened to withhold SNAP funding from Democratic states that refuse to provide recipient data, citing fraud prevention. Meanwhile, President Trump dismissed concerns about affordability, calling it a "con job" by Democrats, despite polls indicating public concern over rising costs. The suspect in the shooting of two National Guard members pleaded not guilty from a hospital bed, while the administration uses the incident to propose an immigration ban. The Pentagon is testing a new press corps with pro-Trump commentators, excluding traditional journalists who refused new rules. President Trump also unleashed a xenophobic tirade against Somali immigrants, calling them "garbage" and not wanted in the U.S. Immigration officials are prioritizing the deportation of Afghan nationals following the National Guard shooting. Defense Secretary Pete Hegseth defended U.S. military strikes on boats in the Caribbean, stating he did not personally see survivors. The administration is also launching an intensive immigration enforcement operation targeting undocumented Somali immigrants in the Minneapolis-St. Paul region.
