@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/02/nx-s1-5627502/national-guard-shooting-latest
 title: Suspect in National Guard shooting makes his first court appearance
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary
