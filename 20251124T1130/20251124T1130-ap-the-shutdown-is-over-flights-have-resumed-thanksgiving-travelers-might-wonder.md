@@ -3,7 +3,7 @@ url: https://apnews.com/article/thanksgiving-travel-flights-after-shutdown-75b7e
 title: 'The shutdown is over. Flights have resumed. Thanksgiving travelers might wonder:
   What now?'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

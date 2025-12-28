@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/24/nx-s1-5609336/hemp-thc-drinks-cannabis-marijuana-farm-bill
 title: THC drinks are flying high. A new hemp law could kill the buzz
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

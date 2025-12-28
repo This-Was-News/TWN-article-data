@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/24/us/politics/russian-soldier-war.html
 title: He Saw the Best of America and Then Fought for Russia in Ukraine
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

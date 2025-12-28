@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/shots-health-news/2025/11/24/nx-s1-5618291/imm
 title: '''Nobody wants to come'': What if the U.S. can no longer attract immigrant
   physicians?'
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

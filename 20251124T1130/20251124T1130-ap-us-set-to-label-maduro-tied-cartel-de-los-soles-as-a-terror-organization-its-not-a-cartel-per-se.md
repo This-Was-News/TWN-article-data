@@ -3,7 +3,7 @@ url: https://apnews.com/article/venezuela-maduro-cartel-soles-us-drugs-terrorist
 title: "US set to label Maduro-tied Cartel de los Soles as a terror organization.\
   \ It\u2019s not a cartel per se"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
