@@ -3,7 +3,7 @@ url: https://apnews.com/photo-gallery/gaza-israel-rubble-military-hamas-war-87cb
 title: Photos from inside Gaza show destruction wrought by Israeli military efforts
   to root out Hamas
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

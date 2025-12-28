@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/11/06/world/asia/trump-refugee-cap-despair.htm
 title: "\u2018Broken My Hope\u2019: Trump\u2019s Move to Slash Refugee Arrivals Ricochets\
   \ Widely"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

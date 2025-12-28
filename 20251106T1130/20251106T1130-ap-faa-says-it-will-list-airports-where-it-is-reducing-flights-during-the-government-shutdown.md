@@ -3,7 +3,7 @@ url: https://apnews.com/article/government-shutdown-reduced-flights-a082a6817d96
 title: FAA says it will list airports where it is reducing flights during the government
   shutdown
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

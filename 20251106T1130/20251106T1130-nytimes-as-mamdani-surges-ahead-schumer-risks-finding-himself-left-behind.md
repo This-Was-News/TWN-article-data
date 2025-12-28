@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/06/nyregion/schumer-mamdani-democrats-new-york.html
 title: As Mamdani Surges Ahead, Schumer Risks Finding Himself Left Behind
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -1,6 +1,6 @@
 ---
 url: https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown
-title: 'FAA will reduce air traffic by 10% at many airports to maintain safety '
+title: FAA will reduce air traffic by 10% at many airports to maintain safety
 publisher: npr
 usage: candidate
 initial_rank: 2

@@ -3,7 +3,7 @@ url: https://apnews.com/article/tariffs-imports-trump-supreme-court-de303262a6b2
 title: Trump has other tariff options if the Supreme Court strikes down his worldwide
   import taxes
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
