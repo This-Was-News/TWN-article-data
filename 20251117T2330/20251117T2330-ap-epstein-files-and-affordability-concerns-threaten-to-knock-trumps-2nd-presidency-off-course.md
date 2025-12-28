@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/trump-epstein-midterms-affordability-economy-c908847c586e635e26ecd5ee203df474
+title: "Epstein files and affordability concerns threaten to knock Trump\u2019s 2nd\
+  \ presidency off course"
+publisher: ap
+usage: rejected
+initial_rank: 1
+---
+## Article summary
+President Donald Trump's political standing is facing challenges due to concerns over affordability and the ongoing Epstein files controversy. Despite his past dominance, Trump is encountering difficulties as the public grapples with economic issues, and a faction of Republicans is pushing for the release of more documents related to Jeffrey Epstein. This situation arises after recent Democratic electoral successes and precedes crucial midterm elections that will determine control of Congress. Trump's aggressive governing style has not shielded him from economic discontent, which persists even with lower inflation rates compared to the previous administration. Furthermore, as a lame-duck president constitutionally barred from seeking another term, his influence is inherently limited. The Epstein files have become a significant pressure point, with Trump initially opposing their release but later reversing his stance to support their publication. This shift acknowledges a rare defeat in Republican-controlled Congress, where members have been hesitant to challenge his authority. Trump is also actively working to maintain Republican majorities in Congress, even endorsing primary challenges against those who do not align with his redistricting goals. Addressing voter concerns about the cost of living is paramount, prompting Trump to partially reconsider his tariff policies, which have been criticized for increasing consumer costs. Recent Democratic victories in state elections signal public dissatisfaction with Trump's economic management. Pollsters warn that the Republican party risks repeating the mistakes of the Biden administration by failing to convince voters that economic improvements are tangible, especially at the grocery store.
