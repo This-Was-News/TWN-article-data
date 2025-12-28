@@ -1,6 +1,6 @@
 ---
 url: https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling
-title: 'Judge says Education Dept. partisan out-of-office emails violated First Amendment '
+title: Judge says Education Dept. partisan out-of-office emails violated First Amendment
 publisher: npr
 usage: candidate
 initial_rank: 4

@@ -3,7 +3,7 @@ url: https://apnews.com/article/snap-benefits-trump-administration-demands-undo-
 title: "Trump administration demands states \u2018undo\u2019 full SNAP payouts as\
   \ states warn of \u2018catastrophic impact\u2019"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

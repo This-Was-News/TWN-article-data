@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/09/us/politics/duffy-faa-air-travel-shutdown.html
 title: Safety Officer or Administration Messenger? Sean Duffy Juggles Roles in Shutdown.
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

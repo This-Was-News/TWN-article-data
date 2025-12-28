@@ -2,7 +2,7 @@
 url: https://apnews.com/article/flight-cancellations-what-to-expect-986ef2236e545fa32253b4e4bc7621e9
 title: "What to know if your travel plans are impacted by the FAA\u2019s flight cancellations"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

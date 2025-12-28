@@ -1,8 +1,8 @@
 ---
 url: https://www.npr.org/2025/11/09/nx-s1-5603612/paul-tagliabue-nfl-commissioner-dies
-title: 'Paul Tagliabue, NFL commissioner for 17 years, dies at 84 '
+title: Paul Tagliabue, NFL commissioner for 17 years, dies at 84
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

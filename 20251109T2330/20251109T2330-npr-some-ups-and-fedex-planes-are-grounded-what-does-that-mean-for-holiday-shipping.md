@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/09/nx-s1-5602930/ups-fedex-md11-aircraft-holiday-shipping
 title: Some UPS and FedEx planes are grounded. What does that mean for holiday shipping?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
