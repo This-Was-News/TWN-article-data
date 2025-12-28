@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/02/nyregion/mamdani-experience-mayor.html
 title: "Even for Some Mamdani Supporters, His Thin R\xE9sum\xE9 Is Cause for Concern"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

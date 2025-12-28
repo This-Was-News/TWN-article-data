@@ -3,7 +3,7 @@ url: https://apnews.com/article/white-house-media-east-wing-renovation-donors-b0
 title: East Wing ballroom donations by corporate owners create awkward moments for
   news outlets
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

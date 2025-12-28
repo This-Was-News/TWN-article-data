@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/01/nx-s1-5594186/daylight-saving-time-fall-backward-2025
 title: Daylight saving time ends Sunday. Here's what to know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

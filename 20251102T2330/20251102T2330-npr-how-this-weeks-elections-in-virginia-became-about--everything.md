@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/02/nx-s1-5589774/virginia-races-trump-redistricting-spanberger-earle-sears
 title: How this week's elections in Virginia became about ... everything
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

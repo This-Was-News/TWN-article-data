@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/02/nx-s1-5588904/trump-national-guard
 title: Trump is leaning into his crackdown on city crime. The GOP sees it as a winning
   issue
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
