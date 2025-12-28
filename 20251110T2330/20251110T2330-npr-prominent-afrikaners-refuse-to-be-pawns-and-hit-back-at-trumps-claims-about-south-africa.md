@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/10/nx-s1-5603421/g20-afrikaners-trump-south-afr
 title: ' Prominent Afrikaners refuse to be ''pawns,'' and hit back at Trump''s claims
   about South Africa '
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

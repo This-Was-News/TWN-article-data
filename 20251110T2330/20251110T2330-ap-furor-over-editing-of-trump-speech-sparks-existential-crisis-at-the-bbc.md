@@ -3,7 +3,7 @@ url: https://apnews.com/article/britain-bbc-trump-panorama-resignations-5f135109
 title: "Furor over editing of Trump speech sparks \u2018existential crisis\u2019 at\
   \ the BBC"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

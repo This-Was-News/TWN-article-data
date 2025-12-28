@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/10/us/politics/democrats-shutdown-age.html
 title: "Age Is the Issue That Democrats Can\u2019t Shut Down"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

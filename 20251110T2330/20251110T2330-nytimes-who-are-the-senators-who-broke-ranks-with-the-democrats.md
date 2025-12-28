@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/10/us/politics/senators-democrat-shutdown-vote.html
 title: Who Are the Senators Who Broke Ranks With the Democrats?
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/government-shutdown-8-democrats-e83180c0b69642a0
 title: "These 8 senators broke with Democrats on the government shutdown deal. Here\u2019\
   s how they explain it"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

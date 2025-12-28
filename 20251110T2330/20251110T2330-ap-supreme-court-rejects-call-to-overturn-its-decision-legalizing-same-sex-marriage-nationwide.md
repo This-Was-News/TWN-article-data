@@ -3,7 +3,7 @@ url: https://apnews.com/article/supreme-court-same-sex-marriage-50eb4ad421911696
 title: Supreme Court rejects call to overturn its decision legalizing same-sex marriage
   nationwide
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary
