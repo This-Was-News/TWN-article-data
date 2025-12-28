@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/04/us/politics/chuck-schumer-zohran-mamdani-endorsement.html
 title: Even on Election Day, Schumer Is Mum on Mamdani
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

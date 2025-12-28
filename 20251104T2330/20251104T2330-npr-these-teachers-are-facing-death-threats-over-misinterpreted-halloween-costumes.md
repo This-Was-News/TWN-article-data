@@ -1,7 +1,7 @@
 ---
 url: https://www.kjzz.org/politics/2025-11-03/arizona-teachers-costumes-werent-about-charlie-kirk-theyre-facing-death-threats-anyway
 title: These teachers are facing death threats over misinterpreted Halloween costumes
-publisher: npr
+publisher: rejected
 usage: candidate
 initial_rank: 3
 ---

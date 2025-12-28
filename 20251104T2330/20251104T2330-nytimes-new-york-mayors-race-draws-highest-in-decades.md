@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election
 title: "New York Mayor\u2019s Race Draws Highest in Decades"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

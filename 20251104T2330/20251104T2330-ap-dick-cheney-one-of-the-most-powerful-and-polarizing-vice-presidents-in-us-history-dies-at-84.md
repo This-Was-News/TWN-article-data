@@ -3,7 +3,7 @@ url: https://apnews.com/article/dick-cheney-dies-079591b529f048489650e7569bc675d
 title: Dick Cheney, one of the most powerful and polarizing vice presidents in US
   history, dies at 84
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

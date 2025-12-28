@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election
 title: Contest Could Reshape Longstanding Power Structures in City
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
