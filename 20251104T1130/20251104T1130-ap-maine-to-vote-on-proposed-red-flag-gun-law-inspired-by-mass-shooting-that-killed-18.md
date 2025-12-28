@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/maine-election-guns-red-flag-lewiston-shooting-61e49c0eb1d7dbee24fb8cf3afb54084
+title: Maine to vote on proposed red flag gun law inspired by mass shooting that killed
+  18
+publisher: ap
+usage: rejected
+initial_rank: 5
+---
+## Article summary
+Maine is voting on a proposed red flag gun law following the deadliest mass shooting in the state's history, which occurred in October 2023 and resulted in 18 fatalities. The ballot question asks residents to approve a measure that would expand the state's existing yellow flag law, allowing family members to petition a court to restrict a potentially dangerous person's access to firearms. This initiative comes after an independent commission found numerous missed opportunities for intervention by both Army officials and civilian law enforcement in the aftermath of the Lewiston shooting. Law enforcement officials described the current yellow flag law as cumbersome and time-consuming, requiring them to take individuals into protective custody for mental health evaluations. Gun control proponents argue that the existing law is too weak and difficult to implement effectively. Supporters of the red flag law, including a father of one of the victims, believe a stronger law could have prevented the tragedy. However, the proposal faces opposition from Republicans, hunting groups, gun rights organizations, and some Democrats, who argue that Maine's laws should reflect its low crime rate and common gun ownership. Governor Janet Mills, a Democrat, opposes the ballot question, stating that it would create a confusing process that undermines public safety. The legal aftermath of the Lewiston shooting is ongoing, with survivors and victims' families suing the U.S. Army and Department of Defense, citing the Army's failure to report violent threats by the reservist who carried out the shootings. A Department of Defense watchdog report highlighted a high rate of failure to report such threats by service members, specifically mentioning the shooter's known mental health struggles and expressed homicidal ideations.
