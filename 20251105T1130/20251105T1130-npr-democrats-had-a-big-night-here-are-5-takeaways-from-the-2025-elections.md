@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/05/nx-s1-5598418/2025-election-prop-50-zohran-mamdani-nyc-virginia-new-jersey
 title: Democrats had a big night. Here are 5 takeaways from the 2025 elections
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

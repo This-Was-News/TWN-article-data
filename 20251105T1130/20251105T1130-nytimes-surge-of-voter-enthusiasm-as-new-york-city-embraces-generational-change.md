@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/05/nyregion/nyc-mayor-election-mamdani-takeaways.html
 title: Surge of Voter Enthusiasm as New York City Embraces Generational Change
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

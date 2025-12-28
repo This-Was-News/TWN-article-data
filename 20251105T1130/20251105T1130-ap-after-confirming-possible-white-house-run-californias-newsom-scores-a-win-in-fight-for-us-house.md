@@ -3,7 +3,7 @@ url: https://apnews.com/article/gavin-newsom-california-president-2028-house-dem
 title: "After confirming possible White House run, California\u2019s Newsom scores\
   \ a win in fight for US House"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

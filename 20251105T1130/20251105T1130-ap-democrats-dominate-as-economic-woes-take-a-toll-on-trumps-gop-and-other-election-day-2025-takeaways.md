@@ -3,7 +3,7 @@ url: https://apnews.com/article/virginia-new-jersey-trump-election-democrat-repu
 title: "Democrats dominate as economic woes take a toll on Trump\u2019s GOP, and other\
   \ Election Day 2025 takeaways"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

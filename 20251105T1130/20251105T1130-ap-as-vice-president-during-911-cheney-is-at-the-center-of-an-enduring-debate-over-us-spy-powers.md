@@ -3,7 +3,7 @@ url: https://apnews.com/article/cheney-patriot-act-surveillance-911-iraq-war-d88
 title: As vice president during 9/11, Cheney is at the center of an enduring debate
   over US spy powers
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
