@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/18/nx-s1-5612442/penny-good-luck-ode-aphorisms-history
 title: Farewell, fair penny. You are finished, but never forgotten
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

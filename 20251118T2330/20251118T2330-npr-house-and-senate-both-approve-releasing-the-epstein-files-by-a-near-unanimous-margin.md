@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/18/nx-s1-5611438/epstein-files-bill-house-vote
 title: House and Senate both approve releasing the Epstein files by a near unanimous
   margin
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

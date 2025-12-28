@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/18/nx-s1-5612509/what-does-15-look-like-teens-a
 title: What does 15 look like? Teens and former child actors weigh in online after
   Megyn Kelly comments
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

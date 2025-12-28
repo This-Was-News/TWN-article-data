@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/18/us/politics/trump-epstein-files.html
 title: "For Trump, Epstein Is the Story That Won\u2019t Go Away"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

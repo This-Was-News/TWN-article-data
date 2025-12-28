@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-11-18-2025
 title: 'Live updates: Trump to decide on Epstein files release after Senate agrees
   to pass the legislation'
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
