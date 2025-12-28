@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-trump-republicans.html
 title: Trump Shows His Power, and Greene Reveals His Weakness
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

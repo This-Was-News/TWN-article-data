@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/22/g-s1-98793/marjorie-taylor-greene-resignation
 title: How Marjorie Taylor Greene went from a top Trump ally to choosing to resign
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

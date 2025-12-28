@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-rfk-gold-standard-science-research-autism-
 title: "RFK Jr. says he\u2019s following \u2018gold standard\u2019 science. Here\u2019\
   s what to know"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

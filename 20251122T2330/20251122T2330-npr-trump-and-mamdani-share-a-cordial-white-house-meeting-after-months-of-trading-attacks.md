@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/21/nx-s1-5615169/trump-mamdani-oval-office-comm
 title: Trump and Mamdani share a cordial White House meeting after months of trading
   attacks
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

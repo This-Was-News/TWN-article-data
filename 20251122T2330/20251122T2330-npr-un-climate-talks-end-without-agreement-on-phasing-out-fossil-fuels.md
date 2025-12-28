@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/22/nx-s1-5615207/u-n-climate-talks-end-cop30-brazil
 title: U.N. climate talks end without agreement on phasing out fossil fuels
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

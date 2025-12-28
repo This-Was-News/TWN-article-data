@@ -3,7 +3,7 @@ url: https://apnews.com/article/democrats-2028-presidential-candidates-trump-boo
 title: "Potential presidential candidates are less coy about 2028 plans: \u2018Of\
   \ course I\u2019m thinking about it\u2019"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

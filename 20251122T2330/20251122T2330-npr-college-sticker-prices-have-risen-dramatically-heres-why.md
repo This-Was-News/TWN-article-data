@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/20/nx-s1-5600854/college-costs-have-risen-dramatically-in-the-last-20-years-heres-why
 title: College 'sticker prices' have risen dramatically. Here's why
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
