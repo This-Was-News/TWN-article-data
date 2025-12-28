@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/jefferey-epstein-donald-trump-documents-493aa8b123bbf52970586cf9ce19f498
+title: Takeaways from the newly released Epstein documents
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A congressional committee has released over 20,000 documents related to Jeffrey Epstein, including emails that reveal his past connections with influential figures. Democrats on the House Oversight Committee initially released three emails mentioning Donald Trump, prompting Republicans to disclose a larger batch of documents and accuse Democrats of selective leaking. One email from Epstein to journalist Michael Wolff suggests Trump was aware of Epstein's underage accusers, with Epstein writing, "Of course he knew about the girls as he asked ghislaine to stop." However, the exact meaning of this statement is unclear, and Trump has stated he banned Epstein from his Mar-a-Lago club. Virginia Giuffre, a prominent accuser, previously stated she met Trump only once and did not believe he knew about Epstein's misconduct. The White House has called the release a Democratic smear tactic. The documents also contain mentions of Prince Andrew, with Epstein emailing a reporter to question Giuffre's credibility and mentioning her picture taken with Andrew. Epstein also wrote an email to Ghislaine Maxwell stating, "that dog that hasnt barked is trump.. virignia spent hours at my house with him." Epstein's emails also discussed strategies for responding to Giuffre's stories, including her account of meeting former President Bill Clinton. Clinton's spokesperson stated he had no knowledge of Epstein's crimes. Many of the released documents are email exchanges between Epstein and journalists, where he offered insights on various topics and sometimes brokered introductions to powerful individuals.
