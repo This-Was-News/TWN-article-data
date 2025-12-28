@@ -3,7 +3,7 @@ url: https://apnews.com/article/winter-weather-snow-chicago-great-lakes-storm-34
 title: "Meteorologists warn of \u2018intense\u2019 snow in Great Lakes states and\
   \ record lows in South"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

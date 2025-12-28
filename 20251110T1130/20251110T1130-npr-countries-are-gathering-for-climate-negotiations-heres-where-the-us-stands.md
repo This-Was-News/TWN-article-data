@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/10/nx-s1-5601876/trump-cop30-climate-brazil-belem
 title: Countries are gathering for climate negotiations. Here's where the U.S. stands
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

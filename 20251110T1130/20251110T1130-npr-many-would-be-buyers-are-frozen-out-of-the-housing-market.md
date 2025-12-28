@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/09/nx-s1-5600733/many-would-be-buyers-are-frozen-out-of-the-housing-market
 title: 'Many would-be buyers are frozen out of the housing market '
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

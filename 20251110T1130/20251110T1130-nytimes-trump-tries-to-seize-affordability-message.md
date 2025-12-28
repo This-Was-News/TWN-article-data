@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/10/us/politics/trump-affordability-inflation-democrats.html
 title: "Trump Tries to Seize \u2018Affordability\u2019 Message"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
