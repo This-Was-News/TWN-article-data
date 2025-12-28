@@ -1,7 +1,7 @@
 ---
 url: https://www.nytimes.com/2025/11/09/us/politics/democrats-midterms-senate-house.html
 title: "Where Democrats Will Duel Next for the Party\u2019s Future"
-publisher: nytimes
+publisher: rejected
 usage: top
 initial_rank: 1
 ---

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/09/nyregion/mamdani-queens-mayor.html
 title: With a Mayor From Queens, the Borough Is Having a Moment
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

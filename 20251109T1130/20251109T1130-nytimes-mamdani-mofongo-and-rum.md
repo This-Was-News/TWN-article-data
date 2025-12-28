@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/09/nyregion/mamdani-somos-puerto-rico.html
 title: 'Mamdani, Mofongo and Rum: Democratic Squabbles Fade Away, for Now'
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

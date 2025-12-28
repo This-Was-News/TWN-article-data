@@ -3,7 +3,7 @@ url: https://apnews.com/article/government-shutdown-airlines-shipping-cfeecb2727
 title: "Flight cuts from government shutdown strain a supply chain that\u2019s already\
   \ stretched thin"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

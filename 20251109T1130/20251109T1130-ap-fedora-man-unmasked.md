@@ -2,7 +2,7 @@
 url: https://apnews.com/article/louvre-fedora-man-ap-photo-c0d59847ef5f836a0c5ac49de8bff441
 title: 'Fedora man unmasked: Meet the teen behind the Louvre mystery photo'
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
