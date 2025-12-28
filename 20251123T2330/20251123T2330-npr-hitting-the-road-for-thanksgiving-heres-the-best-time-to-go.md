@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/22/nx-s1-5617698/thanksgiving-travel-best-time-aaa
 title: Hitting the road for Thanksgiving? Here's the best time to go
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

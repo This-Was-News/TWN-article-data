@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers
 title: Here's why concerns about an AI bubble are bigger than ever
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

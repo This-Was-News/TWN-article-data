@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/23/world/europe/ukraine-zelensky-war-russia.html
 title: In His Tightest Corner Yet, Will Zelensky Rise to the Occasion?
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
