@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/26/nx-s1-5622038/national-guard-shooting-washington-dc
 title: 2 West Virginia National Guard members shot in D.C., authorities say
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

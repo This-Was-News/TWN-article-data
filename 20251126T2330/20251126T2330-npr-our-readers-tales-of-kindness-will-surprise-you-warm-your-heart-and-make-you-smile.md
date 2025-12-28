@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/goats-and-soda/2025/11/26/g-s1-98523/kindness-
 title: Our readers' tales of kindness will surprise you, warm your heart and make
   you smile
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

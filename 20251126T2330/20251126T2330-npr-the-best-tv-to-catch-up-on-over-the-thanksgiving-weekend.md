@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/26/nx-s1-5600868/best-tv-to-watch-thanksgiving
 title: The best TV to catch up on over the Thanksgiving weekend
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

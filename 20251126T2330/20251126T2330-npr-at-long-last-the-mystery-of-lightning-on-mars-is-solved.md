@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/26/nx-s1-5616433/mars-rover-lightening-space
 title: At long last, the mystery of lightning on Mars is solved
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
