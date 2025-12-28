@@ -3,7 +3,7 @@ url: https://apnews.com/article/epstein-files-congress-trump-house-297a66ce48bd2
 title: Congress acts swiftly to force release of Epstein files, and Trump agrees to
   sign bill
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

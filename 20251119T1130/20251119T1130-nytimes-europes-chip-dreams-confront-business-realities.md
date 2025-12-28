@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/19/technology/europe-tsmc-chips.html
 title: "Europe\u2019s Chip Dreams Confront Business Realities"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

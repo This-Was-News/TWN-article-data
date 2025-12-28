@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/19/technology/ai-research-chinese-talent.html
 title: In the A.I. Race, Chinese Talent Still Drives American Research
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

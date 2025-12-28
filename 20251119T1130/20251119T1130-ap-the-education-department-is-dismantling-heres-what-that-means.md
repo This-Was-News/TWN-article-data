@@ -2,7 +2,7 @@
 url: https://apnews.com/article/trump-education-department-dismantle-close-b0ae8b677a63273a9b06c2b4005dee4d
 title: "The Education Department is dismantling. Here\u2019s what that means"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/19/technology/trump-nvidia-jensen-huang.html
 title: "How Trump and Nvidia\u2019s C.E.O. Became Partners on the International Stage"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
