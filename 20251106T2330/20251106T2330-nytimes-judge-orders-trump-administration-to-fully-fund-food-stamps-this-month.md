@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/06/us/politics/snap-food-stamps-shutdown-trump.html
+title: Judge Orders Trump Administration to Fully Fund Food Stamps This Month
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A federal judge has ordered the Trump administration to fully fund SNAP benefits for approximately 42 million low-income Americans this month, criticizing the government for delaying aid during the federal shutdown. The Justice Department announced its intention to appeal the ruling, leaving the program's future uncertain and raising concerns about potential hardship for recipients. Judge John J. McConnell Jr. of the U.S. District Court for the District of Rhode Island issued the order, marking his second rebuke of the administration for its handling of the Supplemental Nutrition Assistance Program. He accused federal officials of ignoring his previous order to restart payments and suggested the delay was politically motivated. The judge emphasized that millions of families could face hunger without reliable federal assistance and ordered the government to make SNAP payments to states by Friday. He criticized the administration for choosing delay, which magnifies harm and undermines the program's purpose. The ruling comes after cities, religious groups, and nonprofits sued the administration over its refusal to continue funding food stamps. The Agriculture Department had sufficient funds to continue SNAP without interruption but had previously sought to cut the program. The administration's actions were acknowledged to cause significant delays in benefit delivery, with new rules potentially exacerbating the problem for low-income Americans. Several states have also filed lawsuits seeking to compel the release of SNAP benefits. Officials expressed relief that people would receive necessary food aid but criticized the necessity of a lawsuit to ensure the government provided for its citizens.
