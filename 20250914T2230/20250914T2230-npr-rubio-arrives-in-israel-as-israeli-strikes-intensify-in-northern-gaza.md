@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/09/14/nx-s1-5541260/rubio-israel-gaza-qatar-strike
+title: Rubio arrives in Israel as Israeli strikes intensify in northern Gaza
+publisher: npr
+usage: candidate
+initial_rank: 4
+---
+## Article summary
+U.S. Secretary of State Marco Rubio arrived in Israel on Sunday amid intensified Israeli strikes in northern Gaza, which resulted in the destruction of a high-rise building and the deaths of at least 12 Palestinians. Rubio aims to seek answers from Israeli officials about their plans for Gaza following a recent Israeli attack on Hamas operatives in Qatar that disrupted ceasefire efforts. His visit comes as Israel faces increasing isolation, with the United Nations set to debate the commitment to a Palestinian state, which Israeli Prime Minister Benjamin Netanyahu strongly opposes. Despite President Donald Trump's anger over the Israeli strike in Doha, Rubio's visit proceeded to balance relations between key Middle East allies. The attack in Doha has ended attempts for an Israel-Hamas ceasefire and hostage release ahead of the U.N. General Assembly. On Sunday, Israeli strikes killed at least 13 Palestinians and wounded dozens, including a family of six in Der al-Balah. The Israeli military expanded operations in Gaza City, destroying a residential building after issuing an evacuation order. Meanwhile, malnutrition-related deaths in Gaza have risen, with 277 adults and 145 children dying since late June and the start of the war in October 2023, respectively. The conflict began when Hamas-led militants attacked southern Israel, killing 1,200 people and abducting 251, with 48 hostages still remaining in Gaza. Israel's retaliatory offensive has killed at least 64,803 Palestinians, according to Gaza's Health Ministry, with around half being women and children, and has displaced around 90% of the population.
