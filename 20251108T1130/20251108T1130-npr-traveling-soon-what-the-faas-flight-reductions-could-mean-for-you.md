@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/nx-s1-5601666/flights-faa-reductions-cancellations-government-shutdown-travel-tips
 title: Traveling soon? What the FAA's flight reductions could mean for you
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

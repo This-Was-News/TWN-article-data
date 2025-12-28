@@ -1,7 +1,7 @@
 ---
 url: https://www.nytimes.com/2025/11/07/us/politics/trump-court-food-stamps.html
 title: Supreme Court Temporarily Allows Trump to Curtail Food Stamp Funding
-publisher: nytimes
+publisher: lead
 usage: top
 initial_rank: 1
 ---

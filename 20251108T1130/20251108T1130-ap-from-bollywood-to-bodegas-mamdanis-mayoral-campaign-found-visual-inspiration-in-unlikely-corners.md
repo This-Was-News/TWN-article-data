@@ -3,7 +3,7 @@ url: https://apnews.com/article/nyc-mayoral-campaign-zohran-mamdani-andrew-cuomo
 title: "From Bollywood to bodegas, Mamdani\u2019s mayoral campaign found visual inspiration\
   \ in unlikely corners"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
