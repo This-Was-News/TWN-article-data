@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/01/nx-s1-5551126/population-climate-families-children
+title: "Could smaller families 'rewild' the planet \u2014 and make humans happier?"
+publisher: npr
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+The global population is experiencing a significant shift as families are having fewer children, a trend explored in NPR's series 'Population Shift: How Smaller Families Are Changing the World.' This decline, driven by individuals choosing different life paths, alarms some experts who foresee societal unraveling, while others see substantial benefits. Activists like John Davis advocate for a "small family ethic," believing fewer people will reduce consumption, carbon pollution, and habitat loss, allowing landscapes to "rewild." Globally, family size has more than halved since the 1970s, with many industrialized nations now below the replacement birth rate. This shift is largely due to women delaying or deciding against motherhood to pursue other life goals. While some experts express concern about the economic and social implications of aging and declining populations, others, like economist Claudia Goldin, suggest fears are overblown and that individuals are happier when they can freely decide if and when to have children. A major upside highlighted is the potential for improved lives for women and girls, who often gain more education, financial security, and better health. Despite these potential benefits, challenges remain in funding social safety nets and maintaining economies in the face of fewer young workers. Advocates emphasize that this trend should be supported by reproductive freedom and family planning, not forced measures. Ultimately, proponents hope this transition could lead to a happier world for both people and wildlife.
