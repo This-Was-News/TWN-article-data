@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/09/nx-s1-5602930/ups-fedex-md11-aircraft-holiday-shipping
+title: Some UPS and FedEx planes are grounded. What does that mean for holiday shipping?
+publisher: npr
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+The Federal Aviation Administration has ordered all McDonnell Douglas MD-11 aircraft grounded following a fatal UPS crash, a directive that affects both UPS and FedEx cargo fleets. This grounding comes as a precautionary measure after a UPS MD-11 crashed shortly after takeoff in Louisville, Kentucky, resulting in 14 fatalities. While MD-11s represent a small portion of UPS and FedEx's overall aircraft, aviation experts suggest that a prolonged grounding could potentially delay holiday deliveries. Both UPS and FedEx have stated that contingency plans are in place to mitigate delivery disruptions, possibly by shifting cargo to passenger planes, trains, and trucks. However, experts like Jeremy Tancredi warn that the loss of capacity from these grounded planes could be significant during the peak holiday shipping season. The MD-11, first introduced in 1986, has been gradually phased out by both UPS and FedEx in favor of more efficient aircraft. UPS operates 26 MD-11s out of over 500 aircraft, while FedEx has 28 MD-11s out of approximately 700. The duration of the grounding is a critical factor in determining the extent of delivery impacts, with potential delays increasing if the grounding extends beyond a week or two as the holidays approach. Meanwhile, unrelated FAA flight reductions due to the government shutdown are not expected to affect cargo carriers, as they primarily operate at night. With an estimated 2.3 billion packages expected during the holiday season, an increase of 5% from the previous year, consumers are advised to shop early to ensure timely deliveries.

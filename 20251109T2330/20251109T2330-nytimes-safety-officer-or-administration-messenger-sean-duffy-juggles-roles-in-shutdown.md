@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/09/us/politics/duffy-faa-air-travel-shutdown.html
+title: Safety Officer or Administration Messenger? Sean Duffy Juggles Roles in Shutdown.
+publisher: nytimes
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+Transportation Secretary Sean Duffy has become a prominent spokesperson for the Trump administration during the government shutdown, balancing his role as a safety officer with that of an administration messenger. He recently issued threats to shut down parts of the airspace and ordered a 10 percent reduction in flights at 40 airports, citing concerns about air traffic controller staffing and safety data. Duffy stated these decisions were data-driven and made by nonpolitical safety experts at the FAA to ensure air travel safety amid the shutdown. However, Democrats accuse Duffy of exploiting his position to create public inconvenience and pressure them to end the shutdown, calling his restrictions a political stunt. While some airlines have not objected, many have not seen the data Duffy cited. The reduction in flights has led to hundreds of cancellations and continued delays. The air traffic controllers union has not taken an official stance, but some retired controllers question the effectiveness of Duffy's actions. Before the shutdown, Duffy was praised for efforts to improve air safety and hire new controllers, inheriting a system already under stress due to staffing shortages. Critics argue that Duffy is using air traffic controllers as pawns and creating "fake outrage" to pressure the public and politicians. Despite mixed reactions from aviation experts and industry consultants, some, like the chair of the National Transportation Safety Board, have praised Duffy's actions as prudent safety management, while others believe he had little choice but to plan for worst-case scenarios.
