@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/13/us/texas-am-gender-race-ideology-rules-classroom.html
+title: Texas A&M Tightens Rules on Talking About Race and Gender in Classes
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+Texas A&M University System regents have enacted new rules restricting discussions of race and gender ideology in classrooms. The revised policies prohibit courses from advocating race or gender ideology, or topics related to sexual orientation or gender identity, without explicit approval from campus presidents. Additionally, faculty members are now barred from teaching material that deviates from the approved course syllabus. These measures are seen as an effort by university leaders to exert greater control over academic content amid ongoing debates about academic freedom and accusations of liberal indoctrination in public universities. Republican officials in Texas have been vocal about their concerns regarding what is taught in higher education, while professors argue these policies stifle open debate and intellectual inquiry. The university system defines gender ideology as a concept of self-assessed gender identity disconnected from biological sex, and race ideology as an attempt to shame a particular race or ethnicity. While some faculty members expressed concerns about professors fearing to tackle essential topics, others supported the changes, believing they would help restore public confidence in higher education by emphasizing knowledge dissemination over advocacy. These policies come amidst a broader trend in conservative states to regulate classroom content, particularly concerning race and gender, with Texas A&M having previously faced pressure leading to the dismissal of a lecturer for teaching a course that recognized more than two genders.
