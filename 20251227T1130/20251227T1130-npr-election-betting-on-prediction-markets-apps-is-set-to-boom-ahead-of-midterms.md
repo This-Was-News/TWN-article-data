@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets
 title: Election betting on prediction markets apps is set to boom ahead of midterms
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

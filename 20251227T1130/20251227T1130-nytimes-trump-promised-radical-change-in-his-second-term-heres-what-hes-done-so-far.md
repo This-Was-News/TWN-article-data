@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-a
 title: "Trump Promised Radical Change in His Second Term. Here\u2019s What He\u2019\
   s Done So Far."
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

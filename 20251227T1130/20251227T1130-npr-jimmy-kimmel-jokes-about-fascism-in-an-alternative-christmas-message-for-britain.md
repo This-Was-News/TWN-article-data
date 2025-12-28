@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/26/nx-s1-5658144/jimmy-kimmel-alternative-chris
 title: Jimmy Kimmel jokes about fascism in an 'alternative Christmas message' for
   Britain
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

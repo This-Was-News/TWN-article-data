@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/26/nx-s1-5652027/marijuana-reclassified-trump-e
 title: Marijuana rescheduling would bring some immediate changes, but others will
   take time
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/media-newspapers-fading-warren-buffett-6cebea1d8
 title: Sure, the newspaper informed. But as it fades, those who used it for other
   things must adjust, too
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
