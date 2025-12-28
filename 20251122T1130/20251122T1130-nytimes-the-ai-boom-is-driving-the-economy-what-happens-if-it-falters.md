@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html
 title: The A.I. Boom Is Driving the Economy. What Happens if It Falters?
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

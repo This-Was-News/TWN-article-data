@@ -3,7 +3,7 @@ url: https://apnews.com/article/marjorie-taylor-greene-resign-trump-georgia-repu
 title: "Marjorie Taylor Greene is resigning. Here\u2019s what to know about her five\
   \ years in Congress"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
