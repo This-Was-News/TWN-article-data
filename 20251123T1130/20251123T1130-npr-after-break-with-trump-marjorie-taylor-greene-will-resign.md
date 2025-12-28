@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump
 title: After break with Trump, Marjorie Taylor Greene will resign
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 5
 ---
 ## Article summary
