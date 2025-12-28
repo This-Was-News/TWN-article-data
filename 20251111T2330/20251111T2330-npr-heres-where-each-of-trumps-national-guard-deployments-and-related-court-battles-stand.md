@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/10/10/nx-s1-5567177/national-guard-map-chicago-cal
 title: 'Here''s where each of Trump''s National Guard deployments and related court
   battles stand '
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

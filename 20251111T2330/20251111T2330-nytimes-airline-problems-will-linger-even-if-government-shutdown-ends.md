@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/11/business/air-travel-government-shutdown-airlines.html
 title: Airline Problems Will Linger Even if Government Shutdown Ends
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

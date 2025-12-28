@@ -3,7 +3,7 @@ url: https://apnews.com/article/home-prices-50-year-mortgage-trump-56a931881ca6f
 title: "White House\u2019s 50-year mortgage proposal has one notable benefit but a\
   \ number of drawbacks"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

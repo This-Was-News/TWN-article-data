@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/11/nx-s1-5596107/ive-had-it-podcast-democrats-m
 title: "This podcast says 'I've Had It' with Republicans \u2014 and Democrats who\
   \ don't fight back"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

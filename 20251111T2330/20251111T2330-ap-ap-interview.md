@@ -3,7 +3,7 @@ url: https://apnews.com/article/newsom-california-climate-change-cop30-trump-942
 title: "AP Interview: Newsom says Trump climate-fighting absence is \u2018doubling\
   \ down on stupid\u2019"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

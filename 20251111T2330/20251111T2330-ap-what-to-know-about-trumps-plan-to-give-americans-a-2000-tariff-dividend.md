@@ -2,7 +2,7 @@
 url: https://apnews.com/article/trump-tariff-dividends-election-supreme-court-21ee2da1ab7966fa6566b81bc91b11d4
 title: "What to know about Trump\u2019s plan to give Americans a $2,000 tariff dividend"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
