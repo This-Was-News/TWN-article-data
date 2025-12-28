@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-economy-midterms-republicans-affordability
 title: "Trump\u2019s Republican Party insists there\u2019s no affordability crisis\
   \ and dismisses election losses"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

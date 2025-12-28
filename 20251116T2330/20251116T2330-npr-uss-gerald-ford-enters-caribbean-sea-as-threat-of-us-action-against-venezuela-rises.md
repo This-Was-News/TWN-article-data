@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/15/nx-s1-5609888/aircraft-carrier-caribbean-ven
 title: USS Gerald Ford enters Caribbean Sea as threat of U.S. action against Venezuela
   rises
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

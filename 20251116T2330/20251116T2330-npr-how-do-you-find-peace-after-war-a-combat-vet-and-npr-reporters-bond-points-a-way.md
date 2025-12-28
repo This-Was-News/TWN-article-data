@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/16/nx-s1-5598472/iraq-war-bond-recovery-veteran
 title: How do you find peace after war? A combat vet and NPR reporter's bond points
   a way
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
