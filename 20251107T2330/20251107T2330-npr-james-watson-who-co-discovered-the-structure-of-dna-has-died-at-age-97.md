@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/nx-s1-5144654/james-watson-dna-double-helix-dies
 title: James Watson, who co-discovered the structure of DNA, has died at age 97
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

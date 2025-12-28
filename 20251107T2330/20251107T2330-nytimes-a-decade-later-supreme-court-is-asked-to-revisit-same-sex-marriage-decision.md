@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/07/us/politics/supreme-court-same-sex-marriage.html
 title: A Decade Later, Supreme Court Is Asked to Revisit Same-Sex Marriage Decision
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/nx-s1-5601894/air-travel-airports-flights-faa-reductions-what-to-know
 title: The FAA's air traffic reductions are taking effect. Here's what to know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

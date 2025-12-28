@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/nx-s1-5566671/furniture-price-trump-tariffs
 title: What's happening with furniture prices? A tale of $399 couches and tariffs
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

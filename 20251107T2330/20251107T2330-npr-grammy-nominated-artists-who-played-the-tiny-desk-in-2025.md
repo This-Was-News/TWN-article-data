@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/g-s1-96971/grammy-nominated-artists-who-played-the-tiny-desk-in-2025
 title: Grammy nominated artists who played the Tiny Desk in 2025
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
