@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-epstein-midterms-affordability-economy-c90
 title: "Epstein files and affordability concerns threaten to knock Trump\u2019s 2nd\
   \ presidency off course"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

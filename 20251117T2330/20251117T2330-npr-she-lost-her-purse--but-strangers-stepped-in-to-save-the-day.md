@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/17/nx-s1-5608312/she-lost-her-purse-but-strangers-stepped-in-to-save-the-day
 title: "She lost her purse \u2014 but strangers stepped in to save the day"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

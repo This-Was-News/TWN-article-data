@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/17/nx-s1-5610501/trump-seth-meyers-fired
 title: President Trump wants Seth Meyers fired. The FCC chair amplified the message
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

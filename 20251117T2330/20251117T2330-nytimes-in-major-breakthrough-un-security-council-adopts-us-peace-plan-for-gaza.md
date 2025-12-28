@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/17/world/middleeast/un-security-council-gaza-peace-plan.html
 title: In Major Breakthrough, U.N. Security Council Adopts U.S. Peace Plan for Gaza
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

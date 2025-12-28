@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/17/nx-s1-5554508/family-single-mothers-rise-motherhood-fertility-ivf-finances
 title: How women over 30 are rewriting the single mom narrative in America
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

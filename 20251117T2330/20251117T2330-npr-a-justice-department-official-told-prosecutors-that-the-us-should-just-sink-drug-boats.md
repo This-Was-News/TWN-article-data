@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/17/g-s1-97836/venezuela-evidence-doj-strikes-si
 title: A Justice Department official told prosecutors that the U.S. should 'just sink'
   drug boats
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

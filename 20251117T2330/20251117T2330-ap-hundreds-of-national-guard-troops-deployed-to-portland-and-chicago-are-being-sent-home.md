@@ -3,7 +3,7 @@ url: https://apnews.com/article/national-guard-portland-chicago-los-angeles-cd6e
 title: Hundreds of National Guard troops deployed to Portland and Chicago are being
   sent home
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
