@@ -1,7 +1,7 @@
 ---
 url: https://www.npr.org/2025/11/12/nx-s1-5561978/black-police-worry-federal-agents-drive-a-wedge-into-communities
 title: 'Some Black police officials worry more federal agents will breed community
-  mistrust '
+  mistrust'
 publisher: npr
 usage: candidate
 initial_rank: 5

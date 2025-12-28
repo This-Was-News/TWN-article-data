@@ -3,7 +3,7 @@ url: https://apnews.com/article/government-shutdown-reopen-update-house-returns-
 title: President Trump signs government funding bill, ending shutdown after a record
   43-day disruption
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

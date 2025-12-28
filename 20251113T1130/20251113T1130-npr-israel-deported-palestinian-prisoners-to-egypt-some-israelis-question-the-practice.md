@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/13/nx-s1-5604397/israel-palestinian-prisoners-d
 title: Israel deported Palestinian prisoners to Egypt. Some Israelis question the
   practice
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

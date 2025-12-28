@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/12/us/shutdown-travel-snap-backpay.html
 title: The Shutdown Is Over. When Will Things Get Back to Normal?
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
