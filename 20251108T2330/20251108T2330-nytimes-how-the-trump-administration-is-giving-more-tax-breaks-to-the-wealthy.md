@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/08/business/trump-administration-tax-breaks-wealthy.html
+title: How the Trump Administration Is Giving More Tax Breaks to the Wealthy
+publisher: nytimes
+usage: rejected
+initial_rank: 2
+---
+## Article summary
+The Trump administration, through the Treasury Department and Internal Revenue Service, is implementing new rules that provide significant tax breaks to large corporations and wealthy individuals. These actions are largely bypassing public scrutiny and are projected to offer hundreds of billions of dollars in tax relief. A primary target of these new regulations is the corporate alternative minimum tax, a provision enacted in 2022 to ensure profitable corporations pay at least some federal income tax. The Treasury's new notices and proposed regulations are expected to drastically reduce the revenue expected from this tax. These breaks are in addition to the substantial tax cuts passed in July 2025, which also heavily favored businesses and the wealthy, contributing trillions to the federal deficit. Tax experts suggest these actions may exceed the administration's legal authority, effectively enacting unlegislated tax cuts. The Treasury argues these moves are a practical approach to support American investment and competitiveness, countering what they describe as the Biden administration's complex regulations. However, critics contend these actions, which are not always publicly disclosed, are aggressively exploiting loopholes to benefit specific groups without offsetting measures. The administration has also granted tax relief to foreign investors in U.S. real estate, withdrawn regulations preventing multinational tax avoidance through duplicate losses, and rolled back a crackdown on aggressive tax shelters used by major companies. These changes are being applauded by tax planners for large corporations, who see them as providing significant flexibility to reduce tax liabilities.
