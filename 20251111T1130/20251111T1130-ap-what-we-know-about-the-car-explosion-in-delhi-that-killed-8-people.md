@@ -2,7 +2,7 @@
 url: https://apnews.com/article/india-delhi-car-blast-red-fort-c52ed38b7586dbd070535186f7a723b3
 title: What we know about the car explosion in Delhi that killed 8 people
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

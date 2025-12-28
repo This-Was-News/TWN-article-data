@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/11/nx-s1-5591158/ukraine-russia-war-women-ukrai
 title: '''No turning back'': More and more Ukrainian women join the army to fight
   Russia'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

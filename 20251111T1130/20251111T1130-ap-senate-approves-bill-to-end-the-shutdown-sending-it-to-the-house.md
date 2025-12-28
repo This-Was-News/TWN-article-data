@@ -2,7 +2,7 @@
 url: https://apnews.com/article/government-shutdown-update-80ef7cada7b3c0559aca38886efd8f90
 title: Senate approves bill to end the shutdown, sending it to the House
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary
