@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-venezuela-boat-strikes-drugs-cocaine-traff
 title: Trump has accused boat crews of being narco-terrorists. The truth, AP found,
   is more nuanced
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

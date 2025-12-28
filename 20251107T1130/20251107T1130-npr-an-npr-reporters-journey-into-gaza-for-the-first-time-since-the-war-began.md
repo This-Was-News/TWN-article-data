@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/nx-s1-5600831/gaza-israel-journalists
 title: An NPR reporter's journey into Gaza, for the first time since the war began
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

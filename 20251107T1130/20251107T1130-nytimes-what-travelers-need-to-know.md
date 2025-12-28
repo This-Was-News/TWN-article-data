@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/06/travel/shutdown-faa-flight-delays-cancellations.html
 title: What Travelers Need to Know
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

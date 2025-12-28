@@ -3,7 +3,7 @@ url: https://apnews.com/article/flight-cuts-government-shutdown-airlines-c21ffa6
 title: "The FAA\u2019s order to cut flights nationwide due to the government shutdown\
   \ is set to take effect"
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

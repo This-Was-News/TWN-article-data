@@ -3,7 +3,7 @@ url: https://apnews.com/article/black-lung-coal-miners-trump-doge-7c2258181a73f6
 title: "Deep in Trump country, coal miners with black lung say government is suffocating\
   \ the \u2018working man\u2019"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

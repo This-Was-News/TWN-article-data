@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/07/nx-s1-5600734/jobs-labor-market-government-s
 title: Is the job market getting worse? As the shutdown continues, this is what we
   know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

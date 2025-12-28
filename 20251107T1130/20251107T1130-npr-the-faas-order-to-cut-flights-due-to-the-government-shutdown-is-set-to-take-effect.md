@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/07/nx-s1-5601586/flight-cuts-government-shutdow
 title: The FAA's order to cut flights due to the government shutdown is set to take
   effect
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
