@@ -3,7 +3,7 @@ url: https://apnews.com/article/peptide-injections-rfk-maha-4d48e78a5d65658b4d6e
 title: Americans are injecting themselves with unproven peptides sold by influencers
   and RFK Jr. allies
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

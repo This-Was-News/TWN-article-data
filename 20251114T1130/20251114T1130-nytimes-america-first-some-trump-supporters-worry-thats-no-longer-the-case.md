@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/14/us/politics/trump-supporters-america-first-concerns.html
 title: "America First? Some Trump Supporters Worry That\u2019s No Longer the Case."
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

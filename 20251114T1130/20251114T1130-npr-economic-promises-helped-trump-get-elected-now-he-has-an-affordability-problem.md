@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/14/nx-s1-5608348/trump-economy-affordability
 title: Economic promises helped Trump get elected. Now he has an affordability problem
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/13/us/politics/trump-tariffs-food-prices.html
 title: Trump Administration Prepares Tariff Exemptions in Bid to Lower U.S. Food Prices
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

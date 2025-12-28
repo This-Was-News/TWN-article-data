@@ -2,7 +2,7 @@
 url: https://apnews.com/article/work-side-jobs-security-salaries-layoffs-df229576002b9b99cf4149b3978e937c
 title: "Workers turn to \u2018polyworking\u2019 to combat frozen salaries and inflation"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
