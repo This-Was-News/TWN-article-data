@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/01/nx-s1-5551126/population-climate-families-children
 title: "Could smaller families 'rewild' the planet \u2014 and make humans happier?"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

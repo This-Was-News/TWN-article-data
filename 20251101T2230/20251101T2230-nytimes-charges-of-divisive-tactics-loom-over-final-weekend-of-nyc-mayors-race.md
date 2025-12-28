@@ -3,7 +3,7 @@ url: https://www.nytimes.com/live/2025/11/01/nyregion/nyc-mayor-election-news
 title: "Charges of Divisive Tactics Loom Over Final Weekend of N.Y.C. Mayor\u2019\
   s Race"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

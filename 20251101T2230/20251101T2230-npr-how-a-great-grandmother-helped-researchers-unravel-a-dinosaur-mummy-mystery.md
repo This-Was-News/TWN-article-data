@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/01/nx-s1-5590944/duck-billed-hooved-dinosaur-discovery
 title: How a great-grandmother helped researchers unravel a dinosaur mummy mystery
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

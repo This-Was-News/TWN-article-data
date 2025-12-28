@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/01/nx-s1-5591497/snap-benefits-shutdown-grocery
 title: As SNAP benefits run dry, 'grocery buddies' are footing their neighbors' food
   bills
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

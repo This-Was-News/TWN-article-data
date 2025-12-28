@@ -3,7 +3,7 @@ url: https://apnews.com/article/day-of-dead-immigration-minneapolis-chicago-0ba9
 title: Joyful Day of the Dead commemorations rally US Latino communities despite immigration
   raid fears
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
