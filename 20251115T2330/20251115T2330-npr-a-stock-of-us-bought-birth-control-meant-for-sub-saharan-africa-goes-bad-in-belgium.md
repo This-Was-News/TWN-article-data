@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/goats-and-soda/2025/11/15/g-s1-97843/birth-con
 title: A stock of U.S.-bought birth control, meant for sub-Saharan Africa, goes bad
   in Belgium
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

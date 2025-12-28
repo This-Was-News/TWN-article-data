@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/15/world/middleeast/dar-global-trump-org-saudi-mbs-business-deal-real-estate-licensing.html
 title: A Mideast Development Firm Has Set Up Shop in Trump Tower
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

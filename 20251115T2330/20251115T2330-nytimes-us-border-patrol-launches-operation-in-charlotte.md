@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/15/us/us-border-patrol-charlotte-nc-immigration.html
 title: U.S. Border Patrol Launches Operation in Charlotte
 publisher: nytimes
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary

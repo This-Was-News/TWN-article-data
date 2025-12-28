@@ -2,7 +2,7 @@
 url: https://www.wfae.org/crime-justice/2025-11-15/border-patrol-agents-seen-conducting-operations-in-east-charlotte
 title: Border Patrol agents seen conducting operations in Charlotte
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

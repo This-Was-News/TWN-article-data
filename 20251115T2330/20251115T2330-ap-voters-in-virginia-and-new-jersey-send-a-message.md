@@ -3,7 +3,7 @@ url: https://apnews.com/article/virginia-new-jersey-election-democratic-swing-co
 title: "Voters in Virginia and New Jersey send a message: It\u2019s Trump\u2019s economy\
   \ now"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
