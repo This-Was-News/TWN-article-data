@@ -2,7 +2,7 @@
 url: https://apnews.com/article/national-guard-dc-deployment-c1c2b13a7102632632267bf1262506ff
 title: Judge orders Trump administration to end National Guard deployment in DC
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html
 title: "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

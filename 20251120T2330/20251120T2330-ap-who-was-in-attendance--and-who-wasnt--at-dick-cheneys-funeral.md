@@ -3,7 +3,7 @@ url: https://apnews.com/article/dick-cheney-funeral-attendees-photos-1f83e5d5705
 title: "Who was in attendance \u2014 and who wasn\u2019t \u2014 at Dick Cheney\u2019\
   s funeral"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

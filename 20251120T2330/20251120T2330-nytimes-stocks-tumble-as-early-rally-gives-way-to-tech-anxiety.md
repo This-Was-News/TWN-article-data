@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html
 title: Stocks Tumble as Early Rally Gives Way to Tech Anxiety
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
