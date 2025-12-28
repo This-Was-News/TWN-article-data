@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown
 title: SNAP benefits will restart, but will be half the normal payment and delayed
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-11-3-2025
 title: "Live updates: Trump administration says SNAP will be partially funded after\
   \ judges\u2019 rulings"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

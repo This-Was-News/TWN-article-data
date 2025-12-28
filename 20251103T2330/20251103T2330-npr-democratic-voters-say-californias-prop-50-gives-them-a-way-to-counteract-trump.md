@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/03/g-s1-96207/california-redistricting-prop-50-
 title: Democratic voters say California's Prop 50 gives them a way to 'counteract'
   Trump
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

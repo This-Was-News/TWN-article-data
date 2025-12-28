@@ -3,7 +3,7 @@ url: https://apnews.com/article/virginia-new-jersey-new-york-california-election
 title: "What\u2019s on the ballot in the first general election since Donald Trump\
   \ became president"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

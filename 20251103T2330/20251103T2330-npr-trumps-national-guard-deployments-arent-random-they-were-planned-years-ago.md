@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/03/nx-s1-5593112/national-guard-mass-deportations-trump-2026
 title: Trump's National Guard deployments aren't random. They were planned years ago
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
