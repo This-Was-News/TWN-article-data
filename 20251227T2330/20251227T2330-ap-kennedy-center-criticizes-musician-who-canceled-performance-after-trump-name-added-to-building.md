@@ -3,7 +3,7 @@ url: https://apnews.com/article/kennedy-center-jazz-jam-canceled-993fdbcbadb34da
 title: Kennedy Center criticizes musician who canceled performance after Trump name
   added to building
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

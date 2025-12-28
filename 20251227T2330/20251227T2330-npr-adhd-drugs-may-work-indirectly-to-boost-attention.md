@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/shots-health-news/2025/12/27/nx-s1-5658291/adhd-adderall-ritalin-mechanism
 title: ' ADHD drugs may work indirectly to boost attention'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

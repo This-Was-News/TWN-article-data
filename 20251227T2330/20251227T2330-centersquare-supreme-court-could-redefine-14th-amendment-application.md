@@ -2,7 +2,7 @@
 url: https://www.thecentersquare.com/national/article_86455837-80ad-4677-a716-cc118cc5a77d.html
 title: Supreme Court could redefine 14th Amendment application
 publisher: centersquare
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

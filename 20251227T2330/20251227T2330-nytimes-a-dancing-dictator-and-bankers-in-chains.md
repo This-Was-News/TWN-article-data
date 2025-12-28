@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/27/world/americas/venezuela-blockade-1903-us.html
 title: 'A Dancing Dictator and Bankers in Chains: The Other Venezuela Blockade'
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

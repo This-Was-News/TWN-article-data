@@ -2,7 +2,7 @@
 url: https://apnews.com/article/cyprus-lionfish-toadfish-invasive-species-mediterranean-climate-b7a33b3f56d642171e54860706a67669
 title: Cypriot fishermen battle invasive lionfish and turn them into a tavern delicacy
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

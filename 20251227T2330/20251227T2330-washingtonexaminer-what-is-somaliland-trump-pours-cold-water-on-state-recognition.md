@@ -2,7 +2,7 @@
 url: https://www.washingtonexaminer.com/news/world/4362970/somaliland-trump-pours-cold-water-on-state-recognition/
 title: What is Somaliland? Trump pours cold water on state recognition
 publisher: washingtonexaminer
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

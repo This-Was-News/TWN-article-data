@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/27/nx-s1-5649519/myanmar-election
 title: Myanmar is set to hold phased elections. Here's why they're being called a
   'sham'
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
