@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/04/g-s1-96372/snap-benefits-november-government
 title: When SNAP benefits will arrive is still in flux. Here's what communities are
   doing to fill the gap
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

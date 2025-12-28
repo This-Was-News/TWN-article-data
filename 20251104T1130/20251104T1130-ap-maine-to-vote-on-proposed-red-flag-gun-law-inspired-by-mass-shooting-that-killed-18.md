@@ -3,7 +3,7 @@ url: https://apnews.com/article/maine-election-guns-red-flag-lewiston-shooting-6
 title: Maine to vote on proposed red flag gun law inspired by mass shooting that killed
   18
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

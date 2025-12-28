@@ -3,7 +3,7 @@ url: https://apnews.com/article/virginia-new-jersey-trump-election-democrat-repu
 title: "Trump\u2019s strength, Democrats\u2019 message and the shutdown effect. What\
   \ to watch on Election Day 2025"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

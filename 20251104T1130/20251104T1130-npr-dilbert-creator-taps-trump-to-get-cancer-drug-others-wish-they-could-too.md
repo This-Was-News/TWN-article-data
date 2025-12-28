@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/shots-health-news/2025/11/03/nx-s1-5596478/dilbert-trump-cancer-drug-rfk-jr
 title: Dilbert creator taps Trump to get cancer drug. Others wish they could, too
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/04/us/politics/elections-new-york-new-jersey-virginia.html
 title: Contests Have Revolved Around How Democrats Should Rebuild
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

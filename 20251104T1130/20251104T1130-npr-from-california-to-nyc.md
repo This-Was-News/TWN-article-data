@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/04/nx-s1-5589775/california-redistricting-new-york-mayor-nj-va-governor
 title: 'From California to NYC: 4 races to watch this Election Day'
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

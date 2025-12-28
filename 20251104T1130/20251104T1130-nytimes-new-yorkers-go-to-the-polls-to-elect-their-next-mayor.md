@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/live/2025/11/04/nyregion/nyc-mayor-election
 title: New Yorkers Go to the Polls to Elect Their Next Mayor
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
