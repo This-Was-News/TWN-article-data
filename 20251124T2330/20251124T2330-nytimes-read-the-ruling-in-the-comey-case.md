@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/interactive/2025/11/24/us/james-comey-ruling.html
+title: Read the Ruling in the Comey Case ...
+publisher: nytimes
+usage: rejected
+initial_rank: 2
+---
+## Article summary
+A federal judge has dismissed the criminal charges against former FBI Director James Comey. The ruling, issued by Senior United States District Judge Cameron McGowan Currie, found that the prosecutor who brought the charges, Lindsey Halligan, was unlawfully appointed. Halligan, a former White House aide with no prior prosecutorial experience, was appointed Interim U.S. Attorney for the Eastern District of Virginia by the Attorney General. However, the court determined that her appointment violated federal statute 28 U.S.C. § 546, which governs the appointment of interim U.S. Attorneys. The statute limits the Attorney General's appointment authority to 120 days, after which the power to appoint an interim U.S. Attorney shifts to the district court. Halligan's appointment occurred after this 120-day period had expired, rendering her appointment invalid. Furthermore, the court found that Halligan's appointment also violated the Constitution's Appointments Clause, which dictates the exclusive means of appointing officers of the United States. As a result of the unlawful appointment, all actions taken by Halligan, including securing and signing Comey's indictment, were deemed void. The court rejected attempts by the government to retroactively ratify Halligan's appointment and actions. Consequently, Comey's motion to dismiss the indictment was granted. The dismissal is without prejudice, meaning the government could potentially refile charges if done through a legally appointed prosecutor. The authority to appoint an interim U.S. Attorney in this district now rests with the district court until a Senate-confirmed nominee is in place.
