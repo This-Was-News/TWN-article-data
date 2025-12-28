@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/25/nx-s1-5618279/black-friday-sales-deals
 title: We're shopping our feelings this Black Friday. Here are 3 things to know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

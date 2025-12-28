@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/25/nx-s1-5615164/pentagon-scouting-hegseth-cut-
 title: U.S. ready to cut support to Scouts, accusing them of attacking 'boy-friendly
   spaces'
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

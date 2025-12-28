@@ -2,7 +2,7 @@
 url: https://apnews.com/article/turkey-thanksgiving-adoption-sanctuary-59564d3d3b4a713a570ffdb1237da5db
 title: "Looking for an alternative Thanksgiving? Try \u2018adopting\u2019 a turkey"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
