@@ -3,7 +3,7 @@ url: https://apnews.com/photo-essay/autoimmune-diseases-encephalitis-health-memo
 title: "PHOTO ESSAY: A \u2018year of unraveling\u2019 when a man\u2019s immune system\
   \ hijacked his brain"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

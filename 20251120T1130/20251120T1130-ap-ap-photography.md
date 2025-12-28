@@ -2,7 +2,7 @@
 url: https://apnews.com/photography
 title: AP Photography
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

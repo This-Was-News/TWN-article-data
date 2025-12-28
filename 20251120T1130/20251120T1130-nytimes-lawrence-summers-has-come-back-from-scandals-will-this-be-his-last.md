@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/20/us/larry-summers-jeffrey-epstein-emails-scandal.html
 title: Lawrence Summers Has Come Back From Scandals. Will This Be His Last?
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
