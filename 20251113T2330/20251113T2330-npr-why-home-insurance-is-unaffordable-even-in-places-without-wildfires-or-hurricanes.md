@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/13/nx-s1-5535565/midwest-home-insurance-expensive-climate-hail-cop30
 title: Why home insurance is unaffordable, even in places without wildfires or hurricanes
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

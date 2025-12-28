@@ -3,7 +3,7 @@ url: https://apnews.com/article/stocks-markets-trump-government-shutdown-c388d97
 title: Wall Street drops to one of its worst days since April on worries about AI
   stocks and interest rates
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
