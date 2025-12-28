@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/06/nyregion/schumer-mamdani-democrats-new-york.html
+title: As Mamdani Surges Ahead, Schumer Risks Finding Himself Left Behind
+publisher: nytimes
+usage: rejected
+initial_rank: 3
+---
+## Article summary
+The rise of mayor-elect Zohran Mamdani in New York City presents a complex challenge for Senator Chuck Schumer, who risks appearing out of touch with the city's political energy by not endorsing Mamdani. While Schumer was focused on national issues like a government shutdown, Mamdani rallied a new political coalition and secured a significant victory. Some critics suggest Schumer's distance from Mamdani indicates an unwillingness to embrace the future direction of the Democratic Party. Mamdani's victory, fueled by an affordability agenda and a youth movement, resonated with a broad multiracial coalition, even winning in Schumer's own Brooklyn precinct. Schumer's allies argue his non-endorsement is a strategic move to protect his caucus in upcoming Senate midterms, as Republicans are attempting to link Mamdani to national Democratic candidates. The senator maintains his focus is on helping New York and that his North Star remains assisting the city, regardless of who is mayor. He also had to balance Mamdani's progressive platform with concerns from older voters, the business community, and the complexities surrounding Israel. Despite not endorsing Mamdani, Schumer did speak with him after the election to discuss shared goals. The article notes that other prominent Democrats, including Senator Kirsten Gillibrand and Hillary Clinton, also withheld endorsements or offered late support to Mamdani. Schumer's decision-making is viewed by some as a calculation to prioritize regaining Senate control, which they believe would be a greater validation of his political acumen than his stance on the mayoral race.
