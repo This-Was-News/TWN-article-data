@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html
+title: "How Oil, Drugs and Immigration Fueled Trump\u2019s Venezuela Campaign"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Trump's administration pursued a strategy to pressure Nicolás Maduro, the leader of Venezuela, by combining anti-drug operations with efforts to cripple the Venezuelan economy and potentially facilitate mass deportations. This approach merged policy goals of key advisors Stephen Miller, focused on immigration and combating drug cartels, and Marco Rubio, who sought to topple leftist governments in Latin America. A secret directive in July ordered the Pentagon to carry out maritime strikes against drug cartels, concentrating naval power off the coast of Venezuela, resulting in a militarized campaign that has involved lethal boat attacks and a quasi-blockade of oil tankers. The administration also explored using the Alien Enemies Act to expedite deportations of Venezuelans, linking immigration policy to a broader confrontation. Chevron's oil operations in Venezuela became a point of contention, with lawmakers pressuring Trump to end its license, which was initially not renewed but later granted with revised terms. Behind the scenes, the secret directive for military action against drug-trafficking groups, including those from Venezuela, was put in motion. The planning and execution of these operations were conducted in secrecy, with limited input from traditional bureaucratic channels. The campaign has been marked by controversial lethal boat attacks, with questions arising about the handling of survivors. The administration's actions have been criticized as aggressive and potentially constituting war crimes. The pressure campaign extended to seizing oil tankers, further impacting Venezuela's economy.
