@@ -2,7 +2,7 @@
 url: https://apnews.com/article/chicago-immigration-crackdown-videos-protest-6590936609bf71815c97dbf7e8b210d8
 title: "These are the sights and sounds of Trump\u2019s immigration crackdown"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

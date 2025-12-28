@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-11-21-2025
 title: "Live updates: Trump says he\u2019d live in New York City under Mamdani, after\
   \ face-to-face meeting"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

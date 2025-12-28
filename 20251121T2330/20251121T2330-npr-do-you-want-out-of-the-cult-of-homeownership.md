@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/21/nx-s1-5613873/do-you-want-out-of-the-cult-of-homeownership
 title: Do you want out of The Cult of Homeownership?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

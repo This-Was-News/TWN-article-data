@@ -3,7 +3,7 @@ url: https://apnews.com/article/epstein-trump-summers-andrew-elite-cb9ea7854da05
 title: "The fallout of Epstein\u2019s crimes spans the globe. Here\u2019s a look at\
   \ some of those paying the cost"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
