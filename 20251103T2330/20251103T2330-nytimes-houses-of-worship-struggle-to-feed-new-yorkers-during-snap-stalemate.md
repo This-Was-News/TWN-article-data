@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/03/nyregion/church-pantries-food-aid.html
+title: Houses of Worship Struggle to Feed New Yorkers During SNAP Stalemate
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+In New York City, religious institutions are increasingly serving as vital lifelines for residents facing food insecurity, with approximately 90 percent of the city's 600 food pantries operated by faith-based organizations or their affiliated nonprofits. These pantries, often seeing more people than their services, are struggling to meet rising demand, exacerbated by the uncertainty and potential reductions in the Supplemental Nutrition Assistance Program (SNAP). Many individuals, including seniors and families, rely on these church-run pantries for essential food items like canned goods and fresh produce, especially as grocery prices have risen significantly. The Church of the Good Shepherd in Inwood, for example, prepares to feed over 450 people weekly, a number that has grown over the two years Ms. Ama Kofi has been visiting. Met Council, a large Jewish nonprofit, has reported a 17 percent increase in turnout at its 200 locations and anticipates a 40 percent boost. The Throggs Neck Community Alliance pantry in the Bronx, which serves about 450 people weekly, notes that recipients are desperate as existing aid was already insufficient. Some pantries, like the one coordinated by Paul Kwon, have faced funding cuts themselves, leading to reduced bag sizes for clients. Despite these challenges, these houses of worship continue their mission to provide food, sometimes extending hours and relying more on community fundraisers and food drives to sustain their operations. The situation highlights the critical role religious organizations play in bridging the gap for those who don't qualify for SNAP or whose benefits are inadequate.
