@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/shots-health-news/2025/11/19/nx-s1-5604813/mar
 title: Can weed help you drink less? Scientists study how well 'California sober'
   works
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

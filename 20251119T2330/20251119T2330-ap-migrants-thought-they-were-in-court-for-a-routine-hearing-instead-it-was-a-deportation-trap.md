@@ -3,7 +3,7 @@ url: https://apnews.com/article/immigration-courts-deportations-trump-administra
 title: Migrants thought they were in court for a routine hearing. Instead, it was
   a deportation trap
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

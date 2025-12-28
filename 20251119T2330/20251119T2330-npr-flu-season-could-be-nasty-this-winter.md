@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/19/nx-s1-5607250/flu-season-h3n2-influenza-virus-shot
 title: Flu season could be nasty this winter
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

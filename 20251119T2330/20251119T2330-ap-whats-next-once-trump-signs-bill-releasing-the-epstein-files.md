@@ -2,7 +2,7 @@
 url: https://apnews.com/article/epstein-files-trump-congress-2dacdb8949433008f47a8b8876f558f0
 title: "What\u2019s next once Trump signs bill releasing the Epstein files"
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

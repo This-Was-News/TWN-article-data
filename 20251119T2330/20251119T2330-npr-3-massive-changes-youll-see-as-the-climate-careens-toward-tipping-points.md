@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/19/nx-s1-5593087/climate-tipping-points-cop30-brazil-coral-glaciers-carbon
 title: 3 massive changes you'll see as the climate careens toward tipping points
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

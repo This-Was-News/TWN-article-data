@@ -2,7 +2,7 @@
 url: https://apnews.com/live/donald-trump-news-updates-11-19-2025#0000019a-9d87-d4e7-afbf-bf9ff2890000
 title: New AP photos show White House construction where East Wing once stood
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

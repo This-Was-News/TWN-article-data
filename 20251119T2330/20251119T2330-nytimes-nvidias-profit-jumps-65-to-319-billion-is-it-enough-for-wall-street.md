@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html
 title: "Nvidia\u2019s Profit Jumps 65% to $31.9 Billion. Is It Enough for Wall Street?"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
