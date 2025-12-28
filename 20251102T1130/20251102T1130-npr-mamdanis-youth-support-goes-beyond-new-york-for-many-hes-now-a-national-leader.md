@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/02/nx-s1-5531004/zohran-mamdani-new-york-young-
 title: Mamdani's youth support goes beyond New York. For many, he's now a national
   leader
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

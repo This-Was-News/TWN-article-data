@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/02/us/politics/trump-strategy-food-stamps.html
 title: "Food Stamp Cuts Expose Trump\u2019s Strategy to Use Shutdown to Advance Agenda"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

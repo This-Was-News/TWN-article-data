@@ -3,7 +3,7 @@ url: https://www.nytimes.com/2025/11/02/us/im-going-to-stretch-it-anxiety-over-s
 title: "\u2018I\u2019m Going to Stretch It\u2019: Anxiety Over SNAP Leads to Hard\
   \ Choices"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

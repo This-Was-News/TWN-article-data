@@ -3,7 +3,7 @@ url: https://apnews.com/article/world-series-game-7-top-moments-cc56abe9a3fd756c
 title: "Key moments from the Dodgers\u2019 wild World Series Game 7 win over the Blue\
   \ Jays"
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 2
 ---
 ## Article summary
