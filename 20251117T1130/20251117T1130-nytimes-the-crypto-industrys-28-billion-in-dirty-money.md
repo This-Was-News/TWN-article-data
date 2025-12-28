@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/11/17/technology/crypto-exchanges-dirty-money.html
+title: "The Crypto Industry\u2019s $28 Billion in \u2018Dirty Money\u2019"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+An investigation by the International Consortium of Investigative Journalists, The New York Times, and 36 other news organizations reveals that at least $28 billion tied to illicit activities has flowed into major crypto exchanges over the past two years. This money originates from hackers, thieves, and extortionists, with funds traced to cybercriminals in North Korea and scammers globally. Major exchanges like Binance and OKX have received substantial sums from these illicit sources, despite efforts to improve compliance. The analysis highlights that criminal groups have consistently moved funds onto these platforms, which serve as marketplaces for converting fiat currency to digital coins. The report details how Binance received over $400 million from Huione Group, a Cambodian entity flagged for criminal activity, and $900 million from a platform used by North Korean hackers. OKX also received significant deposits from Huione and funds linked to a Canadian scam victim. Crypto-to-cash desks, operating with minimal identification requirements, are identified as a new frontier for money laundering, with major exchanges receiving hundreds of millions from these operations. The findings suggest that while exchanges may have compliance staff, the sheer volume of illicit activity and the potential revenue from trading fees create incentives to allow such transactions to continue. The report also touches upon the political landscape, noting President Trump's support for crypto and actions that have potentially weakened law enforcement's ability to prosecute crypto crime, including the dismantling of a DOJ crypto enforcement team and a pardon for Binance's founder.
