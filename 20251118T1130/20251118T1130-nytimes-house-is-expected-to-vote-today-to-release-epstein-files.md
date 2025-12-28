@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/18/us/politics/house-vote-epstein-files.html
 title: House Is Expected to Vote Today to Release Epstein Files
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

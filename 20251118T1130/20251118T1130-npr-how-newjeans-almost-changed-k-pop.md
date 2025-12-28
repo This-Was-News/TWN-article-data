@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/18/nx-s1-5596403/newjeans-hybe-ador-min-hee-jin-label-battle
 title: How NewJeans (almost) changed K-pop
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

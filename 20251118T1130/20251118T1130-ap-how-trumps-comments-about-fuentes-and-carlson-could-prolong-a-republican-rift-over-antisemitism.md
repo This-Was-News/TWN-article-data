@@ -3,7 +3,7 @@ url: https://apnews.com/article/trump-nick-fuentes-tucker-carlson-antisemitism-f
 title: "How Trump\u2019s comments about Fuentes and Carlson could prolong a Republican\
   \ rift over antisemitism"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/18/nx-s1-5611438/epstein-files-bill-house-vote
 title: After months of infighting, House GOP could vote today to release the Epstein
   files
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

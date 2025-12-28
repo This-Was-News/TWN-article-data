@@ -3,7 +3,7 @@ url: https://apnews.com/photo-essay/war-russia-ukraine-energy-strikes-bombs-d24f
 title: "PHOTO ESSAY: Energy workers risk their lives to keep Ukraine\u2019s lights\
   \ on as Russia attacks"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
