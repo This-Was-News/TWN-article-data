@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/12/nx-s1-5606359/ken-burns-american-revolution-
 title: Ken Burns' 'American Revolution' will make you think differently about U.S.
   history
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

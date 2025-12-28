@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/05/22/nx-s1-5407493/no-more-pennies-one-cent-treasury-stop-minting
 title: The U.S. just produced its last penny after a more than 200-year run
 publisher: npr
-usage: candidate
+usage: lead
 initial_rank: 3
 ---
 ## Article summary
