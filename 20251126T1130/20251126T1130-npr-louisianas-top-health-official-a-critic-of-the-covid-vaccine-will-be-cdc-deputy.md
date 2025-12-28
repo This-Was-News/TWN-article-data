@@ -1,7 +1,7 @@
 ---
 url: https://www.npr.org/sections/shots-health-news/2025/11/25/nx-s1-5620991/louisiana-surgeon-general-ralph-abraham-cdc-deputy
 title: 'Louisiana''s top health official, a critic of the COVID vaccine, will be CDC
-  deputy '
+  deputy'
 publisher: npr
 usage: candidate
 initial_rank: 2

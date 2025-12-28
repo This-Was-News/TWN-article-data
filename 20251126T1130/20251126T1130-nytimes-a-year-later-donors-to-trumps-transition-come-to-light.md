@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/26/us/politics/trump-transition-donors.html
 title: "A Year Later, Donors to Trump\u2019s Transition Come to Light"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

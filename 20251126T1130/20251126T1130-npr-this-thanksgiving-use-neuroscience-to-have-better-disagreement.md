@@ -1,7 +1,7 @@
 ---
 url: https://www.npr.org/2025/11/26/nx-s1-5620945/family-thanksgiving-holidays-politics-disagreements
 title: This Thanksgiving, use neuroscience to have better disagreement
-publisher: npr
+publisher: rejected
 usage: candidate
 initial_rank: 5
 ---

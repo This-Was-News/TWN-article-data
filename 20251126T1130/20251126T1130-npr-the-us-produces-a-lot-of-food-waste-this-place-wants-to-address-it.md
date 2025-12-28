@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/26/g-s1-99287/the-u-s-produces-a-lot-of-food-waste-this-place-wants-to-address-it
 title: The U.S. produces a lot of food waste. This place wants to address it
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
