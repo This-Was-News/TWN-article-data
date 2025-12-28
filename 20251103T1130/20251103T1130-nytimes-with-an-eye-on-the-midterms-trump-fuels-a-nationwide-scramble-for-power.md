@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/03/us/politics/midterm-elections-redistricting-trump.html
 title: With an Eye on the Midterms, Trump Fuels a Nationwide Scramble for Power
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
