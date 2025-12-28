@@ -2,7 +2,7 @@
 url: https://www.npr.org/sections/shots-health-news/2025/11/21/nx-s1-5615168/glp-1-weight-loss-drugs-brain-nausea-wegovy-ozempic
 title: Brain scientists are seeking weight-loss drugs without the nausea
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

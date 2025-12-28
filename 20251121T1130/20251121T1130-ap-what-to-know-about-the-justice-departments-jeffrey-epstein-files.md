@@ -2,7 +2,7 @@
 url: https://apnews.com/article/jeffrey-epstein-files-release-justice-department-32cbc21a6ae8189dccd00455dc83d2be
 title: "What to know about the Justice Department\u2019s Jeffrey Epstein files"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

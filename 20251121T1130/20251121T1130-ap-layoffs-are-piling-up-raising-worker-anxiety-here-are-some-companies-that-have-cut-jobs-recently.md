@@ -3,7 +3,7 @@ url: https://apnews.com/article/layoffs-economy-inflation-verizon-1a9aac0c6482d5
 title: Layoffs are piling up, raising worker anxiety. Here are some companies that
   have cut jobs recently
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

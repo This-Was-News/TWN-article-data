@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/21/nx-s1-5599934/2026-trump-midterm-election-ba
 title: How could Trump interfere in the midterms? Here's what voting officials are
   watching
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

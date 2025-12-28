@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html
 title: A.I. Growth Has Been Eye-Popping, but Some Worry About a House of Cards
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary
