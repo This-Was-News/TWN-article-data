@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/27/world/americas/venezuela-blockade-1903-us.html
+title: 'A Dancing Dictator and Bankers in Chains: The Other Venezuela Blockade'
+publisher: nytimes
+usage: rejected
+initial_rank: 2
+---
+## Article summary
+The current Venezuelan crisis, marked by a blockade aimed at crippling its economy and a flamboyant leader, shares striking parallels with a similar crisis in 1902-03. That earlier blockade, involving European powers like Germany, Britain, and Italy, was a response to Venezuela's unpaid debts under the rule of dictator Cipriano Castro. The United States, under President Theodore Roosevelt, intervened by asserting naval dominance, signaling its growing influence in Latin America and forcing European powers to seek arbitration. This event led to Roosevelt's Corollary to the Monroe Doctrine, justifying U.S. intervention in the hemisphere. Today, President Trump's actions against Venezuela, including sanctioning oil tankers, are seen as a modern parallel, targeting China's economic influence in the region. While both situations involve a U.S. drive for regional supremacy and Venezuelan leaders employing anti-imperialist rhetoric, key differences exist. The 20th-century Venezuela was less reliant on oil and more closed to global trade, whereas modern Venezuela's economy is heavily dependent on oil exports for survival and imports. Furthermore, the U.S. has evolved from a rising power to a nuclear-armed superpower. Historically, Castro's flamboyant and defiant rule, including his unusual methods of debt resolution, mirrors some aspects of Nicolás Maduro's current defiant stance. The 1903 crisis ultimately saw Castro ousted by his vice president, Juan Vicente Gómez, who then ruled with an iron fist, fostering relations with U.S. oil companies and stabilizing the nation's finances.
