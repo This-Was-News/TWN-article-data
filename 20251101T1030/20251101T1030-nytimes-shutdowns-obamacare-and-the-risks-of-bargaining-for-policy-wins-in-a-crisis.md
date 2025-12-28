@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/01/us/politics/shutdowns-obamacare-republicans-democrats.html
 title: Shutdowns, Obamacare and the Risks of Bargaining for Policy Wins in a Crisis
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

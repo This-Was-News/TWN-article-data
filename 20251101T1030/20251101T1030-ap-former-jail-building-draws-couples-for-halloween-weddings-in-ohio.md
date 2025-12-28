@@ -2,7 +2,7 @@
 url: https://apnews.com/article/jail-weddings-ohio-halloween-f3240015dc139df03fb56a5739ca43f5
 title: Former jail building draws couples for Halloween weddings in Ohio
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

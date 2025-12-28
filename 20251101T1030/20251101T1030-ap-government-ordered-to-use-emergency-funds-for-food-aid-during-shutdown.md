@@ -2,7 +2,7 @@
 url: https://apnews.com/article/snap-shutdown-lawsuits-deadline-4af8b0dec6cd31cddd023cc99c131b73
 title: Government ordered to use emergency funds for food aid during shutdown
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

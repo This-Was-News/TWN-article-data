@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/10/31/us/fact-check-trump-snap-food-stamps.html
 title: "Fact-Checking Trump\u2019s Claim About SNAP and Partisanship"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

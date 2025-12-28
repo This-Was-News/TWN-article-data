@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/10/31/g-s1-96140/dodgers-force-world-series-to-decisive-game-7
 title: Dodgers force World Series to decisive Game 7 by holding off Blue Jays 3-1
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
