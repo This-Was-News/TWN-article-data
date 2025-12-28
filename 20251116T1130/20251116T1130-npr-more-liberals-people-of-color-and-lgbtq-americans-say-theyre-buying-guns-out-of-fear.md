@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/15/nx-s1-5607064/guns-liberals-trump-administra
 title: More liberals, people of color and LGBTQ Americans say they're buying guns
   out of fear
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

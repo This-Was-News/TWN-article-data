@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/16/style/epstein-emails-reveal-a-lost-new-york.html
 title: Epstein Emails Reveal a Lost New York
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
