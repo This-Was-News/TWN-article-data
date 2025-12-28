@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/12/climate/iea-fossil-fuel-forecast.html
 title: "There\u2019s a New Forecast for Peak Oil Demand. It\u2019s Increasingly Cloudy."
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

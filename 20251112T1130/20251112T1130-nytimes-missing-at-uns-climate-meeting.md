@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/12/business/un-climate-corporate-executives.html
 title: "Missing at U.N.\u2019s Climate Meeting: American Executives"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

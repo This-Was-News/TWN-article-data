@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/12/nx-s1-5604895/trump-venezuela-drug-boat-strikes
 title: Here's how many strikes on alleged drug vessels the U.S. has announced
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
