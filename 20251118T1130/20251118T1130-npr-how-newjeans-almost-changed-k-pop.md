@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/18/nx-s1-5596403/newjeans-hybe-ador-min-hee-jin-label-battle
+title: How NewJeans (almost) changed K-pop
+publisher: npr
+usage: rejected
+initial_rank: 5
+---
+## Article summary
+NewJeans, a K-pop group under ADOR, a HYBE sub-label, emerged with a distinct aesthetic and timeless sound, aiming to revolutionize the industry. However, a power struggle between ADOR CEO Min Hee-jin and HYBE erupted in April 2024, leading to the group's prolonged hiatus. Min, who championed a progressive approach to artist development, accused HYBE of stifling NewJeans' growth. HYBE alleged Min sought to seize control of ADOR. The members publicly supported Min, calling the situation inhumane. Hanni of NewJeans even testified before the South Korean National Assembly about workplace harassment and discrimination. In November 2024, NewJeans announced the termination of their contract with ADOR, seeking independence. The Korea Management Federation and Korea Entertainment Producers' Association sided with the company. In October 2025, a Seoul court ruled NewJeans must honor its contract with ADOR until 2029. Despite initial resistance, the group eventually returned to ADOR, though the circumstances of their return were staggered and complicated by differing family opinions. Min Hee-jin has since started her own indie agency, wishing for NewJeans to remain united. The conflict highlighted the tension between K-pop's creative formula and fair artist relations, with NewJeans' unique approach to music and concept challenging conventional industry practices. Despite attempts by other groups to emulate their sound, NewJeans' distinct 'vibe' remains difficult to replicate. The saga raises questions about whether K-pop can move past its past controversies and embrace future innovation, with NewJeans' story serving as a cautionary tale about the limits of challenging the established system.
