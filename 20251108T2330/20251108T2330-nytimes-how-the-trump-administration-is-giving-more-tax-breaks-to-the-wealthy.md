@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/08/business/trump-administration-tax-breaks-wealthy.html
 title: How the Trump Administration Is Giving More Tax Breaks to the Wealthy
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

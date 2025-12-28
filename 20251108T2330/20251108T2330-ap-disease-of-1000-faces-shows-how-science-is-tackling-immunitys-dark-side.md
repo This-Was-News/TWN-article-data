@@ -3,7 +3,7 @@ url: https://apnews.com/article/autoimmune-disease-lupus-diagnosis-symptoms-b1f2
 title: "Disease of 1,000 faces shows how science is tackling immunity\u2019s dark\
   \ side"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

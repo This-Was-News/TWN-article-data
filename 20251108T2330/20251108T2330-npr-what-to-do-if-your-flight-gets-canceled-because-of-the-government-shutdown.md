@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/07/nx-s1-5601666/flights-faa-reductions-cancellations-government-shutdown-travel-tips
 title: What to do if your flight gets canceled because of the government shutdown
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

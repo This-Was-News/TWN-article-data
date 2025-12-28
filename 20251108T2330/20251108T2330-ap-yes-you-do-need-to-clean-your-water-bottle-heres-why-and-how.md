@@ -2,7 +2,7 @@
 url: https://apnews.com/article/clean-water-bottle-7fd792d3b2bef3114b0e36b7548702a8
 title: "Yes, you do need to clean your water bottle. Here\u2019s why and how"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
