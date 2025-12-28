@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/05/nx-s1-5598460/should-we-all-start-locking-up-our-phones
 title: Should we all start locking up our phones?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

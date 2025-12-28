@@ -3,7 +3,7 @@ url: https://apnews.com/live/donald-trump-news-updates-11-6-2025
 title: 'Live updates: Federal judge orders Trump administration to fully fund SNAP
   benefits in November'
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

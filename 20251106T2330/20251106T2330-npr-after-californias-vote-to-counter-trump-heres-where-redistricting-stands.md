@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/06/nx-s1-5599558/states-redistricting-house-2026-midterm-elections
 title: After California's vote to counter Trump, here's where redistricting stands
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

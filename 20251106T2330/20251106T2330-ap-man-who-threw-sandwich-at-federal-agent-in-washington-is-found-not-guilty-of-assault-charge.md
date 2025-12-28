@@ -3,7 +3,7 @@ url: https://apnews.com/article/sandwich-throwing-trial-justice-department-a2776
 title: Man who threw sandwich at federal agent in Washington is found not guilty of
   assault charge
 publisher: ap
-usage: candidate
+usage: lead
 initial_rank: 4
 ---
 ## Article summary

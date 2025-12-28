@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/06/us/politics/airports-list-flight-cuts-government-shutdown.html
 title: Here Are Airports That Could Be Affected by the Air Traffic Slowdown
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
