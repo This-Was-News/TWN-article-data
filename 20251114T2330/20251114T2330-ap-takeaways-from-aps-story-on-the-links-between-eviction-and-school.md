@@ -2,7 +2,7 @@
 url: https://apnews.com/article/apartment-rental-eviction-school-takeaways-0f57bf3e4d502425b908a2f3060a7c14
 title: "Takeaways from AP\u2019s story on the links between eviction and school"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

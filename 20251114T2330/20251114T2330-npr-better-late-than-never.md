@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/14/nx-s1-5609321/jobs-report-government-shutdow
 title: 'Better late than never: The delayed September jobs report will be out next
   week'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

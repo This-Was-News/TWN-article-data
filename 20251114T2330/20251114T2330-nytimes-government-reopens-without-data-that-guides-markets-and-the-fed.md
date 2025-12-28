@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/14/business/economy-data-shutdown.html
 title: Government Reopens Without Data That Guides Markets and the Fed
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

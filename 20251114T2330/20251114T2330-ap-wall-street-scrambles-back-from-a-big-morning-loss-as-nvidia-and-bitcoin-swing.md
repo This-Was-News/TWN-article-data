@@ -2,7 +2,7 @@
 url: https://apnews.com/article/us-stocks-ai-china-japan-6edce247294508cd84c941b8ad55d8da
 title: Wall Street scrambles back from a big morning loss as Nvidia and bitcoin swing
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary
