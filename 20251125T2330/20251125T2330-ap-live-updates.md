@@ -3,7 +3,7 @@ url: https://apnews.com/live/trump-news-updates-11-25-2025
 title: 'Live updates: FBI seeks interviews with Democratic lawmakers who urged troops
   to defy illegal orders'
 publisher: ap
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

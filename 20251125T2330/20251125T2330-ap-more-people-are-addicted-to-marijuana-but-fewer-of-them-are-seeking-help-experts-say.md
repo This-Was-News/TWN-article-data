@@ -3,7 +3,7 @@ url: https://apnews.com/article/pot-cannabis-use-disorder-marijuana-treatment-a4
 title: More people are addicted to marijuana, but fewer of them are seeking help,
   experts say
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

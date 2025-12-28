@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/25/nx-s1-5619816/obesity-pills-wegovy-semaglutide-orforglipron
 title: 5 things to know about the new obesity pills that are on the way
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

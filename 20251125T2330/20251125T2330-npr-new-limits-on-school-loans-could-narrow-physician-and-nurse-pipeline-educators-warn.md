@@ -3,7 +3,7 @@ url: https://www.npr.org/sections/shots-health-news/2025/11/25/nx-s1-5619731/med
 title: New limits on school loans could narrow physician and nurse pipeline, educators
   warn
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary
