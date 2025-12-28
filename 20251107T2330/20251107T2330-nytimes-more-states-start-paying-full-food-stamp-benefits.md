@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2025/11/07/us/trump-news-shutdown
+title: More States Start Paying Full Food Stamp Benefits
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The Trump administration is facing legal challenges regarding SNAP benefits, with a federal appeals court denying a bid to halt funding during the government shutdown. President Trump announced the U.S. would not be represented at the G20 summit in South Africa, citing unsubstantiated claims of persecution against white South Africans. He also ordered an investigation into meatpacking companies for alleged price fixing of beef. In clemency news, baseball star Darryl Strawberry received a pardon for a tax evasion conviction, and former NYPD officer Michael McMahon was pardoned for acting as an unregistered agent of the Chinese government. Senate Democrats have scaled back demands to end the government shutdown, offering a one-year extension of healthcare subsidies, but Republicans rejected the proposal. The U.S. is pressing the UN Security Council to adopt a resolution enshrining President Trump's Gaza peace plan, though some member states have concerns about its vagueness. Cornell University reached an agreement with the Trump administration to restore federal funding, ending investigations into alleged antisemitism and admissions discrimination, in exchange for a $60 million fine and investment. The Department of Homeland Security has stopped using automated software for text message records, opting for manual screenshots, which experts warn could undermine transparency. President Trump welcomed Hungarian Prime Minister Viktor Orbán to the White House, expressing openness to exempting Hungary from sanctions on Russian oil purchases. The government shutdown continues, with Democrats gaining leverage after recent electoral victories, while President Trump pushes Senate Republicans to end the filibuster.
