@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware
+title: Immigration agents have new technology to identify and track people
+publisher: npr
+usage: rejected
+initial_rank: 4
+---
+## Article summary
+Immigration and Customs Enforcement (ICE) is rapidly expanding its surveillance capabilities with new technologies aimed at identifying and monitoring individuals. These tools include mobile apps that can identify people by their faces and determine their immigration status in the field, as well as software capable of accessing vast amounts of location-based data. ICE has also revived a contract for spyware that can hack into cell phones and is increasing its social media surveillance with AI-driven software. This technological push coincides with the Trump administration's goal to increase deportations. Concerns have been raised by Democratic members of Congress and privacy advocates regarding the legal basis and potential for misuse of these technologies, with some calling for a halt to their use. Critics argue that these tools erode privacy and could lead to mass surveillance, potentially chilling free speech and undermining democratic principles. A recent video appears to show Border Patrol agents using a cell phone to identify individuals during an encounter. ICE has a facial recognition app, Mobile Fortify, which searches databases for matches and stores photos for 15 years, even if no match is found. Customs and Border Protection also offers a similar app to local law enforcement. Experts warn that these advancements eliminate public anonymity and could be used to target specific groups. The Department of Homeland Security is also proposing a rule to expand its collection of biometric data from noncitizens and their relatives. Furthermore, ICE has reactivated a contract with a company that produces spyware, raising further privacy concerns.
