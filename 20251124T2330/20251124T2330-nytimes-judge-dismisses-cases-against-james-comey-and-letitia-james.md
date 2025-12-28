@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/24/nyregion/james-comey-case-dismissed.html
 title: Judge Dismisses Cases Against James Comey and Letitia James
 publisher: nytimes
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

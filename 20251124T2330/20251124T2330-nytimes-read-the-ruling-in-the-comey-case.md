@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/interactive/2025/11/24/us/james-comey-ruling.html
 title: Read the Ruling in the Comey Case ...
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
