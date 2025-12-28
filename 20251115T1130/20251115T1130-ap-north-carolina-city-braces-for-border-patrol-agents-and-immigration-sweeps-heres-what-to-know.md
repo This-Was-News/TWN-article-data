@@ -3,7 +3,7 @@ url: https://apnews.com/article/border-patrol-immigration-charlotte-north-caroli
 title: "North Carolina city braces for Border Patrol agents and immigration sweeps.\
   \ Here\u2019s what to know"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/15/nx-s1-5608227/epstein-emails-qanon-influencers
 title: Right-wing media shrugs off latest Epstein document release
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -3,7 +3,7 @@ url: https://apnews.com/article/naturalized-citizens-immigration-fears-116b8bb3d
 title: "Naturalized US citizens thought they were safe. Trump\u2019s immigration policies\
   \ are shaking that belief"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

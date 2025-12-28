@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/15/nx-s1-5609367/trump-government-shutdown-what
 title: The longest government shutdown in U.S. history is over. Here's what you need
   to know
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

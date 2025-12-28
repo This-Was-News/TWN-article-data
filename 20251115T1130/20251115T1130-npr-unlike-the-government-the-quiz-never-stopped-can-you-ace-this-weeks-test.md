@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/14/g-s1-97660/unlike-the-government-the-quiz-never-stopped-can-you-ace-this-weeks-test
 title: Unlike the government, the quiz never stopped. Can you ace this week's test?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
