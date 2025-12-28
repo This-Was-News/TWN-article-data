@@ -1,6 +1,6 @@
 ---
 url: https://apnews.com/article/kennedy-granddaughter-tatiana-schlossberg-cancer-cb813c7ef36faca26041c11de78adf2e
-title: "JFK\u2019s granddaughter reveals terminal cancer diagnosis andcriticizes her\
+title: "JFK\u2019s granddaughter reveals terminal cancer diagnosis and criticizes her\
   \ cousin RFK Jr."
 publisher: ap
 usage: candidate

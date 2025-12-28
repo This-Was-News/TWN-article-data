@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/23/us/politics/yale-harvard-football-trump.html
 title: 'Pabst, Pamphlets and a Petition: A Harvard-Yale Tailgate in the Trump Era'
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
