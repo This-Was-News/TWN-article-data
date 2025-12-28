@@ -1,7 +1,7 @@
 ---
 url: https://www.nytimes.com/2025/11/05/us/politics/trump-elections-economy-inflation.html
 title: "Elections Show Trump\u2019s Edge on the Economy Is Slipping"
-publisher: nytimes
+publisher: rejected
 usage: top
 initial_rank: 1
 ---

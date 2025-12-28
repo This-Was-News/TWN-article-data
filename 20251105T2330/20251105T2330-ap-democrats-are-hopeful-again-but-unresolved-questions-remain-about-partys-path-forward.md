@@ -3,7 +3,7 @@ url: https://apnews.com/article/democrats-party-message-new-york-virginia-jersey
 title: "Democrats are hopeful again. But unresolved questions remain about party\u2019\
   s path forward"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

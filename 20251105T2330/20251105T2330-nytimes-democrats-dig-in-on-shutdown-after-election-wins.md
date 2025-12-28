@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/11/05/us/politics/democrats-trump-shutdown-filibuster.html
 title: Democrats Dig In on Shutdown After Election Wins
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/11/05/nx-s1-5599928/democratic-socialism-explained-zohran-mamdani-bernie-sanders
 title: NYC's next mayor is a democratic socialist. What does that mean?
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

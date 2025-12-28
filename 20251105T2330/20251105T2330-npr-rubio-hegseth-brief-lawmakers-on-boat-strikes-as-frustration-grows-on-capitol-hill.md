@@ -1,7 +1,6 @@
 ---
 url: https://www.npr.org/2025/11/05/g-s1-96661/rubio-hegseth-venezuela-congress
-title: 'Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol
-  Hill '
+title: Rubio, Hegseth brief lawmakers on boat strikes as frustration grows on Capitol Hill
 publisher: npr
 usage: candidate
 initial_rank: 2

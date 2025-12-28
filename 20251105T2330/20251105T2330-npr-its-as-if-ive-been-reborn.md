@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/11/05/nx-s1-5597978/misty-copeland-ballet
 title: '''It''s as if I''ve been reborn'': Misty Copeland begins a next chapter in
   ''a new body'''
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary
