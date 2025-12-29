@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/12/28/nx-s1-5659746/bomb-cyclone-blizzard-dangerou
 title: '''Bomb cyclone'' forecasted to bring heavy snow, blizzard conditions and dangerous
   travel'
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

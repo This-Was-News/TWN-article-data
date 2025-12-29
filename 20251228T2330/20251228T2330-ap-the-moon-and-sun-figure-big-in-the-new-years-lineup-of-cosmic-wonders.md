@@ -2,7 +2,7 @@
 url: https://apnews.com/article/nasa-space-eclipse-moon-landing-7f4bc30f0653fda3d66fd8d214b052ab
 title: "The moon and sun figure big in the new year\u2019s lineup of cosmic wonders"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

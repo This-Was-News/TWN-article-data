@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram
 title: 'Memory loss: As AI gobbles up chips, prices for devices may rise'
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

@@ -2,7 +2,7 @@
 url: https://www.thecentersquare.com/arizona/article_648273df-508f-4028-b481-2424fe9c93c1.html
 title: Illegal entries into Arizona plummet, 60% fewer gotaways than in Biden years
 publisher: centersquare
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

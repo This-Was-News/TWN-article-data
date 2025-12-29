@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/28/world/middleeast/future-of-mideast.html
 title: Zero Hour for the Middle East
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

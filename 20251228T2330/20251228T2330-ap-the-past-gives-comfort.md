@@ -3,7 +3,7 @@ url: https://apnews.com/article/analog-activity-vinyl-cards-digital-a22ec5ff50c9
 title: "\u2018The past gives comfort': Finding refuge on analog islands amid deepening\
   \ digital seas"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

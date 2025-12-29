@@ -2,7 +2,7 @@
 url: https://www.washingtonexaminer.com/news/world/4363286/trump-peace-deal-ukraine-very-close/
 title: "Trump lauds peace talks with Zelensky at Mar-a-Lago, deal is \u2018very close\u2019"
 publisher: washingtonexaminer
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

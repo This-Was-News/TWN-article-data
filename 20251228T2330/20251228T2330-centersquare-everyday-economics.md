@@ -2,7 +2,7 @@
 url: https://www.thecentersquare.com/national/article_5bc3e7e7-496c-4f6e-9680-d9222af97bdc.html
 title: 'Everyday Economics: Housing takes center stage as we ring in the new year'
 publisher: centersquare
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

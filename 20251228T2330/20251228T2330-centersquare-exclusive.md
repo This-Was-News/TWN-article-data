@@ -2,7 +2,7 @@
 url: https://www.thecentersquare.com/texas/article_7ec83c79-2904-449c-b71f-0bc90fc17201.html
 title: 'Exclusive: More Floridians, Californians moving to Texas than reverse'
 publisher: centersquare
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

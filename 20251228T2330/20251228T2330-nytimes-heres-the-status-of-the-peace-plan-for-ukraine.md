@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html
 title: "Here\u2019s the Status of the Peace Plan for Ukraine"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
