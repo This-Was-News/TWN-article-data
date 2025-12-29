@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/28/business/us-immigration-trump-1920s.html
 title: What America Might Look Like With Zero Immigration
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

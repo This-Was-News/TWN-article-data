@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/28/1130645838/brigitte-bardot-dead
 title: Brigitte Bardot, sex goddess of cinema, has died
 publisher: npr
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

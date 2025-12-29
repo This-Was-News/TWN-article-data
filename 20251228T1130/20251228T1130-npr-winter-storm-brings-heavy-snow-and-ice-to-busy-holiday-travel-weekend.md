@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/12/27/g-s1-103821/winter-storm-post-christmas-travel
 title: Winter storm brings heavy snow and ice to busy holiday travel weekend
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

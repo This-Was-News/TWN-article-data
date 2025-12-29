@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html
 title: "How Oil, Drugs and Immigration Fueled Trump\u2019s Venezuela Campaign"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

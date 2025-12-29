@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/12/28/technology/tech-trump.html
 title: From A.I. to Chips, Big Tech Is Getting What It Wants From Trump
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

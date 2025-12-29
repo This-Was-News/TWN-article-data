@@ -3,7 +3,7 @@ url: https://www.thecentersquare.com/texas/article_d931d2dc-8464-4971-99ed-045e7
 title: '2025 illegal entries in Texas: Nearly half the gotaways reported in previous
   years'
 publisher: centersquare
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

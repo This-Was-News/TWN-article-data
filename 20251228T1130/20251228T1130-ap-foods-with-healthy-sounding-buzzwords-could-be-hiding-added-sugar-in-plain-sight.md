@@ -3,7 +3,7 @@ url: https://apnews.com/article/hidden-added-sugar-health-brands-f1bf6cd53aa3be5
 title: Foods with healthy-sounding buzzwords could be hiding added sugar in plain
   sight
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary
