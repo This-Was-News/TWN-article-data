@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/19/nx-s1-5638909/trump-ai-energy-electricity-demand-climate-change
+title: Clean energy is surging despite political attacks. But a slowdown may be looming
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The United States is facing a potential slowdown in renewable energy development, despite a surge in clean energy adoption. This slowdown is attributed to political actions by the Trump administration and Congressional Republicans, who have attempted to hinder wind and solar projects through federal agency actions and the removal of tax credits. This comes at a time when U.S. electricity demand is rising faster than in decades, driven significantly by the growth of data centers. Experts warn that limiting new power supplies could lead to higher electricity costs and slower business growth. While the administration argues that renewables increase power prices and aims to boost resources like natural gas, coal, and nuclear power to lower costs and "win the AI race," research suggests that wind and solar projects do not generally raise power prices. Natural gas is poised for significant growth, becoming the primary economic beneficiary, which raises concerns given the need to reduce fossil fuel use. Despite these challenges, clean energy is still experiencing growth, with solar and wind capacity projected to increase. However, the attacks on renewables, coupled with the demand surge, may lead to increased reliance on natural gas, even as the industry acknowledges the need for all forms of generation. The evolving power system's trajectory will have significant implications for climate change, with a potential increase in natural gas generation fueling more warming, though the scramble for electricity might also open doors for cleaner technologies in the long term.
