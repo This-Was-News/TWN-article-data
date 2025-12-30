@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/30/g-s1-103922/judge-complaint-clerk-legal-accountability
+title: Federal appeals court judge is accused of bullying her clerks
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+A nonprofit organization, the Legal Accountability Project, has filed a misconduct complaint against U.S. Court of Appeals Judge Sarah Merriam, alleging a pattern of bullying and mistreatment of her law clerks. The complaint, based on accounts from former clerks who fear retaliation, describes Merriam as a "bully" who engages in yelling and sends "all-caps unhinged emails." This marks the second publicly known complaint against Merriam in four years, though such complaints are typically handled internally and kept private to protect judicial independence. NPR's investigation into the federal court system revealed a pervasive culture of fear among clerks regarding reporting judges, and that the internal complaint system often fails to produce significant changes. Previously, an internal investigation into an unnamed Second Circuit judge found evidence of an "overly harsh" management style, leading to the judge agreeing to counseling and watching workplace conduct videos. While the judge was not named, reports suggested it was Merriam, and the described issues align with the recent complaint. The Legal Accountability Project stated that clerks have reported ongoing alleged abuses by Merriam, with some quitting or withdrawing job offers due to the work environment. The Second Circuit appeals court and Judge Merriam have not commented on the complaint. Merriam, a former public defender and magistrate judge, was appointed to the federal appeals court in 2022. This case highlights the ongoing debate about the power imbalance between federal judges and their clerks, who lack typical worker protections. The filing of this complaint may lead to further interviews and an inquiry into the allegations.
