@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/policy/foreign-policy/4364856/us-sanctions-iranian-venezuelan-companies-combat-drones-weapons-trade/
+title: "US sanctions Iranian and Venezuelan companies over \u2018combat drones\u2019"
+publisher: washingtonexaminer
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Trump administration has imposed sanctions on several Iranian and Venezuelan companies involved in the trade of combat drones. This action is part of the U.S. effort to curb Iran's military capabilities and concerns about its nuclear program. Treasury Undersecretary John Hurley stated that the U.S. is holding Iran and Venezuela accountable for proliferating deadly weapons and will continue to block access to the U.S. financial system for those supporting Iran's military-industrial complex. Ten entities and individuals from Iran and Venezuela are being sanctioned. These include Venezuela's Empresa Aeronáutica Nacional SA (EANSA), which operates drones like the Iranian Mohajer-2, and collaborates with Iran's Qods Aviation Industries (QAI) to assemble drones. QAI manufactures combat drones such as the Mohajer-6. Among the sanctioned individuals are EANSA chairman Jose Jesus Urdaneta Gonzalez and Iran-based Mostafa Rostami Sani, who allegedly procured chemicals for ballistic missiles. Sanctions also target individuals connected to Rayan Fan Kav Andish Co (RFKA), a holding company linked to the Iranian military that produces components for the Islamic Revolutionary Guard Corps's aerospace programs. The sanctions freeze any U.S.-based financial assets of the targeted parties and prohibit transactions with them. This move comes amid President Trump's concerns about Iran rebuilding its nuclear program and follows recent U.S. military strikes on Iranian nuclear facilities. The U.S. has also increased pressure on Venezuela's regime, citing drug trafficking into the U.S. as justification for military actions.
