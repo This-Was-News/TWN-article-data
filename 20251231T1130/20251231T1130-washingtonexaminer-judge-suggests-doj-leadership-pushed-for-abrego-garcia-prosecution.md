@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/news/justice/4375260/judge-doj-leadership-abrego-garcia-prosecution/
+title: Judge suggests DOJ leadership pushed for Abrego Garcia prosecution
+publisher: washingtonexaminer
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A federal judge has ordered the Department of Justice (DOJ) to release internal records concerning the prosecution of Kilmar Abrego Garcia, a Salvadoran migrant. This order from U.S. District Judge Waverly Crenshaw suggests that senior DOJ leadership may have influenced the decision to charge Abrego Garcia, despite public denials of involvement. The investigation was initiated earlier this year while Abrego Garcia was detained in El Salvador. Crenshaw's ruling, unsealed recently, requires prosecutors to provide documents related to the opening of the criminal investigation and the charges stemming from a 2022 traffic stop. A high-stakes evidentiary hearing is scheduled for January 28th in Nashville to address claims of vindictive prosecution, leading to the cancellation of Abrego Garcia's trial date. Internal emails cited by the judge appear to contradict the DOJ's assertions that the charging decision was made locally without external pressure. These emails indicate that Deputy Attorney General Todd Blanche and his office were closely involved in the case's progression. Specifically, an email from Aakash Singh, a senior official in Blanche's office, stated that charging Abrego Garcia was a top priority for DOJ leadership. Abrego Garcia's defense team argues the case is retaliation for his successful civil suit challenging his deportation. The DOJ has contested these claims, citing legal privileges and denying any improper motives. This legal battle unfolds amidst parallel immigration proceedings, where a Maryland judge recently ordered Abrego Garcia's release from immigration custody, accusing DOJ lawyers of misleading the court.
