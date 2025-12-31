@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2025/12/31/climate/nasa-goddard-library-closing.html
+title: "NASA\u2019s Largest Library Is Closing Amid Staff and Lab Cuts"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+NASA's largest research library at the Goddard Space and Flight Center is set to close on Friday, a move that will result in the disposal of many unique and non-digitized materials. This closure is part of a larger reorganization under the Trump administration, which includes shutting down numerous buildings and laboratories at Goddard by 2026. NASA claims these changes are a consolidation aimed at saving money and addressing deferred maintenance, citing outdated or unsafe conditions. However, critics, including Goddard employees, their union, and Democratic lawmakers, allege the closures are haphazard and rushed, with no concrete plans for new facilities. The library's closure follows the shutdown of seven other NASA libraries nationwide since 2022, leaving only three operational. Scientists express concern that losing the library, which houses historical documents and specialized information not available online, will hinder future research and lead to repeating past mistakes. The library served as a crucial resource for engineers and external researchers, providing access to Soviet-era rocket science data and early space exploration experiment details. While NASA offers a digital 'Ask a Librarian' service and inter-library loans, scientists argue these alternatives cannot replace the serendipitous discovery and deep historical context found within the physical library. The closure of Building 21, which housed the library, also eliminates a vital collaborative space for Goddard's scientists and engineers. This event occurs amidst proposed significant budget cuts to NASA's science programs, threatening numerous ongoing missions and future projects.
