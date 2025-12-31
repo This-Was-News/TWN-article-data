@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud
+title: What to know about Nick Shirley, the YouTuber alleging day care fraud in Minnesota
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+Nick Shirley, a 23-year-old "independent YouTube journalist," gained viral attention for a video alleging $110 million in fraud by federally funded day care centers in Minnesota. The video, posted on X and YouTube, shows Shirley and an associate questioning Somali employees at various day care centers, accusing them of not serving children despite receiving public funds. This has led the Trump administration to freeze child care funding to Minnesota. Shirley's allegations have not been independently verified, with some day care managers stating he visited outside of operating hours and caregivers dropping off their children in the background of a CNN interview. Despite the lack of verification, prominent conservatives, including Elon Musk and members of the Trump administration, have amplified Shirley's claims. Shirley, who previously created prank videos and vlogged throughout high school, served a two-year mission for the Church of Jesus Christ of Latter-day Saints before returning to YouTube with a more political focus. His work has included interviews with undocumented immigrants and investigations into dangerous areas. He was also invited to a White House roundtable discussion on the "antifa" movement, where he described himself as an "independent YouTube journalist" and spoke about experiencing violence at anti-Trump protests. Media law experts have noted that while independence doesn't preclude good journalism, some "news influencers" like Shirley may prioritize narrative over fact-checking. Shirley has expressed concerns for his safety and is selling merchandise to fund his security, while also criticizing mainstream media for perceived inaction on the issue.
