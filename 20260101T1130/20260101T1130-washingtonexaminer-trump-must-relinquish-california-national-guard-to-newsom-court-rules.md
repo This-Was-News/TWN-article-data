@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/news/justice/4379536/trump-california-national-guard-newsom-appeals-court/
+title: Trump must relinquish California National Guard to Newsom, court rules
+publisher: washingtonexaminer
+usage: top
+initial_rank: 1
+---
+## Article summary
+An appeals court has ruled that the Trump administration must return control of the California National Guard to the state after the administration federalized and deployed troops. President Donald Trump announced earlier that he would withdraw the National Guard from Los Angeles, Portland, and Chicago. Gov. Gavin Newsom stated that Trump has admitted defeat and that the federalization of the National Guard in California is illegal. Newsom added that the President deployed these troops against their own communities without regard for the constitution and federal law, and welcomed the California National Guard servicemembers back to state service. Trump mobilized around 4,000 troops in June to control crime in the state, a deployment that Newsom vigorously opposed. While most troops had been withdrawn, around 300 had remained under federal control. Trump stated he withdrew the National Guard from major cities despite crime being greatly reduced by the troop presence, cautioning that an increase in crime would compel the federal government to step in with a much different and stronger form. Los Angeles Mayor Karen Bass said Trump had no legal justification to deploy troops there, asserting that the Constitution still applies to presidents. The Supreme Court ruled last week that the Trump administration improperly federalized the Illinois National Guard in response to unrest aimed at the ongoing immigration operation there. These rulings could influence National Guard deployments in New Orleans, Memphis, and Washington, D.C.
