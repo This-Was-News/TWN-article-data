@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/california/article_7a002a30-2972-47e8-ab98-9fbcc0e38dfa.html
+title: Fires, unrest, lawsuits, politics dominate Southwest in 2025
+publisher: centersquare
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The year 2025 was marked by significant events across the Southwest, with California facing devastating wildfires, political unrest, and legal battles. The Palisades and Eaton Fires destroyed thousands of structures and claimed lives, leading to controversy surrounding Los Angeles Mayor Karen Bass and the city's fire department. Legal claims were filed against the city and fire chief, while a suspect was charged with starting the Palisades Fire. Southern California Edison also faced lawsuits and initiated a reimbursement program for fire victims. Immigration raids in Southern California led to protests and accusations of mistreatment, while California continued to file numerous lawsuits against the Trump administration. The state also redrew congressional districts through Proposition 50, which was met with a lawsuit alleging racial gerrymandering. In Arizona, the state narrowly avoided a government shutdown after a budget agreement was reached. The Dragon Bravo Fire impacted the Grand Canyon, and defense issues, including Luke Air Force Base and support for Ukraine, were prominent. The assassination of conservative leader Charlie Kirk in Utah, with ties to Arizona, led to murder charges. Nevada's gambling industry and tourism saw a decline, and the state experienced a cyberattack. The blocking of Lt. Gov. Stavros Anthony's bills by the Democratic majority ended the Office of Small Business Advocacy. The 2026 gubernatorial race in Nevada is tied, with an ethics complaint filed against the leading Democratic challenger. A bill to incentivize a new movie studio in Las Vegas failed to pass the Senate.

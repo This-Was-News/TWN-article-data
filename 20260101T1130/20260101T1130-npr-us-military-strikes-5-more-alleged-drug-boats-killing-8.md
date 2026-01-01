@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/31/g-s1-104194/us-military-strikes-drug-boats-survivors
+title: U.S. military strikes 5 more alleged drug boats, killing 8
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The U.S. military announced it conducted strikes on five alleged drug-smuggling boats over two days, resulting in the deaths of eight individuals, while others reportedly survived by jumping overboard. U.S. Southern Command did not specify the location of these recent attacks, though past incidents have occurred in the Caribbean Sea and the eastern Pacific Ocean. Videos released by Southern Command showed three boats traveling in unusual formation and allegedly transferring narcotics before being struck. The military stated that three people died in the first strike, while others escaped the other two vessels before they were attacked, prompting a notification to the U.S. Coast Guard for search and rescue. This notification is significant given past controversy surrounding military strikes on boat survivors. The U.S. forces also attacked two more boats on Wednesday, killing five more individuals suspected of drug trafficking. These latest actions bring the total number of boat strikes to 35 and the number of fatalities to at least 115 since early September, according to the Trump administration. President Trump has defended these actions as a necessary measure to combat drug flow into the U.S., framing the situation as an "armed conflict" with drug cartels. The administration has also increased military presence in the region as part of its pressure campaign against Venezuelan President Nicolás Maduro, who faces narco-terrorism charges in the U.S. Additionally, the CIA conducted a drone strike on a suspected Venezuelan drug cartel location, marking the first known direct operation on Venezuelan soil since September.
