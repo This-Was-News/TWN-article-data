@@ -1,0 +1,10 @@
+---
+url: https://www.thecentersquare.com/national/article_b63042aa-7499-421c-8dfe-2ee0e130d5c7.html
+title: "U.S. House vote on employee bargaining met with \u2018political theater\u2019\
+  \ criticism"
+publisher: centersquare
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The U.S. House of Representatives has passed the Protect American Workers Act, a measure aimed at restoring collective bargaining rights for over one million federal workers. U.S. Rep. Eric Sorensen, a Democrat from Illinois, praised the vote, stating that it rescinds a previous executive order and upholds the fundamental right of public servants to organize for better wages and working conditions. He highlighted that the bill received bipartisan support, with Republicans joining Democrats in recognizing the importance of this issue. However, critics, such as Maxford Nelsen of the Freedom Foundation, argue that the bill is largely "political theater" and unlikely to pass the U.S. Senate. Nelsen contends that federal labor law already includes mandatory collective bargaining, which he deems inefficient and less protective of employee rights than proponents suggest. He further points out that wages are typically not part of federal collective bargaining, as Congress holds the power of the purse. Nelsen expressed skepticism about the bill's prospects in the Senate due to the filibuster and the likelihood of a presidential veto. He also suggested that some Republican support for the bill might be strategic, aimed at signaling pro-labor stances in their home districts without significant political risk, given the bill's low chance of becoming law. Sorensen, however, views the vote as consistent with his commitment to supporting organized labor and the middle class. Nelsen clarified that the core debate is not about union membership itself, but about granting unions mandatory collective bargaining power, which he believes gives them excessive influence over federal agency operations and leads to lengthy, legally binding contract negotiations.

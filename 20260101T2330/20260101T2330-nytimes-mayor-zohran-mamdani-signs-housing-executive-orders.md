@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2026/01/01/nyregion/zohran-mamdani-inauguration-nyc-mayor
+title: Mayor Zohran Mamdani Signs Housing Executive Orders
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Zohran Mamdani was inaugurated as the new Mayor of New York City, marking a historic moment as the city's youngest mayor in over a century, its first Muslim mayor, first South Asian mayor, and first mayor born in Africa. A democratic socialist, Mamdani's rise to power has been closely watched, with some New Yorkers expressing nervousness about his progressive stances. In his inaugural address, Mamdani vowed to govern expansively and audaciously, promising to use the power of City Hall to improve the lives of all New Yorkers, regardless of their political leanings. He emphasized inclusivity, stating, "If you are a New Yorker, I am your mayor." Mamdani also highlighted his deep connection to the city through its diverse food culture, seeing it as central to economic well-being and identity. Shortly after his inauguration, he signed three executive orders focused on housing, including revoking previous orders and reissuing those he supports, and establishing a structure for his administration with five deputy mayors. He also announced plans to take action against predatory landlords and create task forces to protect tenants. The inauguration ceremony featured prominent progressive figures like Representative Alexandria Ocasio-Cortez and Senator Bernie Sanders, underscoring the ascendance of the left in New York politics. Mamdani acknowledged the challenges ahead, including potential conflicts with state and federal leadership, but expressed confidence in his administration's ability to set an example for the world. His wife, Rama Duwaji, also made a notable public appearance, showcasing her artistic background and unique style.
