@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/national/article_aba62e75-f57e-4c19-8f15-5c074f251b12.html
+title: Islamic civil rights group says nothing about civil unrest in Iran
+publisher: centersquare
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The Council on American-Islamic Relations (CAIR), a prominent Muslim advocacy group, has remained silent on the recent civil unrest in Iran, which began as a protest against economic hardship and expanded into a nationwide outcry against the country's religious regime. While CAIR frequently issues statements regarding events in Gaza and defends New York City's new mayor, its website and public statements show no mention of the ongoing protests in Iran, where human rights abuses against women, dissidents, and LGBTQ+ individuals are prevalent. This silence has drawn criticism from figures like Georgia state Rep. Esther Panitch, who accuses the group of hypocrisy and selective advocacy, suggesting their focus is solely on Israel. CAIR spokesman Ibrahim Hooper confirmed the lack of public statements and expressed doubt about any forthcoming ones, stating the group does not comment on every issue. However, this contradicts past instances where CAIR has spoken out on Iran, such as condemning a past U.S. military action under alleged Israeli influence. Critics argue that CAIR's selective engagement undermines its claims of advocating for Muslims globally, particularly those living under oppressive regimes. The article also notes that CAIR has faced scrutiny and accusations of ties to Hamas and the Muslim Brotherhood, leading to legal challenges and legislative efforts to review its status. Actor Michael Rapaport has also publicly questioned the lack of outrage from those who typically protest for Palestinian rights, pointing to the severe oppression faced by the Iranian people.
