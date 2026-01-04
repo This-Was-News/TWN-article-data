@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2026/01/04/world/trump-us-venezuela-maduro
+title: Venezuela Projects Defiance as Maduro Aides Say They Are Still in Charge
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Venezuela is projecting defiance following a U.S. raid that captured President Nicolás Maduro, who is now facing federal drug trafficking and weapons charges in New York. While Secretary of State Marco Rubio suggested the U.S. would not directly govern Venezuela, emphasizing pressure on its oil industry, Venezuelan officials, including Defense Minister Vladimir Padrino López, have condemned the U.S. operation as a violation of sovereignty. The death toll from the raid has risen to 80, with no American service members killed. Exiled diplomat Edmundo González has declared himself president and called for political prisoners' release. The U.S. naval force in the Caribbean will remain until changes are seen in Venezuela. Congressional Democrats express frustration at not being briefed on the operation. Meanwhile, Venezuelans in exile in Colombia are experiencing a mix of hope and uncertainty about returning home. The U.S. military operation, which included strikes on military bases, has been captured on cellphones by residents. The OPEC Plus cartel has stated it will not alter oil production due to the U.S. action. The Metropolitan Detention Center in Brooklyn, where Maduro is held, has a history of scandals and mismanagement. European leaders have largely refrained from criticizing the U.S. operation, though some within the UK Labour Party have voiced concerns. Elon Musk's Starlink is offering free broadband service in Venezuela. Maduro, in past visits to New York, had sought to connect with Harlem's Black community, stressing solidarity and shared struggles against imperialism.
