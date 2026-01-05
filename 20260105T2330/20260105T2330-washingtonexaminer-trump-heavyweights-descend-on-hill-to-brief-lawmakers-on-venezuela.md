@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/news/house/4407344/trump-heavyweights-capitol-hill-burning-questions-venezuela/
+title: Trump heavyweights descend on Hill to brief lawmakers on Venezuela
+publisher: washingtonexaminer
+usage: top
+initial_rank: 1
+---
+## Article summary
+Senior officials from the Trump administration briefed lawmakers on Capitol Hill regarding the operation in Venezuela that led to the capture of former dictator Nicolas Maduro. Secretary of State Marco Rubio, War Secretary Pete Hegseth, Attorney General Pam Bondi, CIA Director John Ratcliffe, and Joint Chiefs of Staff Chairman Dan Caine were among those present. Democrats have demanded comprehensive briefings for all members of the House and Senate, questioning the constitutionality of the operation and its potential global implications. Concerns were raised about whether the operation could be used by Russia or China to justify their own military actions. Questions also arose regarding the "America First" policy and the perceived double standard in U.S. military actions compared to those of Russia and China. Senator Bernie Sanders criticized President Trump's assertion that the U.S. would run Venezuela, emphasizing that only Congress has the power to declare war. Secretary Rubio defended the operation, stating it was a precise, short-duration action that did not require congressional approval. Some lawmakers and Republicans pointed to potential motives involving U.S. oil companies and the development of Venezuela's oil reserves. Democratic members also intend to question administration officials about prior statements denying intentions of regime change in Venezuela. While some Republicans have outwardly supported the operation and the ousting of Maduro, others expressed concerns about foreign policy ripple effects. Maduro, who pleaded not guilty to drug charges in New York, claimed he was a prisoner of war.
