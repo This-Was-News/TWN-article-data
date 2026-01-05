@@ -1,0 +1,10 @@
+---
+url: https://www.nytimes.com/2026/01/04/us/politics/rubio-military-quarantine-venezuela-oil.html
+title: "Trump Says U.S. Is \u2018in Charge\u2019 of Venezuela, While Rubio Stresses\
+  \ Coercing It"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Trump asserted that the United States is "in charge" of Venezuela, following a military operation that seized autocratic leader Nicolás Maduro. This statement came after Secretary of State Marco Rubio clarified that the U.S. would coerce cooperation from Venezuelan leadership rather than directly run the country. Rubio emphasized the continued U.S. military quarantine on Venezuelan oil exports as leverage to force policy changes, including opening the state-controlled oil industry to foreign investment, particularly American companies. Trump stated the U.S. needs "total access" to Venezuela's resources, including oil, to rebuild the country. Rubio indicated that U.S. troops could be deployed further if it served American interests, and that the administration would continue to diplomatically engage with the current Venezuelan leadership. The Venezuelan defense minister denounced the U.S. incursion, demanding the return of Maduro and his wife. The U.S. operation has been criticized as a return to 19th-century U.S. imperialist policy, potentially alienating Latin America and encouraging similar actions by adversaries like China and Russia. Rubio defended the U.S. presence, stating the Western Hemisphere should not be a base for U.S. adversaries. The administration's focus on oil as a primary prize was reiterated, with Rubio suggesting the need for private investment in Venezuela's oil industry. Despite Trump's previous comments questioning the legitimacy of Venezuelan opposition leader María Corina Machado, Rubio had previously supported her and referred to her chosen successor as the rightful president. The U.S. also plans to ensure Venezuela stops drug trafficking, continuing military strikes on boats involved in the trade. Rubio did not rule out Cuba as a future target, citing it as a significant problem for the U.S.
