@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/06/us/politics/rubio-trump-greenland.html
+title: Rubio Told Lawmakers Trump Wants to Buy Greenland
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Secretary of State Marco Rubio informed lawmakers that President Trump intends to purchase Greenland, rather than invade it, and has requested updated acquisition plans from his aides. Rubio's remarks came during a congressional briefing where concerns were raised about Trump's intentions regarding Greenland, stemming from recent aggressive statements by the President and aide Stephen Miller. While Rubio did not elaborate on the specifics of a potential purchase, Trump's background in real estate and his long-standing interest in Greenland were noted. Greenland, an autonomous territory under Danish rule and a NATO member, is sparsely populated. In response to Trump's assertions, leaders from six NATO nations, including Britain, France, Germany, Italy, Spain, and Poland, joined Denmark's Prime Minister Mette Frederiksen in a joint statement emphasizing the importance of upholding sovereignty, territorial integrity, and inviolability of borders, stating that Greenland belongs to its people and decisions concerning it are solely for Denmark and Greenland. The White House later issued a statement indicating that a U.S. invasion of Greenland had not been ruled out, framing the acquisition as a national security priority to deter adversaries in the Arctic. Trump has previously expressed concerns about Russian and Chinese ships in the Arctic, despite the U.S. having its own military base there. His interest in Greenland is also driven by its potential wealth of critical minerals, aligning with a broader U.S. foreign policy goal of dominance in the Western Hemisphere, as evidenced by past actions concerning Venezuela and Canada.
