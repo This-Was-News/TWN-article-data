@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2026/01/06/nx-s1-5667583/pentagon-review-women-in-ground-combat-roles
+title: Pentagon will begin review of 'effectiveness' of women in ground combat positions
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The Pentagon is launching a six-month review to assess the "operational effectiveness" of women serving in ground combat roles, a decade after restrictions were lifted. Undersecretary of Defense for Personnel Anthony Tata has requested data from the Army and Marine Corps on readiness, training, performance, casualties, and command climate within these units. This review aims to ensure that standards for combat arms positions remain elite, uniform, and sex-neutral, as stated by Pentagon press secretary Kingsley Wilson. Defense Secretary Pete Hegseth, who has previously expressed opposition to women in combat, now maintains that women can serve as long as they meet the same rigorous, gender-neutral physical standards as men. Hegseth has called for a return to original combat standards, suggesting that if women do not qualify, it is an acceptable outcome. Currently, approximately 3,800 women serve in Army combat units, with over 150 having completed Ranger training, and about 700 in the Marines, all meeting the same standards as their male counterparts. Some experts, like retired Army Colonel Ellen Haring, view the review as an attempt to exclude women from combat roles, echoing Hegseth's past sentiments. Conversely, others, like Khris Fuhr, who worked on gender integration for the Army, cite studies indicating women perform well in these units, calling the review a "solution for a problem that doesn't exist." The decision to admit women to all ground combat positions in 2015 by then-Secretary of Defense Ash Carter was controversial, particularly within the Marine Corps, which conducted an exercise suggesting gender-integrated units were less effective and more prone to injury.
