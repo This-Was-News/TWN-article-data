@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/minnesota/article_024b23c4-4ec6-4b2a-b059-f9e7346ed800.html
+title: 'Witnesses: Minnesota agencies suppressed fraud reports, intimidated whistleblowers'
+publisher: centersquare
+usage: top
+initial_rank: 1
+---
+## Article summary
+Republican Minnesota state lawmakers testified at a congressional hearing, alleging that officials within Gov. Tim Walz's administration suppressed fraud reports, retaliated against whistleblowers, and altered protocols to conceal criminal activity, contributing to an estimated $9 billion in taxpayer-funded social services fraud. A growing number of current and former state employees, now over 1,000 strong, have come forward with accounts of fear and retaliation, including threats of job loss, blacklisting, and even veiled threats involving military intelligence. Whistleblowers shared instances of personal information, like photos of their homes and cars, appearing in personnel files, with supervisors inquiring about their children's schools and bus stops. Minnesota Lt. Gov. Peggy Flanagan has publicly criticized these whistleblowers, and following a significant 2019 report on child care fraud, the Office of Inspector General within the Department of Health Services was reportedly shut down, with suspicious activity reclassified as 'overbilling.' A report by the Minnesota Office of the Legislative Auditor also indicated that documents were created or backdated after audits. Democrats on the committee expressed concern that the administration's response to fraud in 'blue states' is more aggressive than in 'red states,' citing a $77 million welfare scheme in Mississippi that has allegedly received less attention. The Trump administration has frozen federal social services funding to Minnesota and four other states with Democratic governors due to widespread fraud, a move criticized by some as potentially harming innocent recipients who rely on these services.
