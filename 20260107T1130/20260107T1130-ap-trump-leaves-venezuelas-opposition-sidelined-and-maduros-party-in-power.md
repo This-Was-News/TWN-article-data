@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/venezuela-us-maduro-trump-opposition-machado-2d497c934d564e1c9d21376af1111e71
+title: "Trump leaves Venezuela\u2019s opposition sidelined and Maduro\u2019s party\
+  \ in power"
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Venezuelan opposition supporters had long anticipated the removal of Nicolás Maduro from power, a goal achieved when U.S. forces apprehended the authoritarian leader. However, despite Maduro's jailing in New York on drug trafficking charges, his administration's leaders remain in control. The U.S. opposition, supported by successive U.S. administrations, had planned to install their own leader and restore democracy. Instead, President Donald Trump allowed Maduro's vice president, Delcy Rodríguez, to assume authority, leaving most opposition leaders, including Nobel laureate María Corina Machado, in exile or prison. Trump expressed skepticism about Machado's leadership capabilities, stating she lacks domestic support and respect. While Machado has praised Trump, her alignment with his policies has alienated some within Venezuela. Machado was barred from the 2024 presidential election, with Edmundo González Urrutia running in her stead. Despite the ruling party declaring Maduro the winner, opposition tallies indicated González's victory, a result recognized by the U.S. and other nations. Secretary of State Marco Rubio clarified that the U.S. would leverage control of Venezuela's oil industry for policy changes, deeming the current government illegitimate. Venezuela's constitution mandates an election within 30 days of a president's permanent unavailability, but Maduro loyalists in the high court declared his absence temporary, allowing the unelected vice president to take over. This move sidesteps the election requirement, with Rodríguez potentially seeking to extend her tenure. Machado has criticized Rodríguez, labeling her a key figure in corruption and torture, and questioning her trustworthiness. Both Machado and González face challenges returning to Venezuela, as they are currently in exile.
