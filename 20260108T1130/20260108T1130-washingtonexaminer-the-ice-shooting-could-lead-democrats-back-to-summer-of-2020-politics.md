@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/news/campaigns/congressional/4410867/the-ice-shooting-could-lead-democrats-back-to-summer-of-2020-politics/
+title: The ICE shooting could lead Democrats back to summer of 2020 politics
+publisher: washingtonexaminer
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A recent fatal shooting by an Immigration and Customs Enforcement (ICE) officer in Minneapolis could reignite the political climate of 2020, potentially impacting the upcoming midterm elections. This incident, occurring in the same city as George Floyd's death, has quickly become a polarizing event. Unlike the Floyd case, there was no initial period of unity, with former President Donald Trump strongly supporting the ICE officer and criticizing the woman who was shot as a "professional agitator." Minnesota Governor Tim Walz, facing political challenges, has framed the event as a consequence of "governance designed to generate fear, headlines, and conflict," attributing it to Trump's policies. Democrats have been attempting to distance themselves from the perceived excesses of "woke culture" and Black Lives Matter, which data suggests has alienated working-class non-white voters. President Biden's administration, while campaigning differently, is seen by some as having allowed policies that led to the current border situation, creating an opening for Trump's immigration stances. The resurgence of these cultural issues could harm Democrats in the midterms, despite potential advantages in the economy and historical trends. However, there's also a risk for Republicans if the pendulum swings back too far, potentially alienating voters like Hispanics who may be turned off by the combination of ICE actions and inflation. The absence of the COVID-19 pandemic distinguishes the current situation from 2020, but a return to similar cultural conditions before the elections could create an unpredictable and volatile scenario.
