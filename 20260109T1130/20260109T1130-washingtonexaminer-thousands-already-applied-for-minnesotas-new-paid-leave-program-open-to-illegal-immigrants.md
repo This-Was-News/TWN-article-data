@@ -1,0 +1,10 @@
+---
+url: https://www.washingtonexaminer.com/news/investigations/4411372/thousands-applied-minnesota-new-paid-leave-open-illegal-immigrants/
+title: "Thousands already applied for Minnesota\u2019s new paid leave program open\
+  \ to illegal immigrants"
+publisher: washingtonexaminer
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Minnesota's new paid leave program, the Minnesota Paid Family and Medical Leave Program (PFML), has seen an overwhelming response with thousands of applications submitted even before benefits officially began. Approximately 18,000 applications were received since early December, and over 3,500 individuals were already on paid leave within the first week of the program's implementation on January 1. The program, which is open to undocumented workers, provides partial pay for up to 20 weeks for serious health reasons or to care for family members, with a broad definition of 'family member.' Concerns have been raised by fraud watchdogs about potential abuse of the taxpayer-funded program, citing its broad eligibility criteria and the possibility of 'double dipping' on claims. Despite these concerns, the Department of Employment and Economic Development (DEED) expressed confidence in the program's fraud prevention systems, which include identity and work history verification and professional certification for leave. The law, passed without Republican votes, aims for equity and has awarded grants to community groups to increase awareness among priority populations, including undocumented communities. The PFML is funded by a payroll tax split between employers and employees, which has already seen an increase from its initial proposed rate. Experts predict a high demand that could necessitate further tax increases to cover program costs, a pattern observed with previous social benefit programs. Governor Tim Walz has defended the program, stating it is disrespectful to assume beneficiaries will attempt to scam the system, while also facing scrutiny over past welfare fraud issues in the state.
