@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/05/business/economy/business-economy-jobs-report-december.html
+title: U.S. Hiring Remains at a Modest Pace, and Weaknesses Are Evident
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The U.S. labor market demonstrated modest hiring in December 2025, with the unemployment rate falling to 4.4 percent. However, overall job growth in 2025 was the weakest in five years, influenced by government staffing cuts and policy changes. While average hourly earnings saw an acceleration, private-sector job growth, excluding healthcare and social assistance, was minimal. Sectors like retail and manufacturing experienced job losses, with manufacturing declining significantly despite promises of increased domestic employment. Conversely, health care and social assistance continued to lead payroll growth. Analysts note a cyclical slowdown in the labor market, with some suggesting artificial intelligence may be starting to impact sectors like professional and business services, leading to reduced hiring. The decrease in immigration flows has also complicated labor force growth assessments. Despite labor market weaknesses, economic growth remains strong, with GDP and productivity showing robust figures in late 2025. Federal Reserve officials are expected to maintain current interest rates, though some express concern about the labor market's potential faltering. Many Americans are struggling with the cost of living, particularly lower-income households, while the affluent continue to spend, supporting overall consumption. The job market appears to be shifting towards higher-level strategic roles, with a decrease in positions susceptible to automation. Job seekers are increasingly taking on part-time or gig work due to a more challenging employment landscape.

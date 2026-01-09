@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2026/01/09/nx-s1-5672502/minneapolis-portland-ice-shootings
+title: Frictions over investigations emerge after ICE agent fatally shoots Minneapolis
+  woman
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+State and local prosecutors in Minnesota are launching their own investigation into the fatal shooting of Renee Good by an ICE agent, citing friction with federal authorities who have excluded them from the FBI-led inquiry. Hennepin County Attorney Mary Moriarty stated her office is working with the state attorney general to gather evidence independently, as they would be blocked from accessing crucial findings and evidence if the FBI acts as the sole lead agency. This situation mirrors concerns in Portland, Oregon, where Customs and Border Patrol agents shot and injured two individuals. Portland Mayor Wilson and Oregon Governor Kotek are also demanding a full and independent investigation into the Portland shooting, with Wilson calling for ICE to halt all operations in the city until the inquiry is complete. Competing narratives have emerged for both shootings, with federal officials asserting self-defense and local officials questioning the use of lethal force. In Minneapolis, Homeland Security Secretary Kristi Noem characterized Good's actions as "domestic terrorism," a description disputed by Minnesota Attorney General Keith Ellison, who called her a "compassionate neighbor." The ICE agent involved in the Minneapolis shooting has been identified as Jonathan Ross, with Noem referencing a previous incident where he was injured by a motorist. In Portland, federal authorities claim the driver of a vehicle attempted to run over agents, prompting a defensive shot, while identifying the individuals as Luis David Nico Moncada and Yorlenys Betzabeth Zambrano-Contreras, affiliated with the Venezuelan gang Tren de Aragua. Both investigations are ongoing, with the FBI leading the inquiries in both Minneapolis and Portland, despite local officials' calls for greater transparency and involvement.
