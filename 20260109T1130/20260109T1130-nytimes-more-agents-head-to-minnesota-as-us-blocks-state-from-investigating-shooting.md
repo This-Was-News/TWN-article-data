@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/08/us/minnesota-ice-shooting-news.html
+title: More Agents Head to Minnesota as U.S. Blocks State From Investigating Shooting
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Disputes between Minnesota officials and the Trump administration have escalated following the fatal shooting of Renee Nicole Good by a federal agent. The state has withdrawn from the investigation after being denied access to evidence, with Governor Tim Walz asserting that federal officials have prematurely judged the incident. The shooting occurred as federal agents ordered Ms. Good to move her vehicle, with conflicting accounts emerging: the administration claims self-defense, while state and city officials label these claims as propaganda. Video analysis suggests Ms. Good's vehicle was moving away from the agent when fired upon. In response to the unrest, Governor Walz activated the state's National Guard as a precaution, and at least 100 additional federal agents are being deployed to Minnesota. Minneapolis Mayor Jacob Frey expressed concern that the administration might use the chaos as a pretext to occupy the city. The Department of Homeland Security, however, defended its operations, highlighting recent arrests of individuals with criminal records who were in the country illegally. Protests against Immigration and Customs Enforcement (ICE) actions have been ongoing for weeks, with Ms. Good's death significantly heightening tensions. The incident occurred near the site where George Floyd was killed in 2020. Meanwhile, two other individuals were shot by federal agents in Portland, Oregon, in a separate incident involving a vehicle. The federal government plans to pause operations in Chicago to support the increased enforcement in Minnesota, with the additional agents expected to remain through the weekend.
