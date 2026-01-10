@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/09/business/energy-environment/trump-venezuela-oil-executives.html
+title: "Trump\u2019s Push to Invest in Venezuela Gets a Tepid Response From Oil Executives"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Trump has proposed that major U.S. and European oil companies invest at least $100 billion in Venezuela's oil sector. However, during a White House meeting, oil executives expressed significant reservations about committing such funds. Exxon Mobil CEO Darren Woods stated that Venezuela is currently "uninvestable" due to past asset seizures and the lack of durable investment protections, emphasizing the need for legal changes. While Exxon is willing to send an exploratory team if security guarantees are provided, other companies like ConocoPhillips are focused on recouping billions lost from previous asset seizures, a point of little interest to President Trump. Despite Trump's suggestion to write off these past losses, executives indicated they are still pursuing recovery. Some smaller businesses are eager to expand in Venezuela, and Harold Hamm, an oil tycoon and Trump ally, acknowledged the country's exploration potential but also its challenges. Estimates suggest that merely maintaining current oil output would cost over $50 billion in the next 15 years, while significantly boosting production would require substantially more. Chevron, which has maintained operations in Venezuela and is currently its largest private oil producer, indicated it expects to increase production by about 50 percent in the next two years. The U.S. Export-Import Bank might offer credit support, and the U.S. government is prepared to provide security guarantees, though not direct funding for oil projects, as President Trump insisted the investment would come from the companies themselves.
