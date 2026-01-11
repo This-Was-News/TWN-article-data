@@ -1,0 +1,10 @@
+---
+url: https://apnews.com/article/trump-smithsonian-impeachment-national-portrait-gallery-photo-47a192aa3fdb9c434e405812a36b455a
+title: "Reference to Trump\u2019s impeachments is removed from the display of his\
+  \ Smithsonian photo portrait"
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The display of President Donald Trump's photo portrait at the Smithsonian's National Portrait Gallery has had references to his two impeachments removed. The original wall text, which summarized his presidency and noted his 2024 comeback victory, was part of the "American Presidents" exhibition. Now, a different photograph is displayed without accompanying text, although the original text is available online. Trump was the only president whose display, as of Sunday, lacked extended text. The White House has not confirmed if it requested the changes, nor has the Smithsonian provided a statement. However, Trump had previously ordered a review of Smithsonian exhibits to ensure alignment with his directive to celebrate American exceptionalism and remove divisive narratives. The initial label mentioned his impeachments "on charges of abuse of power and incitement of insurrection" after the January 6, 2021, Capitol attack, noting he was acquitted in both Senate trials. The text also highlighted his 2020 loss and subsequent 2024 comeback victory, making him the only president besides Grover Cleveland to win a nonconsecutive second term. A White House spokesman praised the new photograph, stating it ensures Trump's "unmatched aura" will be felt. The gallery indicated that it is beginning a planned update of the "America's Presidents" gallery, exploring quotes or general information labels for new exhibitions. References to other impeached presidents, Andrew Johnson and Bill Clinton, and Richard Nixon's resignation, remain on their respective portrait labels. This action is part of Trump's broader efforts to shape how federal government institutions document U.S. history and culture.
