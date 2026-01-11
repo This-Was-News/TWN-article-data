@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2026/01/11/nx-s1-5673845/iran-us-israel-targets-protests
+title: Iran warns US troops and Israel will be targets if America strikes over protests
+  as death toll rises
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Nationwide protests challenging Iran's theocracy have entered their third week, with activists reporting at least 116 deaths and 2,600 detentions amid an intensifying crackdown. Iran has enforced a nationwide internet and phone line blackout, making it difficult to gauge the demonstrations from abroad. Parliament speaker Mohammad Bagher Ghalibaf warned that U.S. troops and Israel would be "legitimate targets" if America strikes the Islamic Republic, a threat made as lawmakers shouted "Death to America!" President Donald Trump has offered support for the protesters, stating the U.S. "stands ready to help!!!" and that military options for a strike on Iran had been presented to him, though no final decision was made. State Department officials cautioned Iran against "playing games" with Trump. Ghalibaf praised security forces for standing firm and vowed severe punishment for those arrested. He specifically threatened Israel and U.S. military assets in the region, suggesting preemptive action based on "any objective signs of a threat." The severity of Iran's threat to strike is unclear, especially after its air defenses were reportedly destroyed in a prior conflict with Israel. Supreme Leader Ayatollah Ali Khamenei would ultimately decide on any war. Online videos, potentially using Starlink, show demonstrators in Tehran and Mashhad, Iran's second-largest city, confronting security forces. The protests, initially sparked by the collapsing Iranian currency, have evolved into direct challenges to the theocracy. Iran's attorney general warned that protesters could face charges as "enemies of God," a death-penalty offense. Exiled Crown Prince Reza Pahlavi has called for continued demonstrations, urging protesters to use old national symbols.
