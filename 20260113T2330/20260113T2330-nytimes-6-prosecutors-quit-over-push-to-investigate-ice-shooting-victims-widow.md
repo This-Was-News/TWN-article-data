@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/13/us/prosecutors-doj-resignation-ice-shooting.html
+title: "6 Prosecutors Quit Over Push to Investigate ICE Shooting Victim\u2019s Widow"
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Six federal prosecutors in Minnesota resigned due to the Justice Department's insistence on investigating the widow of Renee Nicole Good, who was killed by an ICE agent, while simultaneously showing reluctance to investigate the agent's actions. Joseph H. Thompson, second-in-command at the U.S. attorneys office and a key figure in a major fraud investigation, was among the resignees. Thompson objected to the push to criminally investigate the widow and the department's refusal to involve state officials in scrutinizing the shooting itself. The Minneapolis police chief stated Thompson's departure significantly hindered efforts to combat widespread state agency theft, suggesting the immigration crackdown, which cited these fraud cases, was not solely about fraud prosecution. Other senior prosecutors who resigned include Harry Jacobs, Melinda Williams, and Thomas Calhoun-Lopez. The Justice Department has not commented, and senior officials indicated no basis for a civil rights investigation into the ICE agent. Instead, the department initiated an investigation into ties between Ms. Good and her wife with protest groups. Thompson had advocated for a joint investigation with a state agency into the shooting, but this was overruled by senior Justice Department officials. The resignations occurred amidst widespread outrage over Ms. Good's killing and a large-scale immigration operation in Minnesota that has drawn criticism for alleged abuses and civil rights violations. Governor Tim Walz lamented Thompson's resignation as a sign of political interference in the Justice Department.
