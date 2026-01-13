@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html
+title: "Deposed Shah\u2019s Son, Now in Exile in U.S., Seeks Center Stage Amid Protests"
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Reza Pahlavi, the son of Iran's deposed Shah, is emerging as a potential figurehead amidst ongoing mass protests against the Islamic Republic. While some Iranians chant his name and express a desire for the return of the monarchy, others reject any form of authoritarian rule, recalling the repressive past of his father's regime. Pahlavi has sought to position himself as a counterweight to the current government, advocating for democracy and a transitional leadership. However, his polarizing reputation and critics' accusations of exaggerated support within Iran make his actual influence difficult to gauge, especially with government-imposed internet blackouts. His supporters span different generations, including those nostalgic for the past and younger individuals seeking a change. Pahlavi's past reluctance to directly address his father's human rights abuses, particularly the actions of the secret police, remains a point of contention. He has lived in exile in the United States since the 1979 revolution and has actively campaigned against the current Iranian government. Despite his efforts, he has struggled to unite all Iranian opposition groups, partly due to his insistence on taking a leading role. Pahlavi has also sought to garner support from international figures, including President Trump, whom he has praised on social media and urged to take a stronger stance against the Iranian government. His calls for U.S. intervention highlight his desire for external support in his campaign against the Islamic Republic.
