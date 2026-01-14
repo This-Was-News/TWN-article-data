@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/live/donald-trump-news-updates-1-14-2026
+title: 'Live updates: Senate prepares to vote on Venezuela war powers'
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The Senate is preparing to vote on a war powers resolution that would limit President Trump's ability to conduct military attacks on Venezuela, despite Trump's intense pressure on Republicans to vote against it. Democrats are forcing the vote following the U.S. capture of former Venezuelan President Nicolás Maduro. Meanwhile, Denmark's foreign minister stated that fundamental disagreements with the White House over Greenland persist, though a working group will be formed to address differences as Trump continues to advocate for a U.S. takeover. The U.S. is also suspending immigrant visa processing from 75 countries due to public assistance concerns. In other news, Trump signed a law returning whole milk to school cafeterias and claimed that killings in Iran have stopped, despite Tehran signaling plans for fast trials and executions. The potential cost of rebranding the Department of Defense to the Department of War could reach $125 million. Additionally, House Democrats are investigating tuition payments made by Jeffrey Epstein to New York universities, and hundreds of laid-off researchers at a workplace safety center are being reinstated. Russia's ambassador to Copenhagen emphasized the need to avoid escalation in the Arctic and restore cooperation. The Trump administration is also easing restrictions on selling advanced chips to China, a move that has raised concerns among U.S. lawmakers. Hillary Rodham Clinton defied a House subpoena for testimony related to the Epstein investigation, and Senate Minority Leader Chuck Schumer anticipates Trump will attempt to disrupt the midterm elections.
