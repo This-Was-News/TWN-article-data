@@ -1,0 +1,10 @@
+---
+url: https://www.nytimes.com/live/2026/01/14/us/trump-news
+title: "Denmark Has \u2018Fundamental\u2019 Differences With U.S. Over Greenland,\
+  \ Diplomat Says"
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+Denmark and Greenland have expressed a fundamental disagreement with the United States regarding the future of Greenland, following President Trump's expressed desire to purchase the territory. Despite differing perspectives, the three governments have agreed to form a working group to address security concerns without violating Greenland's territorial integrity or self-determination. President Trump reiterated that the U.S. needs Greenland for national security, arguing it would strengthen NATO. Denmark and Greenland remain united in their stance, with Greenland's Prime Minister stating a preference for remaining with Denmark over joining the U.S. under the current administration. Denmark is increasing its military presence in Greenland, with Swedish soldiers also arriving at Denmark's request. The U.S. and Denmark/Greenland also differ on the perceived threats from Russia and China in the Arctic, with the U.S. citing security concerns and Denmark/Greenland disputing the existence of imminent threats. Meanwhile, a new poll indicates that a large majority of voters would oppose the U.S. seizing Greenland by military force or purchasing it. In other news, President Trump stated that Iran is stopping its killing of protesters, potentially averting U.S. military action. The Trump administration is also suspending immigrant visa processing for 75 countries, citing concerns about migrants utilizing welfare programs. Additionally, President Trump signed legislation allowing schools to serve whole milk again, reversing an Obama-era policy. The FBI searched the home of a Washington Post journalist as part of an investigation into a government contractor's handling of classified material, an action that has drawn criticism for potentially chilling press freedom. Finally, an initial review suggests no widespread illegal voting by migrants, contradicting claims made by Donald Trump and his allies.
