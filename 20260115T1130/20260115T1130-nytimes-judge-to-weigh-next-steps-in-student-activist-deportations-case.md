@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/15/us/politics/student-activist-deportations-judge.html
+title: Judge to Weigh Next Steps in Student Activist Deportations Case
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A federal judge in Boston, William G. Young, is set to decide on the next steps in a case concerning the Trump administration's alleged deliberate chilling of international students' speech. Last September, Judge Young issued a significant ruling stating that the administration targeted student activists to instill fear in demonstrators and academics critical of Israel's actions in Gaza. The lawsuit, brought by academic organizations, argued that the attempted deportations and broader threats by President Trump and Secretary of State Marco Rubio had a silencing effect on campus speech regarding contentious issues. The trial examined the cases of five prominent student activists who, despite being in the U.S. legally, were accused of undermining foreign policy interests. Judge Young, in a lengthy opinion, found that the administration had cultivated a climate of fear and repression, asserting that noncitizens possess an equal First Amendment right to free speech. Crafting a remedy, however, presents a more complex challenge for the judge. The plaintiffs seek broad relief prohibiting the administration from revoking visas based on anti-Israel or pro-Palestinian speech, aiming to alleviate the fear among noncitizen students and faculty. Conversely, some legal scholars anticipate a narrower solution to avoid potential appeals. The administration has maintained that the court lacks the authority to interfere with foreign policy and enforcement powers. Additionally, Judge Young will consider requests to unseal evidence presented during the trial, which may reveal justifications for the arrests and visa actions against students.
