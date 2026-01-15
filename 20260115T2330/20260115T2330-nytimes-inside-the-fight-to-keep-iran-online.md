@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html
+title: Inside the Fight to Keep Iran Online
+publisher: nytimes
+usage: top
+initial_rank: 1
+---
+## Article summary
+Activists in Iran are circumventing a severe government internet shutdown by using smuggled Starlink satellite internet systems. Despite authorities imposing a near-complete blackout on online banking, shopping, and communication, a network of activists, developers, and engineers has managed to establish internet access. This has allowed them to share information about growing protests, including images of violence. The Iranian government has responded by deploying military-grade electronic weaponry to disrupt Starlink's GPS signals, a tactic rarely seen outside of active war zones. Since 2022, these activists have been working to bring Starlink terminals into the country, aided by a U.S. government sanctions exemption. Approximately 50,000 Starlink terminals are now in Iran, defying a national ban. The spread of satellite internet tools like Starlink is making it increasingly difficult for governments to enforce national digital blackouts and suppress dissent. Starlink, provided by Elon Musk's SpaceX, bypasses land-based censorship infrastructure, enabling demonstrators to organize and communicate with the outside world. While Starlink is available to only a fraction of the population, it serves as a crucial lifeline. The reliance on Starlink highlights Elon Musk's geopolitical influence, with him recently announcing free services in Iran. The Iranian government has historically implemented sophisticated internet censorship, including a state-run National Information Network, but the widespread use of Starlink and other tools like VPNs has complicated these efforts. Activists are concerned about the potential for Musk to discontinue service in Iran, given his past decisions in other authoritarian countries.
