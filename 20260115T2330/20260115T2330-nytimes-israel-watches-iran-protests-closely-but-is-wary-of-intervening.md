@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/15/world/middleeast/israel-iran-protests-netanyahu.html
+title: Israel Watches Iran Protests Closely, but Is Wary of Intervening
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Israel views the ongoing protests in Iran with significant interest, considering the Islamic Republic an existential threat. Prime Minister Benjamin Netanyahu has consistently portrayed Iran as a global menace. Despite this, Israeli officials and analysts believe a regime change is unlikely to be precipitated by Israel, as the current protests are not seen as sufficient to topple the government. Experts suggest Israel would only intervene if invited by the U.S. or if Iran attacks first. The risks of blowback against Israel, including a new war, are considered too great for limited intervention. Israeli analysts predict the current demonstrations will be short-lived due to a lack of leadership and means of self-defense among protesters. They believe the Iranian security forces, particularly the Revolutionary Guard Corps and the Basij, are highly motivated to suppress the uprising to protect their own fates. Toppling the state from afar using tools like social media or cyberattacks is deemed insufficient. Israel's options for intervention are limited, with potential gains outweighed by risks, including lending credence to Iran's claims of foreign provocation. Any overt Israeli action could also increase the likelihood of a pre-emptive strike from Iran. While respecting U.S. military capabilities, experts caution that limited American action could be counterproductive. The exiled son of the last shah, Reza Pahlavi, is seen by some as a potential leader, but Israeli experts are skeptical of his ability to rally significant support within Iran.
