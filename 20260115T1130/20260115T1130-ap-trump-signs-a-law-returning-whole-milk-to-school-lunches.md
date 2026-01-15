@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/whole-milk-school-lunches-trump-5572176286b322d844bb76d52906e2c7
+title: Trump signs a law returning whole milk to school lunches
+publisher: ap
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Donald Trump has signed a new law, the Whole Milk for Healthy Kids Act, which allows whole and 2% fat milk to be served in school cafeterias across the nation. This legislation overturns Obama-era restrictions that limited milk options to skim and low-fat products, a policy that had been in place since 2012. The new law also permits schools to offer non-dairy milk alternatives that meet nutritional standards, with a provision for parental notes to justify these choices for dietary restrictions. This change aligns with the latest Dietary Guidelines for Americans, which now emphasize the consumption of full-fat dairy products. The dairy industry has long advocated for the return of whole milk, arguing it is nutritious and appealing to children, potentially reducing food waste and missed nutritional intake. While some studies suggest children drinking whole milk are less likely to be overweight, other research indicates that the previous restrictions did contribute to slowing the rise in childhood obesity. The new rules will impact approximately 30 million students participating in the National School Lunch Program. The law exempts milk fat from federal saturated fat limits in school meals and requires schools to offer a variety of milk options, including flavored and unflavored whole, 2%, 1%, and lactose-free milk, alongside approved non-dairy alternatives. Officials anticipate the change could take effect as early as the upcoming fall semester, though some schools may require additional time to adjust their supply chains and gauge student demand.
