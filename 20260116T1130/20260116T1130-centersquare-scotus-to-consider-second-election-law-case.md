@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/national/article_2c50b89e-1b8f-47ae-a600-0332c911db42.html
+title: SCOTUS to consider second election law case
+publisher: centersquare
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The U.S. Supreme Court has agreed to hear a second election law case, Watson v. Republican National Committee, which will determine if federal election laws prohibit states from accepting mail-in ballots after Election Day. This decision follows a recent ruling in Bost v. Illinois State Board of Elections, where the court affirmed an Illinois congressman's right to sue over the counting of ballots postmarked on Election Day but received later. Election integrity advocates, like Jason Snead of the Honest Elections Project, have noted an imbalance in court access for conservative versus liberal candidates seeking to uphold election integrity laws. Snead expressed that it has been significantly easier for left-leaning candidates and groups to use the courts to challenge such laws. Sixteen states and the District of Columbia currently allow mail-in ballots to be counted for up to two weeks after Election Day. The Watson case specifically challenges Mississippi's law that permits ballots postmarked by Election Day to be counted up to five days later. Snead urged state lawmakers to adjust their statutes to prevent issues with late mail-in ballot deadlines, anticipating a potential Supreme Court ruling against such practices. Ohio's governor recently signed a law restricting mail-in ballots after Election Day, citing the pending Supreme Court decision. While some voting rights advocates are concerned about the timing of the decision, Snead believes that a ruling by June or July would provide sufficient time for public education, emphasizing the need for voters to mail their ballots early.
