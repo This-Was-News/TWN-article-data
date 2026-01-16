@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2026/01/16/nx-s1-5678565/immigration-minnesota-democrats-navigate-resistance-to-trump
+title: 'With limited political power, Minnesota Democrats navigate resistance to Trump '
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+Minnesota Democrats, facing limited political power, are navigating increased federal immigration enforcement under President Trump's second term. The fatal shooting of Renee Macklin Good by an ICE agent has become a focal point for opposition to federal agents operating within the state. Despite the presence of over 2,000 federal immigration agents, Minnesota's Democratic leaders, including the mayor of Minneapolis and U.S. senators, are pushing back against federal intervention. Attorney General Keith Ellison and Mayor Jacob Frey have condemned Trump's threats to use the Insurrection Act and called for federal agents to leave. Congressional Democrats have attempted oversight visits to ICE detention centers, but faced obstruction. Governor Tim Walz has withdrawn from his reelection bid, citing the need to focus on governing and fighting fraud, which the Trump administration has used as a pretext for increased federal agents. Walz urged Minnesotans to document ICE activity to create a record for future prosecutions. Political science professor Michael Minta notes that Democrats, lacking control of the House or Senate, find it difficult to mount opposition as Republicans are unwilling to defy Trump. Senator Amy Klobuchar is considering a run for governor and emphasizes the need for a congressional majority to check Trump's power. While political options are limited, Democrats are pursuing legal avenues, with Ellison and the cities of Minneapolis and St. Paul suing the federal government to halt ICE operations.
