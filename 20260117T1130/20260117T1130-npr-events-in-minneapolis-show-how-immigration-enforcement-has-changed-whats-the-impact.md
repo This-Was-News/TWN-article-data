@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2026/01/17/nx-s1-5676240/minneapolis-immigration-enforcement-tactics
+title: Events in Minneapolis show how immigration enforcement has changed. What's
+  the impact?
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+The Trump administration has significantly escalated immigration enforcement in Minneapolis, leading to increased federal agent presence and aggressive tactics. This has resulted in protests, with demonstrators clashing with federal agents who have used tear gas and made arrests. Experts view these events as a reflection of a national shift towards more aggressive immigration enforcement, often without local coordination, causing confusion and mistrust. The administration defends its actions, stating they are fulfilling a mandate to deport undocumented immigrants, with a focus on those with criminal records. However, data indicates a substantial number of ICE arrests involve individuals without criminal records. Immigration attorneys and advocates note a marked erosion of established enforcement norms, with federal authorities pushing boundaries and making it harder for individuals to know and trust their rights. The ACLU has filed lawsuits challenging alleged racial profiling and unlawful arrests. The operation in Minneapolis, dubbed "Operation Metro Surge," is described as the largest DHS operation in history, involving multiple federal agencies not typically focused on civil immigration enforcement. This approach contrasts with historical enforcement methods and has been observed in other cities as well. Experts criticize the training and tactics of agents, particularly in urban environments, while the DHS maintains agents are well-trained and respond to dangerous situations. The administration also argues that increased street-level enforcement is a consequence of "sanctuary cities" hindering ICE's access to jails. This federal action is creating tension, potentially undermining trust between local communities and law enforcement, and impacting overall public safety and cooperation.
