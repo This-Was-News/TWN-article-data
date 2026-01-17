@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2026/01/17/nx-s1-5672615/kalshi-polymarket-prediction-market-boom-traders-slang-glossary
+title: They quit their day jobs to bet on current events. A look inside the prediction
+  market mania
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Prediction markets like Kalshi and Polymarket are experiencing a boom, attracting traders who quit their day jobs to bet on current events. These platforms allow users to wager on a wide range of outcomes, from award show details to political races and even specific phrases a president might use. Some traders, like Logan Sudeith, have made significant profits, earning over $100,000 in a single month. Proponents view these markets as a way to uncover truths through collective opinion and as a hedge against financial instability. Mainstream media outlets like CNN and CNBC are integrating Kalshi markets into their coverage, and The Wall Street Journal's owner is partnering with Polymarket. However, critics, such as Dennis Kelleher of Better Markets, argue that these platforms are essentially gambling sites akin to sportsbooks or casinos. Kalshi asserts it is different from traditional gambling because there is no central 'house' taking a cut, but lawsuits have challenged this, claiming institutional partners act as the house. The Trump administration has been favorable to these markets, with Donald Trump Jr. involved in Polymarket and advising Kalshi, while Truth Social plans to launch its own market. This growth has raised concerns about addiction, insider trading, and the potential for market manipulation to influence real-world events, particularly elections. The industry's rapid expansion and the ease of transactions distinguish it from other forms of betting, with some experts warning of a potential public health crisis. Traders often use specialized lingo and sophisticated statistical models, while others rely on intuition. The regulatory landscape remains complex, with ongoing legal battles and debates about whether these markets constitute illegal gambling or a legitimate form of information aggregation.
