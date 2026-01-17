@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/national/article_9887a596-b6d8-485a-88dd-f658f67f86b5.html
+title: EU threatens to blow up trade deal over Trump's plans for Greenland
+publisher: centersquare
+usage: top
+initial_rank: 1
+---
+## Article summary
+A top European official has stated that President Donald Trump's comments regarding Greenland could jeopardize a trade deal between the U.S. and the European Union. Manfred Weber, president of the European People's Party, indicated that his party would not support a deal under these circumstances and called for the suspension of 0% tariffs on U.S. products. This statement follows Trump's announcement of potential tariffs on European countries if a deal to annex Greenland is not reached. Trump aims to acquire Greenland, a semi-autonomous Danish territory, and has not ruled out various methods. Denmark and Greenland officials have stated the nation is not for sale, and Greenlanders do not wish to join the U.S. European Union Commission President Ursula von der Leyen expressed solidarity with Denmark and warned that tariffs would damage transatlantic relations and risk a "dangerous downward spiral." She emphasized the EU's commitment to unity, coordination, and sovereignty. Trump proposed tariffs on goods from Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands, and Finland, starting at 10% in February and increasing to 25% in June, until Greenland is acquired. He cited historical attempts and the strategic importance of Greenland due to its "Golden Dome" and advanced weaponry. This development comes as European allies have symbolically deployed troops to Greenland amid heightened discussions about its acquisition. Previously, Trump had announced a trade deal with the EU that would impose a 15% tariff on imports from the 27-nation bloc.
