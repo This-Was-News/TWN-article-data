@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2026/01/18/nx-s1-5678579/ice-clashes-new-hampshire-bishop-urges-clergy-prepare-wills
+title: 'Amid ICE clashes, New Hampshire bishop urges clergy to prepare their wills '
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+Bishop Rob Hirschfeld of the Episcopal Church of New Hampshire has urged clergy to prepare their wills, warning of a "new era of martyrdom" amid increasing clashes with Immigration and Customs Enforcement (ICE). His remarks came after the fatal shooting of Renee Macklin Good by an ICE agent. Hirschfeld's message resonated widely, with some clergy viewing it as a validation of their anxieties and a call to action, while others criticized it as inflammatory and a "war cry" that could escalate tensions. Reverend Jason Wells expressed relief, feeling the bishop gave voice to the mounting concern among faith leaders who have been protesting ICE actions. Reverend Betsy Hess agreed, stating clergy need to be more active and brave, even in the face of potential danger. Conversely, Reverend Tom Gartin argued that such a stance is at odds with the Episcopal tenet of Via Media, advocating for peacemaking and de-escalation instead of physical resistance. Gartin questioned the bishop's message, stating he did not sign up to be a martyr and is concerned about his family and congregation. Hirschfeld clarified that he is not inciting violence but encouraging preparedness and living without fear of death, drawing parallels to historical church activists who became martyrs. He emphasized the importance of showing up in dangerous situations, even amidst potential threats. The White House defended the ICE agent's actions, while a DHS official called Hirschfeld's comments "absurd" and urged support for ICE agents. Hirschfeld, however, reiterated his Christian responsibility to extend love even to adversaries and prayed for everyone's conversion of heart.
