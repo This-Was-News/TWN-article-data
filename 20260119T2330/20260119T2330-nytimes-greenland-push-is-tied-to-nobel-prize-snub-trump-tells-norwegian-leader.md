@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2026/01/19/us/trump-news
+title: Greenland Push Is Tied to Nobel Prize Snub, Trump Tells Norwegian Leader
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+President Trump has linked his pursuit of acquiring Greenland to his perceived snub for the Nobel Peace Prize, according to a text message sent to Norway's prime minister. He questioned Denmark's claim to Greenland and asserted the world's security depends on the U.S. having complete control. This statement escalates tensions over Greenland, which has been part of the Danish Kingdom for over 300 years, and world leaders have condemned Trump's insistence on its acquisition. European leaders attempted to de-escalate the situation, but Trump's response, suggesting he no longer feels obligated to prioritize peace, added uncertainty. Norway's prime minister clarified that the Nobel Committee, not the government, awards the prize. Meanwhile, the Trump administration is preparing to replace tariffs almost immediately if the Supreme Court strikes down existing ones, exploring alternative legal authorities to maintain his trade policy. The Supreme Court is also considering Trump's authority to remove a Federal Reserve governor, a case with significant implications for the Fed's independence. In other news, the Trump administration is appealing limits on interactions with Minnesota protesters, while a proposed "Board of Peace" for Gaza, led by Trump, has drawn criticism for its potential to rival the UN and its significant membership fees. Three high-ranking Catholic clerics have also denounced U.S. foreign policy, questioning its moral foundation and criticizing actions in Venezuela, Ukraine, and Greenland, advocating for a foreign policy based on peace and dialogue rather than force.
