@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/2026/01/19/us/politics/starmer-uk-greenland.html
+title: "Starmer Pushes Back Against Greenland Tariff Threat as \u2018Completely Wrong\u2019"
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+British Prime Minister Keir Starmer has strongly opposed President Trump's threat to impose tariffs on European nations over the issue of Greenland. Starmer asserted that the future of Greenland should be decided solely by its inhabitants and Denmark, emphasizing the importance of standing up for values over pressure. He argued that a tariff war would harm businesses, workers, and families on both sides of the Atlantic, undermining the respect and partnership essential for alliances. Starmer highlighted that international cooperation relies on fundamental principles and that any decisions regarding Greenland's status belong exclusively to its people and the Kingdom of Denmark. He conveyed these views to President Trump in a phone call, stressing that nations with military personnel in Greenland are focused on collective NATO security and assessing risks from Russia. The Prime Minister indicated that Britain sent a military officer to Greenland as part of a multinational mission to address Russian threats. Trump's tariff threats have faced widespread condemnation across the British political spectrum and even from his ally Nigel Farage. Several NATO allies, including Britain, France, Germany, and Denmark, issued a joint statement decrying the threats as damaging to trans-Atlantic relations. While the European Union is considering retaliatory tariffs, Starmer indicated that Britain has not reached that stage and aims to avoid such measures. He plans to continue dialogue with President Trump to find a pragmatic solution that averts serious consequences.
