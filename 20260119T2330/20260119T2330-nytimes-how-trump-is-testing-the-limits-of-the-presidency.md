@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/interactive/2026/01/19/us/trump-presidential-power-iran-venezuela-maduro.html
+title: How Trump Is Testing the Limits of the Presidency
+publisher: nytimes
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+In his second term, Mr. Trump is asserting that presidents can take actions that were not previously understood to be within their authority, aiming to expand presidential power. He has systematically fired inspectors general without cause or notice, violating a law requiring 30 days' notice and a specific reason. Mr. Trump also attempted to fire members of independent agencies like the Federal Reserve and the National Labor Relations Board before their terms expired, challenging laws designed to protect their independence. Furthermore, he has directed the Justice Department to prosecute perceived political adversaries, a move that breaks with the norm of prosecutorial independence. The administration has also sought to control independent agencies' regulatory plans and challenged the meaning of the 14th Amendment regarding birthright citizenship. Mr. Trump has ordered military actions without congressional authorization, including operations in Venezuela and potential bombings in Iran, and has used federal troops domestically in ways that violate long-standing norms and laws. He has also attempted to assert control over state National Guards and used wartime deportation laws to remove migrants without due process. Additionally, his administration has canceled student visas and deported individuals for political expression, and imposed tariffs, claiming emergency powers despite Congress's constitutional authority over commerce. These actions collectively represent a significant push to redefine the boundaries of presidential authority.

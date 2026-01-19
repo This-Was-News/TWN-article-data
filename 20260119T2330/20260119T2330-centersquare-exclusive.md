@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/minnesota/article_c38a562d-7372-4808-9b69-cb28f12ce044.html
+title: 'Exclusive: St. Paul church congregant says ''we were surrounded'''
+publisher: centersquare
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A member of Cities Church in St. Paul described how protesters disrupted a Sunday service, stating that the individuals were already seated within the congregation before the service began, creating a feeling of being surrounded. The U.S. Department of Justice is investigating the protest, which was reportedly organized in part by Black Lives Matter Minnesota. Videos show protesters chanting slogans and calling congregants names. The disruption occurred after protesters discovered a pastor at the church works for U.S. Immigration and Customs Enforcement (ICE). The church is standing by the pastor, emphasizing their support is not political but based on him being their pastor and brother in Christ. The incident follows recent escalations in tensions between federal agents and community members, including two recent shootings involving ICE activity. Federal officials have indicated that violations of the Freedom of Access to Clinic Entrances (FACE) Act of 1994 could be pursued, which prohibits obstruction at places of worship. A congregant detailed the sequence of events, from the sermon starting to a woman standing up and accusing the church, followed by dozens of others joining in chanting. Children in the congregation reacted with fear, while some adults prayed or sang scripture. Republicans have criticized Democrats for their silence on the matter, while some journalists have defended the protesters' actions. The DOJ has vowed serious repercussions for those involved, promising the full force of the federal government. Despite the surreal experience of national attention and misrepresentations, the congregant expressed gratitude for the church's response of love, forgiveness, and prayer.
