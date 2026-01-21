@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/national/article_870e07bd-9a7a-4a6f-ad5f-37c610101bbc.html
+title: More states now offer school choice programs for families
+publisher: centersquare
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+National School Choice Week, observed from January 25-31, highlights the growing trend of states implementing school choice programs. These initiatives aim to provide families with more control over their children's education, offering options beyond traditional public schooling. Supporters emphasize increased parental autonomy, while opponents raise concerns about potential funding diversions from public schools and oversight issues. Federal efforts, like President Trump's "One Big Beautiful Bill Act," propose tax credits for donations to scholarship organizations. States such as Alabama, Arkansas, Georgia, Iowa, Louisiana, Mississippi, Tennessee, Texas, and Virginia have adopted education freedom initiatives, with many others considering similar measures. Idaho recently introduced the "Idaho Parental Choice Tax Credit," allowing parents to claim tax credits for educational expenses, including tuition and tutoring, with higher limits for students with disabilities. This program is seen as a move to empower families as the primary decision-makers in education. The push for school choice is occurring amidst national concerns about declining educational outcomes, with some studies showing lower proficiency rates in public school systems over time. Critics argue for "exit tickets" from underperforming public schools, while others advocate for flexible educational models like virtual, hybrid, and micro-schools to meet diverse student needs. Arizona's governor, however, has opposed the state's Empowerment Scholarship Account program due to insufficient oversight and concerns about taxpayer funds.

@@ -1,0 +1,10 @@
+---
+url: https://www.washingtonexaminer.com/policy/foreign-policy/4426837/lutnick-eu-trade-deal-trump-tariffs-greenland/
+title: "Lutnick says EU trade deal \u2018solid\u2019 despite new Trump tariffs and\
+  \ Greenland threats"
+publisher: washingtonexaminer
+usage: top
+initial_rank: 1
+---
+## Article summary
+Commerce Secretary Howard Lutnick expressed confidence that the significant trade agreement with the European Union, established last year, will endure despite current tensions. President Donald Trump's threats of tariffs against EU nations, in response to their opposition to the U.S. acquiring Greenland, have caused considerable anger within the bloc, with some advocating for the suspension of the trade deal. Lutnick, however, stated in a recent interview that he does not anticipate any trade agreements being overturned. He acknowledged that disagreements between allies are normal but believes President Trump will negotiate a resolution. Lutnick described the EU trade deal as solid and enduring. Europe has struggled to formulate a unified response to Trump's demands regarding Greenland, which have escalated to include the possibility of using force and imposing tariffs. Lutnick suggested that the issue will be resolved soon, with European nations likely to give it more consideration. While acknowledging that friends and allies can have disagreements, he expressed optimism that these will be worked out, deferring the matter to national security personnel. Despite some within the administration urging restraint, Trump's rhetoric has provoked significant outrage in Europe. The EU's options for retaliation are constrained by its reliance on the U.S. for security and economic stability, particularly after its disengagement from Russia. European Commission President Ursula von der Leyen warned of an "unflinching, united and proportional" response, hinting at the jeopardizing of the trade deal. She emphasized the importance of honoring agreements and suggested that the current rift indicates a growing consensus around European independence.

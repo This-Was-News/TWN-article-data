@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland
+title: Trump heads to Davos after upending European relations over Greenland
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+President Trump is heading to the World Economic Forum in Davos, where his aggressive foreign policy, particularly his pursuit of Greenland, is overshadowing his economic message. Days before the forum, Trump threatened tariffs on European nations for not supporting the U.S. acquisition of Greenland, drawing a unified response from those countries. His pursuit of Greenland was further complicated by revelations that he linked it to not receiving a Nobel Peace Prize and by text messages from NATO Secretary General Mark Rutte and French President Emmanuel Macron expressing confusion and opposition. Treasury Secretary Scott Bessent defended the Greenland acquisition, citing its growing attractiveness and the need to prevent conflict. Meanwhile, Canadian Prime Minister Mark Carney delivered a speech criticizing the use of economic integration as a weapon and expressing opposition to tariffs over Greenland. Despite the controversy, Trump indicated a slight de-escalation in rhetoric, suggesting a positive outcome for all. Beyond Greenland, Trump is also set to announce a "Board of Peace" initiative aimed at ending the Israel-Hamas conflict, which has faced criticism for its proposed membership fees and Trump's permanent chairmanship. French President Macron has stated he will not join this board, and Trump has invited Russian President Putin. Trump's main message in Davos is expected to focus on the strength of the U.S. economy, with an economic advisor also mentioning a new housing policy. The theme of this year's Davos conference is "A Spirit of Dialogue."
