@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/texas/article_5953f28e-44ea-44c8-bed2-3b752858e8ad.html
+title: Abbott unloads on CAIR, chastises public schools
+publisher: centersquare
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Texas Governor Greg Abbott has issued a directive to a Houston area school district, demanding the cancellation of a planned Islamic Games event and strongly criticizing the Council on American-Islamic Relations (CAIR). Abbott declared that any partnership with CAIR is illegal, citing state law that prohibits illegal activities on school property and taxpayer-funded facilities. He emphasized that radical Islamic extremism is not welcome in Texas schools. The controversy stems from the Islamic Games scheduling events at public school facilities in Dallas and Houston, with CAIR-New Jersey listed as a sponsor. Abbott had previously designated CAIR as a Foreign Terrorist Organization (FTO) last November, a designation that CAIR denies and is contesting legally. While one school district, Grapevine-Colleyville ISD, cancelled its event after learning of the FTO designation, Cypress-Fairbanks Independent School District had not yet done so. Abbott's letter to Cypress-Fairbanks ISD also highlighted CAIR NJ's social media posts that he characterized as praising Hamas's attacks and promoting anti-Semitic sentiments. He further accused CAIR NJ of viewing public schools as a battleground for promoting terrorism. Abbott has initiated investigations into CAIR and affiliated entities in Texas and called for the suspension of CAIR's tax-exempt status. He warned public school districts that noncompliance with his order would lead to legal action, including investigative demands and injunctions to prevent the hosting of events sponsored by designated terror organizations.
