@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/news/justice/4430211/jack-smith-dodges-questions-cassidy-hutchinson-witness-credibility/
+title: Jack Smith dodges questions on Cassidy Hutchinson witness credibility
+publisher: washingtonexaminer
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+During a House Judiciary Committee hearing, former special counsel Jack Smith repeatedly avoided directly addressing questions about the credibility of January 6 committee witness Cassidy Hutchinson. Committee Chairman Jim Jordan pressed Smith regarding Hutchinson's explosive claim that President Trump lunged for the steering wheel of his Secret Service vehicle on January 6, 2021. Smith acknowledged that Hutchinson did not witness the event firsthand and that her account was secondhand hearsay. Jordan highlighted that two firsthand witnesses, Tony Ornato and Bobby Engel, publicly denied the incident occurred. Smith admitted that other witnesses interviewed by his team did not confirm Hutchinson's version of events. Jordan referenced Smith's own deposition testimony where he stated Hutchinson's allegations would likely be inadmissible at trial due to being hearsay. He also cited reporting that Smith agreed with his team that Hutchinson would be a weak trial witness after Trump administration officials disputed her claims. Despite these points, Smith stated he had made no final determinations about potential witnesses. The exchange highlighted Republican criticism that the January 6 investigation prioritized dramatic, unverified testimony. Hutchinson's steering-wheel allegation was cited numerous times in the select committee's final report, despite denials from firsthand witnesses and Smith's own assessment of its credibility. Smith's reluctance to directly address Hutchinson's credibility issues led GOP lawmakers to argue that his investigations were partisan.
