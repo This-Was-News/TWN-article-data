@@ -1,0 +1,9 @@
+---
+url: https://www.nytimes.com/live/2026/01/22/us/trump-davos-news
+title: "Trump Hosts \u2018Board of Peace\u2019 Signing Ceremony in Davos"
+publisher: nytimes
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+A recent poll indicates that less than a third of voters believe the country is better off a year into President Trump's term, with a significant majority feeling he has focused on the wrong issues. The survey reveals widespread disapproval of his handling of key areas like the economy, immigration, and foreign policy, with 51 percent of Americans stating Trump's policies have made their lives less affordable. The poll also highlights the deep partisan divide, with many voters seeing Trump as on track to be historically bad or good. His overall job approval rating stands at 40 percent, down from previous months, while his disapproval rating has risen to 56 percent. Despite low approval, the share of voters who feel the country is on the right track has remained stable, largely due to strong Republican support, though some softening is noted regarding foreign affairs and cost of living. Independent voters show a clear preference for Democratic candidates in hypothetical matchups, and a majority believe the country is worse off now than a year ago. While voters do not view Trump's age as a significant hindrance, the economy and cost of living remain the top concerns for Americans. Regarding immigration, while half of voters support deportations and border handling, a larger majority criticize the tactics of ICE. Many Republicans express disappointment with Trump's focus on foreign affairs over domestic issues, and a significant portion of voters oppose his widespread tariffs. Despite these concerns, a majority of voters feel Trump has accomplished about what they expected or more, though partisan views on the quality of these accomplishments differ sharply.
