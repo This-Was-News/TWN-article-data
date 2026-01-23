@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/national/article_11d7f3e7-7af1-48c3-99e8-101c0883303f.html
+title: HHS won't use taxpayer dollars for research using aborted fetal tissue
+publisher: centersquare
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+The U.S. Department of Health and Human Services (HHS) has announced a new policy prohibiting the use of taxpayer dollars for research involving human fetal tissue obtained from elective abortions. This ban applies to federally funded research conducted by the National Institutes of Health (NIH). Researchers and institutions will not receive NIH funding if their work involves the study, analysis, or use of primary human fetal tissue, cells, and derivatives, or human fetal primary cell cultures sourced from elective abortions. However, already established human fetal cell lines, such as HEK 293, are exempt from this prohibition. HHS Secretary Robert F. Kennedy Jr. stated that the agency is shifting to alternative research methods supported by science and ethics. HHS Press Secretary Emily Hilliard clarified that 'elective abortions' refers to abortions performed on demand, not those medically necessary. This announcement coincided with the National March for Life, where Vice President J.D. Vance lauded the Trump administration's decision to reinstate a ban on fetal tissue in federal research. The administration has also initiated a fraud investigation into 38 Planned Parenthood affiliates, alleging they may have improperly received $88 million in COVID-19 era Paycheck Protection Program funds by misrepresenting their organizational size. The Small Business Administration Administrator stated that these affiliates were ineligible for such funds and that steps will be taken to recover the money. Planned Parenthood has denied these allegations, characterizing them as politically motivated.
