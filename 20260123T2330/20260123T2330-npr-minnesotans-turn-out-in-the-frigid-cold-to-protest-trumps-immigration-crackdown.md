@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests
+title: Minnesotans turn out in the frigid cold to protest Trump's immigration crackdown
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Minnesotans braved subzero temperatures on January 23, 2026, to protest the Trump administration's aggressive immigration crackdown. The "ICE Out of Minnesota: A Day of Truth and Freedom" event included a march and rally in Minneapolis, with businesses across the state closing in solidarity. Protesters chanted "ICE out" and displayed signs expressing support for immigrants. Demonstrations also occurred at the Minneapolis-St. Paul International Airport, leading to the arrest of approximately 100 clergy members for trespassing and failure to comply. Organizers demanded the removal of immigration officers from the state, a halt to ICE funding, cessation of business relations with ICE, and accountability for an ICE officer involved in a death. Community resistance efforts include providing food to those in fear, guarding schools and businesses, and monitoring immigration officer movements. Rev. Susanne Intriligator noted the community's strong resistance efforts. Residents have experienced fear and anxiety due to escalated tactics, including tear gas and random stops. The presence of 3,000 federal immigration officers has led to accusations of terrorizing communities and tearing families apart. Incidents reported include a family being tear-gassed, a 5-year-old boy and his father detained, and a U.S. citizen of Somali-American descent being racially profiled and detained. Vice President JD Vance visited Minneapolis to support ICE, while federal officials arrested three protesters involved in disrupting a church service. The Pentagon has placed troops on standby, potentially for invoking the Insurrection Act.
