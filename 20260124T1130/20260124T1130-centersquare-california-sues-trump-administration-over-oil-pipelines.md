@@ -1,0 +1,9 @@
+---
+url: https://www.thecentersquare.com/california/article_a1eb6871-2f03-4907-b01b-c66db6cc11ce.html
+title: California sues Trump administration over oil pipelines
+publisher: centersquare
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+California is suing the Trump administration over its decision to federalize two state oil pipelines and allow Sable Offshore Corp. to resume pumping oil through them. Attorney General Rob Bonta announced the lawsuit, filed in the U.S. Court of Appeals for the 9th Circuit, citing environmental risks to coastal tourism. The lawsuit challenges the Pipeline and Hazardous Material Safety Administration's (PHMSA) re-designation of the pipelines from intrastate to interstate, placing them under federal oversight. PHMSA defended its decision, stating the pipeline was historically regulated as interstate and that restarting it would provide needed American energy to California, which has high gas prices. The agency aims for a swift resolution to provide regulatory certainty and affordable energy. Bonta argued that the national energy emergency cited by President Trump does not exist and that PHMSA violated the Administrative Procedure Act. The pipelines have been closed since a 2015 oil spill that released 21,000 gallons of oil into the ocean. A nonpartisan think tank described the federal actions as a concerning federalism issue, asserting that state policy decisions should remain with the states. Sable Offshore Corp. is also seeking to restart oil platforms off the Santa Barbara coast, a move opposed by some due to environmental risks, while others believe technology has improved safety and that offshore drilling could boost energy independence and lower prices. This lawsuit is one of many California has filed against the Trump administration.
