@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2026/01/23/nx-s1-5639914/trump-pushes-his-power-to-new-heights-with-help-from-loyal-lieutenants
+title: Trump pushes his power to new heights with help from loyal lieutenants
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+President Trump's second term in the White House is marked by a significant expansion of his power, largely due to a shift in his administration's approach to governance. Unlike his first term, Trump now benefits from a team of "loyal lieutenants" who are primarily focused on facilitating his vision rather than challenging or constraining his impulses. This is a departure from his previous administration, where figures like former Chief of Staff John Kelly and former Defense Secretary Jim Mattis acted as checks on his power. The current White House Chief of Staff, Susie Wiles, explicitly stated her role is to "make him the best he can be," reflecting a strategy of unhindered execution of Trump's agenda. This approach has allowed Trump to govern "by whim" and "unconstrained," as noted by experts. He has pushed the boundaries of executive power, signing more executive orders in his first year of his second term than in his entire first term. Actions include deploying the National Guard, threatening the Insurrection Act, ordering prosecutions of opponents, and imposing tariffs without congressional approval. Political scientists observe that Trump is "pushing on an open door," further leveraging the established power of the presidency. While the Supreme Court may limit some of these actions, Trump has already achieved significant victories. However, this unchecked power has come at a political cost, with his approval ratings at a low point among independent voters, who believe he has focused on the wrong priorities.

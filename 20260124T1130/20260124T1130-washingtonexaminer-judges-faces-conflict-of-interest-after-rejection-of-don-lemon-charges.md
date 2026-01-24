@@ -1,0 +1,9 @@
+---
+url: https://www.washingtonexaminer.com/news/justice/4431884/judge-rejection-don-lemon-charges-conflict-interest-concerns/
+title: "Judge\u2019s faces conflict of interest after rejection of Don Lemon charges"
+publisher: washingtonexaminer
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+A federal magistrate judge's decision to reject criminal charges against former CNN broadcaster Don Lemon has raised concerns about a potential conflict of interest. U.S. Magistrate Judge Douglas Micko declined to approve a criminal complaint sought by federal prosecutors related to a protest at a St. Paul church. This decision is unusual, as magistrate judges typically approve such complaints at the probable cause stage. The scrutiny intensified when it was reported that Judge Micko's wife, Caitlin Micko, is an assistant attorney general in the office of Minnesota Attorney General Keith Ellison. Ellison, a Democrat, has publicly criticized the Justice Department's legal theory in the case, arguing the Freedom of Access to Clinic Entrances (FACE) Act is being misapplied. Concerns have been raised that this situation creates an appearance of partiality, given that the state's top law enforcement official, who appears to employ the judge's wife, has already voiced an opinion on the central legal issue. Despite the rejection of the complaint, the Justice Department stated it will continue to pursue those involved in the protest. Assistant Attorney General Harmeet Dhillon indicated that the ruling does not end Lemon's legal exposure and that new charges could be brought or the decision appealed. The DOJ has arrested three other suspects in connection with the church protest. Don Lemon maintains his actions were journalistic, while his attorney argues they were protected by the First Amendment.

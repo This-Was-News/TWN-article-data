@@ -1,0 +1,9 @@
+---
+url: https://apnews.com/article/us-military-middle-east-iran-protests-b7a56659d708f2f11f66a18135f44c40
+title: A look at the US military assets heading to the Middle East
+publisher: ap
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+The Pentagon is deploying U.S. military assets to the Middle East, including an aircraft carrier group and thousands of troops, as President Donald Trump keeps the possibility of strikes on Iran open amid its crackdown on protests. Trump stated that the assets were being sent "just in case" and that their deployment might avert the need for their use. This move follows Trump's threats of military action if Iran proceeded with mass executions or killed peaceful demonstrators, though he recently claimed Iran had halted the hangings of detained protesters, a claim Iran's top prosecutor called false. The USS Abraham Lincoln aircraft carrier and three destroyers have departed the South China Sea for the Indian Ocean, and upon arrival in the region, they will join other U.S. Navy ships already present. This deployment brings approximately 5,700 additional service members to the area. The U.S. has also increased its presence with Air Force F-15E Strike Eagles and noted that the U.K. has deployed its Typhoon fighter jets to Qatar. Flight-tracking data indicates dozens of U.S. military cargo planes are also heading to the region. These actions are reminiscent of the previous year when the U.S. moved air defense hardware in anticipation of an Iranian counterattack. Iran has been experiencing nationwide protests since late December, sparked by economic issues, leading to a deadly crackdown by the government, with activists reporting thousands of deaths and detentions. Iranian officials have indicated that detained protesters would face fast trials and executions, while also warning against U.S. or Israeli intervention.
